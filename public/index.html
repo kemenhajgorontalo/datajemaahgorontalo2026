@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Identitas Jemaah Gorontalo</title>
+    <meta
+      name="description"
+      content="Portal identitas jemaah Gorontalo untuk Kloter 28 dan Kloter 30."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      href="./assets/logo-kementerian-haji-dan-umrah.png"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero__copy">
+          <div class="hero__brand">
+            <img
+              class="hero__logo"
+              src="./assets/logo-kementerian-haji-dan-umrah.png"
+              alt="Logo Kementerian Haji dan Umrah"
+            />
+            <div class="hero__brand-copy">
+              <p class="eyebrow">Portal Internal Jemaah</p>
+              <h1>Identitas Jemaah Gorontalo</h1>
+              <p class="org-name">Kantor Kementerian Haji dan Umrah Provinsi Gorontalo</p>
+              <p class="hero__lead">
+                Pusat data statis untuk Kloter 28 dan Kloter 30 dengan akses cepat ke biodata,
+                foto, kartu jemaah, dan dokumen visa per individu.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="hero__stats" id="hero-stats"></div>
+      </header>
+
+      <main class="workspace">
+        <section class="toolbar card hidden" id="toolbar-section">
+          <div class="toolbar__row toolbar__row--search">
+            <label class="searchbox">
+              <span class="searchbox__label">Pencarian cepat</span>
+              <input
+                id="search-input"
+                type="search"
+                placeholder="Cari nama, nomor porsi, paspor, visa, kabupaten, atau status"
+              />
+            </label>
+          </div>
+          <div class="quick-search hidden" id="quick-search" aria-live="polite">
+            <div class="quick-search__header">
+              <div>
+                <h3>Hasil tercepat</h3>
+                <p>Pilih salah satu hasil untuk membuka detail jemaah langsung.</p>
+              </div>
+              <span class="quick-search__count" id="quick-search-count"></span>
+            </div>
+            <div class="quick-search__list" id="quick-search-list"></div>
+          </div>
+          <div class="toolbar__row toolbar__row--filters">
+            <label>
+              <span>Kloter</span>
+              <select id="filter-kloter"></select>
+            </label>
+            <label>
+              <span>Rombongan</span>
+              <select id="filter-rombongan"></select>
+            </label>
+            <label>
+              <span>Regu</span>
+              <select id="filter-regu"></select>
+            </label>
+            <label>
+              <span>Status</span>
+              <select id="filter-status"></select>
+            </label>
+            <label>
+              <span>Kabupaten/Kota</span>
+              <select id="filter-kabkota"></select>
+            </label>
+          </div>
+          <div class="toolbar__row toolbar__row--meta">
+            <div class="result-meta">
+              <strong id="result-count">0</strong>
+              <span>jemaah cocok dengan filter</span>
+            </div>
+            <button id="reset-filters" class="secondary-button" type="button">
+              Reset filter
+            </button>
+          </div>
+        </section>
+
+        <section class="loading-panel card" id="loading-panel" aria-live="polite">
+          <div class="loading-panel__pulse" aria-hidden="true"></div>
+          <div class="loading-panel__copy">
+            <span class="loading-badge">Memuat Data</span>
+            <h2>Menyiapkan identitas jemaah Gorontalo</h2>
+            <p>
+              Sistem sedang mengambil data JSON, foto, kartu jemaah, dan metadata kloter agar
+              pencarian tampil lengkap.
+            </p>
+          </div>
+        </section>
+
+        <section class="content-grid hidden" id="content-grid">
+          <div class="list-panel card">
+            <div class="panel-header">
+              <h2>Daftar Jemaah</h2>
+              <p>Ketuk kartu jemaah untuk membuka detail lengkap dalam modal.</p>
+            </div>
+            <div class="person-list" id="person-list"></div>
+            <div class="empty-state hidden" id="list-empty">
+              <h3>Tidak ada data yang cocok</h3>
+              <p>Ubah kata kunci atau filter untuk menampilkan jemaah lain.</p>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <div class="modal hidden" id="detail-modal" aria-hidden="true">
+      <div class="modal__backdrop" id="modal-backdrop"></div>
+      <div class="modal__dialog" role="dialog" aria-modal="true" aria-labelledby="detail-name">
+        <button class="modal__close" id="modal-close" type="button" aria-label="Tutup detail">
+          ×
+        </button>
+        <div class="detail hidden" id="detail-content">
+          <div class="detail__top">
+            <div class="detail__identity">
+              <p class="detail__kloter" id="detail-kloter"></p>
+              <h2 id="detail-name"></h2>
+              <div class="detail__chips" id="detail-chips"></div>
+            </div>
+            <div class="detail__assets" id="detail-assets"></div>
+          </div>
+
+          <div class="detail__profile">
+            <div class="photo-card">
+              <img id="detail-photo" alt="Foto jemaah" />
+            </div>
+            <div class="profile-highlights" id="profile-highlights"></div>
+          </div>
+
+          <div class="data-table">
+            <h3>Data Lengkap</h3>
+            <div class="field-grid" id="field-grid"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
