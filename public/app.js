@@ -72,10 +72,20 @@ const filterControls = [
   elements.resetButton,
 ];
 
+const mobileSearchGate = window.matchMedia("(max-width: 760px)");
+
 function setControlsDisabled(disabled) {
   filterControls.forEach((control) => {
     control.disabled = disabled;
   });
+}
+
+function shouldGateListOnMobile() {
+  return mobileSearchGate.matches;
+}
+
+function isSearchIdleOnMobile() {
+  return shouldGateListOnMobile() && !state.filters.query.trim();
 }
 
 function renderLoadingStats() {
@@ -196,6 +206,12 @@ function getQuickResults() {
 
 function applyFilters() {
   const query = normalize(state.filters.query);
+  if (isSearchIdleOnMobile()) {
+    state.filtered = [];
+    state.selectedId = null;
+    return;
+  }
+
   state.filtered = state.people.filter((person) => {
     if (state.filters.kloter !== "all" && person.kloterCode !== state.filters.kloter) return false;
     if (state.filters.rombongan !== "all" && person.rombongan !== state.filters.rombongan) return false;
@@ -317,6 +333,16 @@ function renderList() {
   elements.personList.innerHTML = "";
 
   if (state.filtered.length === 0) {
+    const title = elements.listEmpty.querySelector("h3");
+    const description = elements.listEmpty.querySelector("p");
+    if (isSearchIdleOnMobile()) {
+      title.textContent = "Mulai dengan pencarian";
+      description.textContent =
+        "Pada tampilan mobile, daftar jemaah akan muncul setelah Anda mengetik di kolom pencarian cepat.";
+    } else {
+      title.textContent = "Tidak ada data yang cocok";
+      description.textContent = "Ubah kata kunci atau filter untuk menampilkan jemaah lain.";
+    }
     elements.listEmpty.classList.remove("hidden");
     return;
   }
@@ -518,6 +544,19 @@ function attachEvents() {
       openDetailModal();
     }
   });
+
+  const handleViewportChange = () => {
+    applyFilters();
+    renderQuickSearch();
+    renderList();
+    renderDetail();
+  };
+
+  if (typeof mobileSearchGate.addEventListener === "function") {
+    mobileSearchGate.addEventListener("change", handleViewportChange);
+  } else if (typeof mobileSearchGate.addListener === "function") {
+    mobileSearchGate.addListener(handleViewportChange);
+  }
 
   elements.modalClose.addEventListener("click", () => closeDetailModal());
   elements.modalBackdrop.addEventListener("click", () => closeDetailModal());

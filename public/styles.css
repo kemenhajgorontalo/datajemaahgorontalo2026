@@ -179,6 +179,19 @@ body::before {
   gap: 24px;
 }
 
+.site-footer {
+  margin-top: 24px;
+  padding: 18px 20px 6px;
+  text-align: center;
+  color: var(--muted);
+}
+
+.site-footer p {
+  margin: 0;
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+
 .toolbar {
   padding: 20px;
 }
@@ -295,9 +308,41 @@ body::before {
   margin-top: 16px;
 }
 
+.toolbar__row--search {
+  position: relative;
+  padding: 18px;
+  border-radius: 24px;
+  border: 1px solid rgba(94, 53, 31, 0.34);
+  background:
+    radial-gradient(circle at top right, rgba(255, 220, 188, 0.28), transparent 32%),
+    radial-gradient(circle at bottom left, rgba(255, 188, 132, 0.16), transparent 30%),
+    linear-gradient(135deg, #6b3e25 0%, #8a5a38 52%, #b67145 100%);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 245, 236, 0.22),
+    0 20px 36px rgba(91, 54, 31, 0.2);
+}
+
+.toolbar__row--search::after {
+  content: "Fitur utama";
+  position: absolute;
+  top: 14px;
+  right: 16px;
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: rgba(255, 247, 239, 0.18);
+  color: #fff7ef;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  border: 1px solid rgba(255, 247, 239, 0.16);
+}
+
 .searchbox {
   display: grid;
-  gap: 8px;
+  gap: 10px;
   width: 100%;
 }
 
@@ -306,6 +351,14 @@ body::before {
   font-size: 0.88rem;
   font-weight: 600;
   color: var(--muted);
+}
+
+.searchbox__label {
+  color: #fff7ef;
+  font-size: 0.96rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  text-shadow: 0 1px 0 rgba(63, 32, 16, 0.18);
 }
 
 .toolbar input,
@@ -320,10 +373,38 @@ body::before {
   color: var(--text);
 }
 
+.toolbar__row--search #search-input {
+  min-height: 64px;
+  padding: 18px 22px 18px 56px;
+  border: 1px solid rgba(107, 62, 37, 0.28);
+  border-radius: 22px;
+  background:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 24 24' fill='none' stroke='%238a5a38' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cpath d='m20 20-3.5-3.5'/%3E%3C/svg%3E")
+      20px center / 22px 22px no-repeat,
+    linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 248, 242, 0.98));
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.9),
+    0 14px 28px rgba(63, 32, 16, 0.14);
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.toolbar__row--search #search-input::placeholder {
+  color: rgba(116, 86, 70, 0.82);
+}
+
 .toolbar input:focus,
 .toolbar select:focus {
   outline: 2px solid rgba(138, 90, 56, 0.18);
   border-color: var(--accent);
+}
+
+.toolbar__row--search #search-input:focus {
+  outline: none;
+  border-color: rgba(182, 113, 69, 0.72);
+  box-shadow:
+    0 0 0 4px rgba(255, 236, 220, 0.26),
+    0 20px 34px rgba(63, 32, 16, 0.22);
 }
 
 .quick-search {
@@ -799,6 +880,20 @@ body::before {
     padding-top: 16px;
   }
 
+  .site-footer {
+    margin-top: 18px;
+    padding: 8px 4px 2px;
+  }
+
+  .site-footer p {
+    font-size: 0.82rem;
+    line-height: 1.5;
+  }
+
+  .hero__stats {
+    display: none;
+  }
+
   .hero__brand {
     grid-template-columns: 1fr;
     gap: 16px;
@@ -873,6 +968,31 @@ body::before {
   .quick-search {
     padding: 14px;
     gap: 12px;
+  }
+
+  .toolbar__row--search {
+    padding: 14px;
+    border-radius: 20px;
+  }
+
+  .toolbar__row--search::after {
+    top: 12px;
+    right: 12px;
+    padding: 5px 8px;
+    font-size: 0.64rem;
+  }
+
+  .searchbox__label {
+    font-size: 0.9rem;
+  }
+
+  .toolbar__row--search #search-input {
+    min-height: 58px;
+    padding: 16px 18px 16px 50px;
+    background-position: 18px center;
+    background-size: 20px 20px;
+    border-radius: 18px;
+    font-size: 0.95rem;
   }
 
   .quick-search__header {
