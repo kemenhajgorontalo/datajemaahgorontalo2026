@@ -420,15 +420,30 @@ function renderDetail() {
   });
 
   elements.fieldGrid.innerHTML = "";
+  const tableWrap = document.createElement("div");
+  tableWrap.className = "detail-table";
+
+  const table = document.createElement("table");
+  table.className = "detail-table__grid";
+
+  const tbody = document.createElement("tbody");
   Object.entries(person.fields).forEach(([key, value]) => {
-    const field = document.createElement("div");
-    field.className = "field";
-    field.innerHTML = `
-      <span>${FIELD_LABELS[key] || key}</span>
-      <strong>${value || "-"}</strong>
-    `;
-    elements.fieldGrid.appendChild(field);
+    const row = document.createElement("tr");
+
+    const labelCell = document.createElement("th");
+    labelCell.scope = "row";
+    labelCell.textContent = FIELD_LABELS[key] || key;
+
+    const valueCell = document.createElement("td");
+    valueCell.textContent = value || "-";
+
+    row.append(labelCell, valueCell);
+    tbody.appendChild(row);
   });
+
+  table.appendChild(tbody);
+  tableWrap.appendChild(table);
+  elements.fieldGrid.appendChild(tableWrap);
 }
 
 function updateFromInputs() {
