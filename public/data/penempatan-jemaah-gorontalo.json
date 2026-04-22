@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "document": {
+    "title": "Pemberitahuan Penempatan Jemaah Haji Provinsi Gorontalo",
+    "sourceFileName": "Pemberitahuan Penempatan Jemaah Haji Provinsi Gorontalo.pdf",
+    "documentType": "pemberitahuan",
+    "nomorSurat": "S.188/KW.26/2026",
+    "tanggalSurat": "2026-04-22",
+    "tanggalSuratDisplay": "22 April 2026",
+    "tempatDitetapkan": "Gorontalo",
+    "lampiran": "1 (satu) lembar",
+    "pokok": "Pemberitahuan",
+    "recipient": "Kepala Kantor Kementerian Haji dan Umrah Kabupaten/Kota Se Provinsi Gorontalo",
+    "issuingOrganization": "Kantor Wilayah Kementerian Haji dan Umrah Provinsi Gorontalo",
+    "organizationHeader": {
+      "name": "Kementerian Haji dan Umrah Republik Indonesia",
+      "office": "Kantor Wilayah Kementerian Haji dan Umrah Provinsi Gorontalo",
+      "address": "Jalan Poowo Kelurahan Bulotadaa Barat Kecamatan Sipatana Kota Gorontalo",
+      "email": "gorontalo@haji.go.id"
+    },
+    "reference": {
+      "nomorKeputusan": "14",
+      "tahunKeputusan": "2026",
+      "tentang": "Penempatan Jemaah Haji Indonesia di Arafah, Mina, Makkah dan Madinah Tahun 1447 H / 2026 M"
+    },
+    "signatory": {
+      "name": "Dr. H. Mansur Basir, MH"
+    }
+  },
+  "kloters": [
+    {
+      "code": "28",
+      "label": "28 UPG",
+      "embarkasi": "UPG",
+      "jumlahJemaah": 393,
+      "placements": {
+        "minaArea": {
+          "sectionCode": "A",
+          "title": "Penempatan Jemaah Haji Provinsi Gorontalo di area Mina",
+          "nomorBoksGateMina": "98/15",
+          "zona": 4
+        },
+        "tendaMinaArafah": {
+          "sectionCode": "B",
+          "title": "Penempatan Jemaah Haji Provinsi Gorontalo di Tenda Mina dan Arafah",
+          "nomorBoksGate": "98/15",
+          "nomorJalan": "608",
+          "nomorTenda": "20869",
+          "zonaMina": 4,
+          "titikLokasiMina": {
+            "gmapsQuery": "21.41518922,39.8952768",
+            "latitude": 21.41518922,
+            "longitude": 39.8952768
+          },
+          "titikLokasiArafah": {
+            "gmapsQuery": "21.3681781247960042,39.98778319802834",
+            "latitude": 21.3681781247960042,
+            "longitude": 39.98778319802834
+          }
+        },
+        "akomodasiMakkah": {
+          "sectionCode": "C",
+          "title": "Akomodasi Jemaah Haji Provinsi Gorontalo di Makkah",
+          "kapasitasTotal": 393,
+          "accommodations": [
+            {
+              "sequence": 1,
+              "noHotel": "516",
+              "namaHotel": "Al Saad Flower Hotel 1",
+              "kapasitas": 385
+            },
+            {
+              "sequence": 2,
+              "noHotel": "515",
+              "namaHotel": "Al Massa Al Rawdah Hotel",
+              "kapasitas": 8
+            }
+          ]
+        },
+        "akomodasiMadinah": {
+          "sectionCode": "D",
+          "title": "Akomodasi Jemaah Haji Provinsi Gorontalo di Madinah",
+          "kapasitasTotal": 393,
+          "accommodations": [
+            {
+              "sequence": 1,
+              "noHotel": "115",
+              "namaHotel": "Taiba Front Hotel",
+              "kapasitas": 393
+            }
+          ]
+        }
+      }
+    },
+    {
+      "code": "30",
+      "label": "30 UPG",
+      "embarkasi": "UPG",
+      "jumlahJemaah": 218,
+      "placements": {
+        "minaArea": {
+          "sectionCode": "A",
+          "title": "Penempatan Jemaah Haji Provinsi Gorontalo di area Mina",
+          "nomorBoksGateMina": "97/18",
+          "zona": 4
+        },
+        "tendaMinaArafah": {
+          "sectionCode": "B",
+          "title": "Penempatan Jemaah Haji Provinsi Gorontalo di Tenda Mina dan Arafah",
+          "nomorBoksGate": "97/18",
+          "nomorJalan": "616",
+          "nomorTenda": "20863",
+          "zonaMina": 4,
+          "titikLokasiMina": {
+            "gmapsQuery": "21.4151154,39.89859112",
+            "latitude": 21.4151154,
+            "longitude": 39.89859112
+          },
+          "titikLokasiArafah": {
+            "gmapsQuery": "21.36901461224573,39.983451524410384",
+            "latitude": 21.36901461224573,
+            "longitude": 39.983451524410384
+          }
+        },
+        "akomodasiMakkah": {
+          "sectionCode": "C",
+          "title": "Akomodasi Jemaah Haji Provinsi Gorontalo di Makkah",
+          "kapasitasTotal": 218,
+          "accommodations": [
+            {
+              "sequence": 1,
+              "noHotel": "502",
+              "namaHotel": "Safwat Al Sharooq",
+              "kapasitas": 218
+            }
+          ]
+        },
+        "akomodasiMadinah": {
+          "sectionCode": "D",
+          "title": "Akomodasi Jemaah Haji Provinsi Gorontalo di Madinah",
+          "kapasitasTotal": 218,
+          "accommodations": [
+            {
+              "sequence": 1,
+              "noHotel": "108",
+              "namaHotel": "Golden Tulip Al Zahabi Hotel",
+              "kapasitas": 200
+            },
+            {
+              "sequence": 2,
+              "noHotel": "121",
+              "namaHotel": "Al Anshar Golden Tulip",
+              "kapasitas": 18
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

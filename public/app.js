@@ -18,6 +18,9 @@ const FIELD_LABELS = {
 
 const state = {
   site: null,
+  placementGuide: null,
+  peopleByKloter: new Map(),
+  loadedKloterCodes: new Set(),
   people: [],
   filtered: [],
   selectedId: null,
@@ -59,6 +62,10 @@ const elements = {
   detailAssets: document.getElementById("detail-assets"),
   detailPhoto: document.getElementById("detail-photo"),
   profileHighlights: document.getElementById("profile-highlights"),
+  placementSection: document.getElementById("placement-section"),
+  placementSource: document.getElementById("placement-source"),
+  placementGrid: document.getElementById("placement-grid"),
+  placementNote: document.getElementById("placement-note"),
   fieldGrid: document.getElementById("field-grid"),
 };
 
@@ -73,6 +80,10 @@ const filterControls = [
 ];
 
 const mobileSearchGate = window.matchMedia("(max-width: 760px)");
+const KLOTER_DATA_PATHS = {
+  "28": "./data/kloter-28.json",
+  "30": "./data/kloter-30.json",
+};
 
 function setControlsDisabled(disabled) {
   filterControls.forEach((control) => {
@@ -86,6 +97,65 @@ function shouldGateListOnMobile() {
 
 function isSearchIdleOnMobile() {
   return shouldGateListOnMobile() && !state.filters.query.trim();
+}
+
+function hasActiveFilters() {
+  return Boolean(
+    state.filters.query.trim() ||
+      state.filters.kloter !== "all" ||
+      state.filters.rombongan !== "all" ||
+      state.filters.regu !== "all" ||
+      state.filters.status !== "all" ||
+      state.filters.kabKota !== "all"
+  );
+}
+
+function shouldHoldInitialDesktopList() {
+  return !shouldGateListOnMobile() && !hasActiveFilters();
+}
+
+function rebuildPeopleCollection() {
+  const orderedCodes = Object.keys(KLOTER_DATA_PATHS).filter((code) => state.loadedKloterCodes.has(code));
+  state.people = orderedCodes.flatMap((code) => state.peopleByKloter.get(code) || []);
+}
+
+function buildFilterValuesFromSite() {
+  const summaries = state.site?.kloters || [];
+  const uniqueSorted = (values, numeric = false) =>
+    [...new Set(values.filter(Boolean))].sort((a, b) =>
+      numeric ? Number(a) - Number(b) : String(a).localeCompare(String(b))
+    );
+
+  return {
+    kloters: uniqueSorted(summaries.map((item) => item.code), true),
+    rombongan: uniqueSorted(summaries.flatMap((item) => item.rombongan || []), true),
+    regu: uniqueSorted(summaries.flatMap((item) => item.reguKloter || []), true),
+    status: uniqueSorted(summaries.flatMap((item) => item.statusJemaah || [])),
+    kabKota: uniqueSorted(summaries.flatMap((item) => item.kabKota || [])),
+  };
+}
+
+async function loadKloterData(code) {
+  if (state.loadedKloterCodes.has(code)) return;
+  if (!KLOTER_DATA_PATHS[code]) return;
+  const response = await fetch(KLOTER_DATA_PATHS[code]);
+  if (!response.ok) {
+    throw new Error(`Gagal memuat data kloter ${code}`);
+  }
+  const payload = await response.json();
+  state.peopleByKloter.set(code, payload.people || []);
+  state.loadedKloterCodes.add(code);
+  rebuildPeopleCollection();
+}
+
+async function ensureRelevantPeopleLoaded() {
+  if (isSearchIdleOnMobile()) return;
+  if (!hasActiveFilters()) return;
+
+  const codesToLoad =
+    state.filters.kloter !== "all" ? [state.filters.kloter] : Object.keys(KLOTER_DATA_PATHS);
+
+  await Promise.all(codesToLoad.map((code) => loadKloterData(code)));
 }
 
 function renderLoadingStats() {
@@ -212,6 +282,12 @@ function applyFilters() {
     return;
   }
 
+  if (shouldHoldInitialDesktopList()) {
+    state.filtered = [];
+    state.selectedId = null;
+    return;
+  }
+
   state.filtered = state.people.filter((person) => {
     if (state.filters.kloter !== "all" && person.kloterCode !== state.filters.kloter) return false;
     if (state.filters.rombongan !== "all" && person.rombongan !== state.filters.rombongan) return false;
@@ -260,7 +336,7 @@ function renderHeroStats() {
 }
 
 function renderFilters() {
-  const values = buildFilterValues(state.people);
+  const values = buildFilterValuesFromSite();
   renderSelect(elements.filterKloter, values.kloters, state.filters.kloter, "Semua Kloter");
   renderSelect(elements.filterRombongan, values.rombongan, state.filters.rombongan, "Semua Rombongan");
   renderSelect(elements.filterRegu, values.regu, state.filters.regu, "Semua Regu");
@@ -339,6 +415,10 @@ function renderList() {
       title.textContent = "Mulai dengan pencarian";
       description.textContent =
         "Pada tampilan mobile, daftar jemaah akan muncul setelah Anda mengetik di kolom pencarian cepat.";
+    } else if (shouldHoldInitialDesktopList()) {
+      title.textContent = "Pilih kloter atau mulai pencarian";
+      description.textContent =
+        "Untuk mempercepat pembukaan halaman, daftar jemaah tidak dimuat penuh saat awal. Pilih kloter atau cari nama, nomor porsi, paspor, atau visa untuk memuat data yang relevan.";
     } else {
       title.textContent = "Tidak ada data yang cocok";
       description.textContent = "Ubah kata kunci atau filter untuk menampilkan jemaah lain.";
@@ -350,6 +430,7 @@ function renderList() {
   elements.listEmpty.classList.add("hidden");
 
   state.filtered.forEach((person) => {
+    const placementSummary = buildPersonPlacementSummary(person);
     const card = document.createElement("article");
     card.className = "person-card";
     card.tabIndex = 0;
@@ -366,6 +447,15 @@ function renderList() {
         <span class="chip">Regu ${person.reguKloter}</span>
         <span class="chip">${person.statusJemaah || "Status belum ada"}</span>
       </div>
+      ${
+        placementSummary
+          ? `<div class="person-card__placement">
+              <span class="person-card__placement-label">Penempatan kloter</span>
+              <strong>${placementSummary.primary}</strong>
+              <p>${placementSummary.secondary}</p>
+            </div>`
+          : ""
+      }
       <div class="person-card__meta">
         <div><strong>Kab/Kota:</strong> ${person.kabKota || "-"}</div>
         <div><strong>Paspor:</strong> ${person.noPaspor || "-"}</div>
@@ -393,6 +483,177 @@ function buildAssetLink(label, href) {
     anchor.rel = "noopener noreferrer";
   }
   return anchor;
+}
+
+function summarizeAccommodation(section, cityLabel) {
+  const items = section?.accommodations || [];
+  if (items.length === 0) return `${cityLabel}: belum ada rincian`;
+  if (items.length === 1) {
+    const item = items[0];
+    return `${cityLabel}: ${item.namaHotel} • No. ${item.noHotel}`;
+  }
+  return `${cityLabel}: ${items.length} akomodasi kloter`;
+}
+
+function buildPersonPlacementSummary(person) {
+  const placement = getPlacementForPerson(person);
+  if (!placement) return null;
+
+  const minaPlacement = placement.placements?.minaArea;
+  return {
+    primary: `Mina ${minaPlacement.nomorBoksGateMina} • Zona ${minaPlacement.zona}`,
+    secondary: [
+      summarizeAccommodation(placement.placements?.akomodasiMakkah, "Makkah"),
+      summarizeAccommodation(placement.placements?.akomodasiMadinah, "Madinah"),
+    ].join(" • "),
+  };
+}
+
+function buildPlacementFact(label, value) {
+  const item = document.createElement("div");
+  item.className = "placement-fact";
+  item.innerHTML = `<span>${label}</span><strong>${value}</strong>`;
+  return item;
+}
+
+function buildPlacementCard(title, description, eyebrow = "") {
+  const card = document.createElement("article");
+  card.className = "placement-card";
+
+  const header = document.createElement("div");
+  header.className = "placement-card__header";
+  header.innerHTML = `${eyebrow ? `<span class="placement-card__eyebrow">${eyebrow}</span>` : ""}<h4>${title}</h4>${description ? `<p>${description}</p>` : ""}`;
+
+  const body = document.createElement("div");
+  body.className = "placement-card__body";
+
+  card.append(header, body);
+  return { card, body };
+}
+
+function buildPlacementLink(label, query) {
+  const anchor = document.createElement("a");
+  anchor.className = "placement-link";
+  anchor.href = `https://www.google.com/maps?q=${encodeURIComponent(query)}`;
+  anchor.target = "_blank";
+  anchor.rel = "noopener noreferrer";
+  anchor.textContent = label;
+  return anchor;
+}
+
+function getPlacementForPerson(person) {
+  return state.placementGuide?.kloters?.find((item) => item.code === person.kloterCode) || null;
+}
+
+function renderPlacement(person) {
+  const placement = getPlacementForPerson(person);
+  if (!placement) {
+    elements.placementSection.classList.add("hidden");
+    elements.placementGrid.innerHTML = "";
+    elements.placementNote.textContent = "";
+    elements.placementSource.textContent = "";
+    return;
+  }
+
+  const placementDocument = state.placementGuide.document;
+  const hasSplitAccommodation = ["akomodasiMakkah", "akomodasiMadinah"].some((key) => {
+    const items = placement.placements?.[key]?.accommodations || [];
+    return items.length > 1;
+  });
+
+  elements.placementSection.classList.remove("hidden");
+  elements.placementGrid.innerHTML = "";
+  elements.placementSource.textContent = `Dokumen resmi • Surat ${placementDocument.nomorSurat} • ${placementDocument.tanggalSuratDisplay}`;
+  elements.placementNote.textContent = hasSplitAccommodation
+    ? "Rincian di bawah ini mengikuti penempatan tingkat kloter pada surat resmi. Jika akomodasi terbagi ke beberapa hotel, dokumen sumber belum menunjukkan distribusi hotel per individu."
+    : "Rincian di bawah ini mengikuti penempatan kloter pada surat resmi Kanwil Gorontalo dan dapat dipakai sebagai konteks pendampingan jemaah.";
+
+  const minaPlacement = placement.placements.minaArea;
+  const minaCard = buildPlacementCard(
+    "Area Mina",
+    "Acuan boks/gate dan zona kloter saat fase Mina.",
+    "Tahap Mina"
+  );
+  minaCard.body.append(
+    buildPlacementFact("Kloter", placement.label),
+    buildPlacementFact("Jumlah Jemaah", `${placement.jumlahJemaah} jemaah`),
+    buildPlacementFact("Boks/Gate Mina", minaPlacement.nomorBoksGateMina),
+    buildPlacementFact("Zona", `Zona ${minaPlacement.zona}`)
+  );
+  elements.placementGrid.appendChild(minaCard.card);
+
+  const tentPlacement = placement.placements.tendaMinaArafah;
+  const tentCard = buildPlacementCard(
+    "Tenda Mina dan Arafah",
+    "Nomor jalan, nomor tenda, dan titik peta yang relevan untuk kloter.",
+    "Rute & Titik"
+  );
+  tentCard.body.append(
+    buildPlacementFact("Nomor Jalan", tentPlacement.nomorJalan),
+    buildPlacementFact("Nomor Tenda", tentPlacement.nomorTenda),
+    buildPlacementFact("Zona Mina", `Zona ${tentPlacement.zonaMina}`),
+    buildPlacementFact("Boks/Gate", tentPlacement.nomorBoksGate)
+  );
+  const linkGroup = document.createElement("div");
+  linkGroup.className = "placement-links";
+  linkGroup.append(
+    buildPlacementLink("Buka Lokasi Mina", tentPlacement.titikLokasiMina.gmapsQuery),
+    buildPlacementLink("Buka Lokasi Arafah", tentPlacement.titikLokasiArafah.gmapsQuery)
+  );
+  tentCard.body.appendChild(linkGroup);
+  const coordinateGrid = document.createElement("div");
+  coordinateGrid.className = "placement-coordinates";
+  coordinateGrid.innerHTML = `
+    <div class="placement-coordinate">
+      <span>Koordinat Mina</span>
+      <code>${tentPlacement.titikLokasiMina.gmapsQuery}</code>
+    </div>
+    <div class="placement-coordinate">
+      <span>Koordinat Arafah</span>
+      <code>${tentPlacement.titikLokasiArafah.gmapsQuery}</code>
+    </div>
+  `;
+  tentCard.body.appendChild(coordinateGrid);
+  elements.placementGrid.appendChild(tentCard.card);
+
+  [
+    ["akomodasiMakkah", "Akomodasi Makkah"],
+    ["akomodasiMadinah", "Akomodasi Madinah"],
+  ].forEach(([key, title]) => {
+    const section = placement.placements[key];
+    const isSplit = (section.accommodations || []).length > 1;
+    const accommodationCard = buildPlacementCard(
+      title,
+      isSplit
+        ? `Kloter ${placement.label} terbagi ke beberapa akomodasi. Data ini belum menetapkan hotel per individu.`
+        : `Seluruh kapasitas kloter ${placement.label} tercatat pada satu akomodasi dalam dokumen.`,
+      title.includes("Makkah") ? "Fase Makkah" : "Fase Madinah"
+    );
+    accommodationCard.body.append(
+      buildPlacementFact("Jumlah Jemaah Kloter", `${placement.jumlahJemaah} jemaah`),
+      buildPlacementFact("Kapasitas Tercantum", `${section.kapasitasTotal} jemaah`)
+    );
+
+    const list = document.createElement("div");
+    list.className = "placement-accommodation-list";
+    section.accommodations.forEach((item) => {
+      const node = document.createElement("div");
+      node.className = "placement-accommodation";
+      node.innerHTML = `
+        <div class="placement-accommodation__top">
+          <strong>${item.namaHotel}</strong>
+          <span>Akomodasi ${item.sequence}</span>
+        </div>
+        <div class="placement-accommodation__meta">
+          <span>No. Hotel ${item.noHotel}</span>
+          <span>Kapasitas ${item.kapasitas} jemaah</span>
+        </div>
+      `;
+      list.appendChild(node);
+    });
+    accommodationCard.body.appendChild(list);
+    elements.placementGrid.appendChild(accommodationCard.card);
+  });
 }
 
 function renderDetail() {
@@ -445,6 +706,8 @@ function renderDetail() {
     elements.profileHighlights.appendChild(card);
   });
 
+  renderPlacement(person);
+
   elements.fieldGrid.innerHTML = "";
   const tableWrap = document.createElement("div");
   tableWrap.className = "detail-table";
@@ -472,13 +735,14 @@ function renderDetail() {
   elements.fieldGrid.appendChild(tableWrap);
 }
 
-function updateFromInputs() {
+async function updateFromInputs() {
   state.filters.query = elements.searchInput.value.trim();
   state.filters.kloter = elements.filterKloter.value;
   state.filters.rombongan = elements.filterRombongan.value;
   state.filters.regu = elements.filterRegu.value;
   state.filters.status = elements.filterStatus.value;
   state.filters.kabKota = elements.filterKabKota.value;
+  await ensureRelevantPeopleLoaded();
   applyFilters();
   renderQuickSearch();
   renderList();
@@ -493,20 +757,39 @@ function hydrateFromHash() {
   }
 }
 
+async function syncSelectionFromHash() {
+  const hash = window.location.hash.replace(/^#/, "").trim();
+  if (!hash) {
+    state.selectedId = null;
+    return;
+  }
+
+  if (!state.people.some((person) => person.id === hash)) {
+    await Promise.all(Object.keys(KLOTER_DATA_PATHS).map((code) => loadKloterData(code)));
+  }
+
+  hydrateFromHash();
+}
+
 async function loadData() {
-  const [siteResponse, kloter28Response, kloter30Response] = await Promise.all([
+  const [siteResponse, placementResponse] = await Promise.all([
     fetch("./data/site.json"),
-    fetch("./data/kloter-28.json"),
-    fetch("./data/kloter-30.json"),
+    fetch("./data/penempatan-jemaah-gorontalo.json"),
   ]);
 
+  if (!siteResponse.ok) {
+    throw new Error("Gagal memuat data situs");
+  }
+
   const site = await siteResponse.json();
-  const kloter28 = await kloter28Response.json();
-  const kloter30 = await kloter30Response.json();
+  const placementGuide = placementResponse.ok ? await placementResponse.json() : null;
 
   state.site = site;
-  state.people = [...kloter28.people, ...kloter30.people];
-  hydrateFromHash();
+  state.placementGuide = placementGuide;
+  if (window.location.hash) {
+    await Promise.all(Object.keys(KLOTER_DATA_PATHS).map((code) => loadKloterData(code)));
+    hydrateFromHash();
+  }
   applyFilters();
   renderHeroStats();
   renderFilters();
@@ -516,12 +799,24 @@ async function loadData() {
 }
 
 function attachEvents() {
-  elements.searchInput.addEventListener("input", updateFromInputs);
-  elements.filterKloter.addEventListener("change", updateFromInputs);
-  elements.filterRombongan.addEventListener("change", updateFromInputs);
-  elements.filterRegu.addEventListener("change", updateFromInputs);
-  elements.filterStatus.addEventListener("change", updateFromInputs);
-  elements.filterKabKota.addEventListener("change", updateFromInputs);
+  elements.searchInput.addEventListener("input", () => {
+    void updateFromInputs();
+  });
+  elements.filterKloter.addEventListener("change", () => {
+    void updateFromInputs();
+  });
+  elements.filterRombongan.addEventListener("change", () => {
+    void updateFromInputs();
+  });
+  elements.filterRegu.addEventListener("change", () => {
+    void updateFromInputs();
+  });
+  elements.filterStatus.addEventListener("change", () => {
+    void updateFromInputs();
+  });
+  elements.filterKabKota.addEventListener("change", () => {
+    void updateFromInputs();
+  });
   elements.resetButton.addEventListener("click", () => {
     state.filters = {
       query: "",
@@ -533,11 +828,11 @@ function attachEvents() {
     };
     elements.searchInput.value = "";
     renderFilters();
-    updateFromInputs();
+    void updateFromInputs();
   });
 
-  window.addEventListener("hashchange", () => {
-    hydrateFromHash();
+  window.addEventListener("hashchange", async () => {
+    await syncSelectionFromHash();
     renderList();
     renderDetail();
     if (state.selectedId) {
@@ -545,7 +840,8 @@ function attachEvents() {
     }
   });
 
-  const handleViewportChange = () => {
+  const handleViewportChange = async () => {
+    await ensureRelevantPeopleLoaded();
     applyFilters();
     renderQuickSearch();
     renderList();

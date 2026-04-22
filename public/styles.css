@@ -634,6 +634,37 @@ body::before {
   font-size: 0.9rem;
 }
 
+.person-card__placement {
+  display: grid;
+  gap: 6px;
+  margin-top: 14px;
+  padding: 12px 13px;
+  border-radius: 16px;
+  border: 1px solid rgba(138, 90, 56, 0.1);
+  background: rgba(138, 90, 56, 0.06);
+}
+
+.person-card__placement-label {
+  color: var(--accent);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.person-card__placement strong {
+  display: block;
+  font-size: 0.94rem;
+  line-height: 1.4;
+}
+
+.person-card__placement p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.82rem;
+  line-height: 1.55;
+}
+
 .detail {
   display: grid;
   gap: 24px;
@@ -772,6 +803,211 @@ body::before {
 .highlight-card strong {
   display: block;
   font-size: 1rem;
+}
+
+.placement-section {
+  display: grid;
+  gap: 16px;
+  padding: 20px;
+  border-radius: 24px;
+  border: 1px solid rgba(138, 90, 56, 0.12);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.92), rgba(251, 245, 239, 0.9));
+}
+
+.placement-section__header {
+  display: flex;
+  justify-content: space-between;
+  gap: 18px;
+  align-items: flex-start;
+}
+
+.placement-section__eyebrow {
+  margin: 0 0 6px;
+  color: var(--accent);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.placement-section__header h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  line-height: 1.15;
+}
+
+.placement-section__source {
+  margin: 0;
+  max-width: 18rem;
+  text-align: right;
+  color: var(--muted);
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+
+.placement-section__note {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.7;
+}
+
+.placement-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.placement-card {
+  display: grid;
+  gap: 14px;
+  padding: 18px;
+  border-radius: 20px;
+  border: 1px solid rgba(138, 90, 56, 0.12);
+  background: rgba(255, 255, 255, 0.92);
+}
+
+.placement-card__header {
+  display: grid;
+  gap: 6px;
+}
+
+.placement-card__eyebrow {
+  display: inline-flex;
+  align-items: center;
+  width: fit-content;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: rgba(138, 90, 56, 0.1);
+  color: var(--accent);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.placement-card__header h4 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.placement-card__header p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.88rem;
+  line-height: 1.6;
+}
+
+.placement-card__body {
+  display: grid;
+  gap: 12px;
+}
+
+.placement-fact {
+  padding: 12px 14px;
+  border-radius: 16px;
+  background: rgba(138, 90, 56, 0.06);
+  border: 1px solid rgba(138, 90, 56, 0.08);
+}
+
+.placement-fact span {
+  display: block;
+  margin-bottom: 6px;
+  color: var(--muted);
+  font-size: 0.76rem;
+}
+
+.placement-fact strong {
+  display: block;
+  font-size: 0.98rem;
+  line-height: 1.45;
+}
+
+.placement-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.placement-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  padding: 10px 14px;
+  border-radius: 999px;
+  border: 1px solid rgba(138, 90, 56, 0.16);
+  background: rgba(255, 250, 245, 0.96);
+  color: var(--accent-deep);
+  font-size: 0.88rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.placement-accommodation-list {
+  display: grid;
+  gap: 10px;
+}
+
+.placement-coordinates {
+  display: grid;
+  gap: 10px;
+}
+
+.placement-coordinate {
+  padding: 12px 14px;
+  border-radius: 16px;
+  border: 1px solid rgba(138, 90, 56, 0.1);
+  background: rgba(255, 255, 255, 0.92);
+}
+
+.placement-coordinate span {
+  display: block;
+  margin-bottom: 6px;
+  color: var(--muted);
+  font-size: 0.76rem;
+}
+
+.placement-coordinate code {
+  display: block;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  font-size: 0.83rem;
+  line-height: 1.55;
+  color: var(--accent-deep);
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+.placement-accommodation {
+  padding: 14px;
+  border-radius: 16px;
+  border: 1px solid rgba(138, 90, 56, 0.1);
+  background: rgba(246, 239, 231, 0.68);
+}
+
+.placement-accommodation__top {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: flex-start;
+}
+
+.placement-accommodation__top strong {
+  font-size: 0.98rem;
+  line-height: 1.45;
+}
+
+.placement-accommodation__top span,
+.placement-accommodation__meta span {
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.placement-accommodation__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 12px;
+  margin-top: 8px;
 }
 
 .field-grid {
@@ -936,14 +1172,16 @@ body::before {
 
   .toolbar__row--meta,
   .detail__top,
-  .detail__profile {
+  .detail__profile,
+  .placement-section__header {
     grid-template-columns: 1fr;
     display: grid;
   }
 
   .person-list,
   .stats-grid,
-  .person-card__meta {
+  .person-card__meta,
+  .placement-grid {
     grid-template-columns: 1fr;
   }
 
@@ -1044,6 +1282,20 @@ body::before {
     font-size: 0.74rem;
   }
 
+  .person-card__placement {
+    margin-top: 12px;
+    padding: 11px 12px;
+    border-radius: 14px;
+  }
+
+  .person-card__placement strong {
+    font-size: 0.9rem;
+  }
+
+  .person-card__placement p {
+    font-size: 0.79rem;
+  }
+
   .person-card__meta {
     margin-top: 12px;
     font-size: 0.84rem;
@@ -1135,6 +1387,66 @@ body::before {
   .highlight-card {
     padding: 12px 14px;
     border-radius: 16px;
+  }
+
+  .placement-section {
+    padding: 16px;
+    border-radius: 20px;
+  }
+
+  .placement-section__source {
+    max-width: none;
+    text-align: left;
+    font-size: 0.84rem;
+  }
+
+  .placement-card {
+    padding: 14px;
+    border-radius: 18px;
+  }
+
+  .placement-card__header h4 {
+    font-size: 0.95rem;
+  }
+
+  .placement-card__header p,
+  .placement-section__note {
+    font-size: 0.86rem;
+  }
+
+  .placement-card__eyebrow {
+    font-size: 0.68rem;
+  }
+
+  .placement-fact {
+    padding: 11px 12px;
+    border-radius: 14px;
+  }
+
+  .placement-fact strong {
+    font-size: 0.9rem;
+  }
+
+  .placement-link {
+    width: 100%;
+    font-size: 0.86rem;
+  }
+
+  .placement-coordinate {
+    padding: 11px 12px;
+    border-radius: 14px;
+  }
+
+  .placement-coordinate code {
+    font-size: 0.78rem;
+  }
+
+  .placement-accommodation {
+    padding: 12px;
+  }
+
+  .placement-accommodation__top {
+    display: grid;
   }
 
   .highlight-card strong {

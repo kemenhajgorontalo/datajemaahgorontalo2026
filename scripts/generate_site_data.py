@@ -67,6 +67,15 @@ DISPLAY_FIELDS = [
     ("Syarikah", "syarikah"),
 ]
 
+GORONTALO_KAB_KOTA = {
+    "KOTA GORONTALO",
+    "KAB. GORONTALO",
+    "KAB. GORONTALO UTARA",
+    "KAB. BOALEMO",
+    "KAB. BONE BOLANGO",
+    "KAB. POHUWATO",
+}
+
 
 def clean(value: str | None) -> str:
     return (value or "").strip()
@@ -82,6 +91,10 @@ def sanitize_filename(value: str) -> str:
     value = re.sub(r"\s+", " ", value).strip()
     value = re.sub(r'[\\/:*?"<>|]+', "", value)
     return value or "unknown"
+
+
+def is_gorontalo_row(row: dict[str, str]) -> bool:
+    return clean(row.get("Kab/Kota")) in GORONTALO_KAB_KOTA
 
 
 def build_file_index(root: Path, pattern: str) -> dict[str, Path]:
@@ -103,6 +116,27 @@ def copy_asset(source: Path | None, destination: Path) -> str | None:
     return "/" + destination.relative_to(PUBLIC_DIR).as_posix()
 
 
+def sync_person_asset_dir(asset_base: Path, expected_files: set[str]) -> None:
+    if not asset_base.exists():
+        return
+
+    for child in asset_base.iterdir():
+        if child.is_file() and child.name not in expected_files:
+            child.unlink()
+
+    if not any(asset_base.iterdir()):
+        asset_base.rmdir()
+
+
+def prune_kloter_asset_dir(kloter_dir: Path, expected_slugs: set[str]) -> None:
+    if not kloter_dir.exists():
+        return
+
+    for child in kloter_dir.iterdir():
+        if child.is_dir() and child.name not in expected_slugs:
+            shutil.rmtree(child)
+
+
 def build_person_record(
     row: dict[str, str],
     kloter: KloterConfig,
@@ -118,6 +152,18 @@ def build_person_record(
     visa_url = copy_asset(visa_index.get(nomor_porsi), asset_base / "visa.pdf")
     kartu_url = copy_asset(kartu_index.get(nomor_porsi), asset_base / "kartu.pdf")
     foto_url = copy_asset(foto_index.get(nomor_porsi), asset_base / "foto.jpg")
+    sync_person_asset_dir(
+        asset_base,
+        {
+            name
+            for name, url in {
+                "visa.pdf": visa_url,
+                "kartu.pdf": kartu_url,
+                "foto.jpg": foto_url,
+            }.items()
+            if url
+        },
+    )
 
     fields = {}
     for source_name, key in DISPLAY_FIELDS:
@@ -175,10 +221,6 @@ def build_summary(people: list[dict[str, object]], label: str, code: str) -> dic
 
 
 def generate() -> None:
-    if DATA_DIR.exists():
-        shutil.rmtree(DATA_DIR)
-    if ASSETS_DIR.exists():
-        shutil.rmtree(ASSETS_DIR)
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     ASSETS_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -191,24 +233,26 @@ def generate() -> None:
         foto_index = build_file_index(kloter.foto_dir, "*.jpg")
 
         people: list[dict[str, object]] = []
+        expected_slugs: set[str] = set()
         with kloter.csv_path.open(newline="", encoding="utf-8-sig") as handle:
             reader = csv.DictReader(handle)
             for row in reader:
                 nomor_porsi = clean(row.get("No. Porsi"))
                 nama = clean(row.get("Nama"))
-                if not nomor_porsi.isdigit() or not nama or nama == "-":
+                if not nomor_porsi.isdigit() or not nama or nama == "-" or not is_gorontalo_row(row):
                     continue
-                people.append(
-                    build_person_record(
-                        row=row,
-                        kloter=kloter,
-                        visa_index=visa_index,
-                        kartu_index=kartu_index,
-                        foto_index=foto_index,
-                    )
+                person = build_person_record(
+                    row=row,
+                    kloter=kloter,
+                    visa_index=visa_index,
+                    kartu_index=kartu_index,
+                    foto_index=foto_index,
                 )
+                people.append(person)
+                expected_slugs.add(str(person["slug"]))
 
         people = sort_people(people)
+        prune_kloter_asset_dir(ASSETS_DIR / f"kloter-{kloter.code}", expected_slugs)
         kloter_payload = {
             "summary": build_summary(people, kloter.label, kloter.code),
             "people": people,
