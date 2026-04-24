@@ -14,6 +14,8 @@ const FIELD_LABELS = {
   ket: "Keterangan",
   kloterPra: "Kloter Pra",
   syarikah: "Syarikah",
+  noHp: "No. HP",
+  namaDesa: "Nama Desa",
 };
 
 const state = {
@@ -203,6 +205,89 @@ function normalize(text) {
   return String(text || "").toLowerCase();
 }
 
+function formatPhoneNumber(value) {
+  const digits = String(value || "").replace(/\D+/g, "");
+  if (!digits || digits === "0") return "-";
+  if (digits.startsWith("62")) return `0${digits.slice(2)}`;
+  if (digits.startsWith("0")) return digits;
+  return `0${digits}`;
+}
+
+function normalizePhoneDigits(value) {
+  const digits = String(value || "").replace(/\D+/g, "");
+  if (!digits || digits === "0") return "";
+  return digits;
+}
+
+function toWhatsAppNumber(value) {
+  const digits = normalizePhoneDigits(value);
+  if (!digits) return "";
+  if (digits.startsWith("62")) return digits;
+  if (digits.startsWith("0")) return `62${digits.slice(1)}`;
+  return `62${digits}`;
+}
+
+function displayFieldValue(key, value) {
+  if (key === "noHp") return formatPhoneNumber(value);
+  return value || "-";
+}
+
+function createIcon(name) {
+  const paths = {
+    phone:
+      '<path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.35 1.9.66 2.81a2 2 0 0 1-.45 2.11L8.05 9.91a16 16 0 0 0 6.04 6.04l1.27-1.27a2 2 0 0 1 2.11-.45c.91.31 1.85.53 2.81.66A2 2 0 0 1 22 16.92Z"></path>',
+    whatsapp:
+      '<path d="M3 21l1.31-4.58A8.5 8.5 0 1 1 7.7 19.56L3 21Z"></path><path d="M9.2 8.7c.2-.45.35-.47.63-.47h.45c.17 0 .42.06.64.32.22.27.84.82.84 2 0 1.17-.86 2.3-.98 2.46-.12.15-1.66 2.65-4.1 3.61-.58.23-1.03.37-1.38.47-.58.18-1.1.15-1.52.09-.46-.07-1.42-.58-1.62-1.14-.2-.56-.2-1.04-.14-1.14.06-.1.22-.16.46-.28.23-.12 1.38-.68 1.6-.76.21-.08.37-.12.52.12.16.23.6.75.73.9.14.16.27.18.5.06.23-.12.98-.36 1.87-1.15.69-.62 1.16-1.38 1.3-1.61.13-.23.01-.36-.1-.48-.1-.1-.23-.27-.35-.4-.12-.14-.16-.24-.24-.4-.08-.15-.04-.3.02-.42.06-.12.52-1.26.72-1.72Z"></path>',
+  };
+
+  return `
+    <svg class="phone-action__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      ${paths[name] || ""}
+    </svg>
+  `;
+}
+
+function renderPhoneValueCell(cell, value) {
+  const digits = normalizePhoneDigits(value);
+  const displayValue = formatPhoneNumber(value);
+  cell.classList.add("detail-table__phone-cell");
+
+  const valueNode = document.createElement("span");
+  valueNode.className = "phone-value";
+  valueNode.textContent = displayValue;
+  cell.appendChild(valueNode);
+
+  const actions = document.createElement("div");
+  actions.className = "phone-actions";
+
+  if (!digits) {
+    actions.classList.add("is-disabled");
+  }
+
+  const phoneLink = document.createElement("a");
+  phoneLink.className = `phone-action${digits ? "" : " is-disabled"}`;
+  phoneLink.href = digits ? `tel:${displayValue}` : "#";
+  phoneLink.setAttribute("aria-label", digits ? `Telepon ${displayValue}` : "Nomor HP tidak tersedia");
+  phoneLink.title = "Telepon";
+  phoneLink.innerHTML = createIcon("phone");
+
+  const whatsappNumber = toWhatsAppNumber(value);
+  const whatsappLink = document.createElement("a");
+  whatsappLink.className = `phone-action phone-action--whatsapp${whatsappNumber ? "" : " is-disabled"}`;
+  whatsappLink.href = whatsappNumber ? `https://wa.me/${whatsappNumber}` : "#";
+  whatsappLink.target = whatsappNumber ? "_blank" : "";
+  whatsappLink.rel = whatsappNumber ? "noopener noreferrer" : "";
+  whatsappLink.setAttribute(
+    "aria-label",
+    whatsappNumber ? `Buka WhatsApp ${displayValue}` : "WhatsApp tidak tersedia"
+  );
+  whatsappLink.title = "WhatsApp";
+  whatsappLink.innerHTML = createIcon("whatsapp");
+
+  actions.append(phoneLink, whatsappLink);
+  cell.appendChild(actions);
+}
+
 function matchesQuery(person, query) {
   if (!query) return true;
   const haystack = [
@@ -210,6 +295,9 @@ function matchesQuery(person, query) {
     person.noPorsi,
     person.noPaspor,
     person.noVisa,
+    person.noHp,
+    formatPhoneNumber(person.noHp),
+    person.namaDesa,
     person.kabKota,
     person.statusJemaah,
     person.rombongan,
@@ -458,6 +546,7 @@ function renderList() {
       }
       <div class="person-card__meta">
         <div><strong>Kab/Kota:</strong> ${person.kabKota || "-"}</div>
+        <div><strong>Desa:</strong> ${person.namaDesa || "-"}</div>
         <div><strong>Paspor:</strong> ${person.noPaspor || "-"}</div>
       </div>
     `;
@@ -697,6 +786,8 @@ function renderDetail() {
   [
     ["No. Paspor", person.noPaspor || "-"],
     ["No. Visa", person.noVisa || "-"],
+    ["No. HP", formatPhoneNumber(person.noHp)],
+    ["Nama Desa", person.namaDesa || "-"],
     ["Umur", person.umur ? `${person.umur} tahun` : "-"],
     ["Jenis Kelamin", person.jenisKelamin || "-"],
   ].forEach(([label, value]) => {
@@ -724,7 +815,11 @@ function renderDetail() {
     labelCell.textContent = FIELD_LABELS[key] || key;
 
     const valueCell = document.createElement("td");
-    valueCell.textContent = value || "-";
+    if (key === "noHp") {
+      renderPhoneValueCell(valueCell, value);
+    } else {
+      valueCell.textContent = displayFieldValue(key, value);
+    }
 
     row.append(labelCell, valueCell);
     tbody.appendChild(row);

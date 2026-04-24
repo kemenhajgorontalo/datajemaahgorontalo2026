@@ -109,8 +109,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "-",
-        "syarikah": "-"
-      }
+        "syarikah": "-",
+        "noHp": "",
+        "namaDesa": ""
+      },
+      "noHp": "",
+      "namaDesa": ""
     },
     {
       "id": "3500678020-asri-soleman",
@@ -147,8 +151,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81340408585",
+        "namaDesa": "HELEDULAA UTARA"
+      },
+      "noHp": "81340408585",
+      "namaDesa": "HELEDULAA UTARA"
     },
     {
       "id": "3500678254-dian-sofianty-makarawo",
@@ -185,8 +193,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81340084914",
+        "namaDesa": "HELEDULAA SELATAN"
+      },
+      "noHp": "81340084914",
+      "namaDesa": "HELEDULAA SELATAN"
     },
     {
       "id": "3500683671-lamadi-gobel",
@@ -223,8 +235,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85398623934",
+        "namaDesa": "Kel. Heledulaa Selatan"
+      },
+      "noHp": "85398623934",
+      "namaDesa": "Kel. Heledulaa Selatan"
     },
     {
       "id": "3500677775-luki-husin",
@@ -261,8 +277,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81340099614",
+        "namaDesa": "SIENDENG"
+      },
+      "noHp": "81340099614",
+      "namaDesa": "SIENDENG"
     },
     {
       "id": "3500678253-mahmud-gobel",
@@ -299,8 +319,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85294900099",
+        "namaDesa": "HELEDULAA SELATAN"
+      },
+      "noHp": "85294900099",
+      "namaDesa": "HELEDULAA SELATAN"
     },
     {
       "id": "3500677776-nurhayati-hamzah",
@@ -337,8 +361,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240429847",
+        "namaDesa": "SIENDENG"
+      },
+      "noHp": "85240429847",
+      "namaDesa": "SIENDENG"
     },
     {
       "id": "3500677372-roosmira-bachtiar",
@@ -375,8 +403,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "811437135",
+        "namaDesa": "LIMBA U II"
+      },
+      "noHp": "811437135",
+      "namaDesa": "LIMBA U II"
     },
     {
       "id": "3500688044-salim-potutu-tomayahu",
@@ -413,8 +445,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81342309213",
+        "namaDesa": "LIMBA U2"
+      },
+      "noHp": "81342309213",
+      "namaDesa": "LIMBA U2"
     },
     {
       "id": "3500678354-sarlotan-polapa",
@@ -451,8 +487,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "895326611978",
+        "namaDesa": "SIENDENG"
+      },
+      "noHp": "895326611978",
+      "namaDesa": "SIENDENG"
     },
     {
       "id": "3500677373-syarif-potutu",
@@ -489,8 +529,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82348169010",
+        "namaDesa": "LIMBA U 2"
+      },
+      "noHp": "82348169010",
+      "namaDesa": "LIMBA U 2"
     },
     {
       "id": "3500678019-taufiq-firmansyah",
@@ -527,8 +571,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "811432306",
+        "namaDesa": "HELEDULAA UTARA"
+      },
+      "noHp": "811432306",
+      "namaDesa": "HELEDULAA UTARA"
     },
     {
       "id": "3500678163-abdul-wahid-lahay",
@@ -565,8 +613,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "0",
+        "namaDesa": "LILUWO"
+      },
+      "noHp": "0",
+      "namaDesa": "LILUWO"
     },
     {
       "id": "3500678137-amellia-zalfa-azzahra-pahrun",
@@ -603,8 +655,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81334387565",
+        "namaDesa": "TANGGIKIKI"
+      },
+      "noHp": "81334387565",
+      "namaDesa": "TANGGIKIKI"
     },
     {
       "id": "3500678164-asyani-muslim-azis",
@@ -641,8 +697,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240282642",
+        "namaDesa": "LILUWO"
+      },
+      "noHp": "85240282642",
+      "namaDesa": "LILUWO"
     },
     {
       "id": "3500677704-dadang-mohamad-djafar",
@@ -679,8 +739,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82345086669",
+        "namaDesa": "TENDA"
+      },
+      "noHp": "82345086669",
+      "namaDesa": "TENDA"
     },
     {
       "id": "3500678282-dahliana-abdul-azis",
@@ -717,8 +781,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8114334475",
+        "namaDesa": "PAGUYAMAN"
+      },
+      "noHp": "8114334475",
+      "namaDesa": "PAGUYAMAN"
     },
     {
       "id": "3500681357-kurnia-dewi-makatitta",
@@ -755,8 +823,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85340302436",
+        "namaDesa": "PULUBALA"
+      },
+      "noHp": "85340302436",
+      "namaDesa": "PULUBALA"
     },
     {
       "id": "3500678203-maria-yuningsih-ahmad",
@@ -793,8 +865,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82187792084",
+        "namaDesa": "IPILO"
+      },
+      "noHp": "82187792084",
+      "namaDesa": "IPILO"
     },
     {
       "id": "3500677903-nurnaningsih-arief",
@@ -831,8 +907,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82189799000",
+        "namaDesa": "DULALOWO TIMUR"
+      },
+      "noHp": "82189799000",
+      "namaDesa": "DULALOWO TIMUR"
     },
     {
       "id": "3500678138-rafini-binti-margono",
@@ -869,8 +949,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81334387565",
+        "namaDesa": "TANGGIKIKI"
+      },
+      "noHp": "81334387565",
+      "namaDesa": "TANGGIKIKI"
     },
     {
       "id": "3500678283-sultan-kalupe",
@@ -907,8 +991,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8114339291",
+        "namaDesa": "PAGUYAMAN"
+      },
+      "noHp": "8114339291",
+      "namaDesa": "PAGUYAMAN"
     },
     {
       "id": "3500676595-akihito-lamato",
@@ -945,8 +1033,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85242682006",
+        "namaDesa": "LIBUO"
+      },
+      "noHp": "85242682006",
+      "namaDesa": "LIBUO"
     },
     {
       "id": "3500678317-azis-mohamad-harun",
@@ -983,8 +1075,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256687111",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "85256687111",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500688586-barraq-akmal-laleno",
@@ -1021,8 +1117,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81356549007",
+        "namaDesa": "TOMULABUTAO"
+      },
+      "noHp": "81356549007",
+      "namaDesa": "TOMULABUTAO"
     },
     {
       "id": "3500678119-henny-tantu-syam",
@@ -1059,8 +1159,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85340604166",
+        "namaDesa": "PULUBALA"
+      },
+      "noHp": "85340604166",
+      "namaDesa": "PULUBALA"
     },
     {
       "id": "3500676270-irma-suryani-darise",
@@ -1097,8 +1201,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81342262361",
+        "namaDesa": "PULUBALA"
+      },
+      "noHp": "81342262361",
+      "namaDesa": "PULUBALA"
     },
     {
       "id": "3500676582-lia-amelia-salim",
@@ -1135,8 +1243,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256449329",
+        "namaDesa": "LIBUO"
+      },
+      "noHp": "85256449329",
+      "namaDesa": "LIBUO"
     },
     {
       "id": "3500676051-mutu-gani-katili",
@@ -1173,8 +1285,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240144435",
+        "namaDesa": "DULALOWO"
+      },
+      "noHp": "85240144435",
+      "namaDesa": "DULALOWO"
     },
     {
       "id": "3500016726-nurhayati-husain-dumbela",
@@ -1211,8 +1327,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "",
+        "namaDesa": "TOMULABUTAO"
+      },
+      "noHp": "",
+      "namaDesa": "TOMULABUTAO"
     },
     {
       "id": "3500681494-rumiati-adam",
@@ -1249,8 +1369,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240645419",
+        "namaDesa": "DEMBE JAYA"
+      },
+      "noHp": "85240645419",
+      "namaDesa": "DEMBE JAYA"
     },
     {
       "id": "3500687933-thahirun-abdul-muthalib-katili",
@@ -1287,8 +1411,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81342208258",
+        "namaDesa": "DULALOWO TIMUR"
+      },
+      "noHp": "81342208258",
+      "namaDesa": "DULALOWO TIMUR"
     },
     {
       "id": "3500677667-amran-arsyad",
@@ -1325,8 +1453,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85298426116",
+        "namaDesa": "TULADENGGI"
+      },
+      "noHp": "85298426116",
+      "namaDesa": "TULADENGGI"
     },
     {
       "id": "3500676845-ismiyati-lahabu",
@@ -1363,8 +1495,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240789928",
+        "namaDesa": "SIENDENG"
+      },
+      "noHp": "85240789928",
+      "namaDesa": "SIENDENG"
     },
     {
       "id": "3500678201-lenny-mustapa",
@@ -1401,8 +1537,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81241584543",
+        "namaDesa": "BULADU"
+      },
+      "noHp": "81241584543",
+      "namaDesa": "BULADU"
     },
     {
       "id": "3500688371-mifthahul-alim",
@@ -1439,8 +1579,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256203881",
+        "namaDesa": "TULADENGGI"
+      },
+      "noHp": "85256203881",
+      "namaDesa": "TULADENGGI"
     },
     {
       "id": "3500678147-mohamad-bakri-ibrahim",
@@ -1477,8 +1621,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240399554",
+        "namaDesa": "PADEBUOLO"
+      },
+      "noHp": "85240399554",
+      "namaDesa": "PADEBUOLO"
     },
     {
       "id": "3500678176-ratna-bulotio",
@@ -1515,8 +1663,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85342988194",
+        "namaDesa": "PADEBUOLO"
+      },
+      "noHp": "85342988194",
+      "namaDesa": "PADEBUOLO"
     },
     {
       "id": "3500678049-silvana-katili",
@@ -1553,8 +1705,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85298216021",
+        "namaDesa": "BULADU"
+      },
+      "noHp": "85298216021",
+      "namaDesa": "BULADU"
     },
     {
       "id": "3500678148-sofya-mitrian-dotu",
@@ -1591,8 +1747,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85399650080",
+        "namaDesa": "MOLOSIFAT W"
+      },
+      "noHp": "85399650080",
+      "namaDesa": "MOLOSIFAT W"
     },
     {
       "id": "3500678365-susanti-husain",
@@ -1629,8 +1789,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256109971",
+        "namaDesa": "IPILO"
+      },
+      "noHp": "85256109971",
+      "namaDesa": "IPILO"
     },
     {
       "id": "3500678135-yuniati-kumali",
@@ -1667,8 +1831,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240415314",
+        "namaDesa": "IPILO"
+      },
+      "noHp": "85240415314",
+      "namaDesa": "IPILO"
     },
     {
       "id": "3500683333-farida-mahmud",
@@ -1705,8 +1873,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8124495855",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "8124495855",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500677845-iskandar-soleman-moerad",
@@ -1743,8 +1915,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81356341140",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "81356341140",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500678146-lun-akili-eni",
@@ -1781,8 +1957,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8124450966",
+        "namaDesa": "BULOTADAA TIMUR"
+      },
+      "noHp": "8124450966",
+      "namaDesa": "BULOTADAA TIMUR"
     },
     {
       "id": "3500677919-lunardi-kalaka",
@@ -1819,8 +1999,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82188635960",
+        "namaDesa": "DEMBE JAYA"
+      },
+      "noHp": "82188635960",
+      "namaDesa": "DEMBE JAYA"
     },
     {
       "id": "3500677920-mudin-abdullah",
@@ -1857,8 +2041,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240275216",
+        "namaDesa": "DEMBE JAYA"
+      },
+      "noHp": "85240275216",
+      "namaDesa": "DEMBE JAYA"
     },
     {
       "id": "7470001256-rahmi-novi-yasin",
@@ -1895,8 +2083,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "-",
-        "syarikah": "-"
-      }
+        "syarikah": "-",
+        "noHp": "",
+        "namaDesa": ""
+      },
+      "noHp": "",
+      "namaDesa": ""
     },
     {
       "id": "3500678144-sarifudin-suleman",
@@ -1933,8 +2125,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81244291444",
+        "namaDesa": "DULOMO UTARA"
+      },
+      "noHp": "81244291444",
+      "namaDesa": "DULOMO UTARA"
     },
     {
       "id": "3500678143-siti-ainenza-nurfasya-suleman",
@@ -1971,8 +2167,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81340002236",
+        "namaDesa": "DULOMO UTARA"
+      },
+      "noHp": "81340002236",
+      "namaDesa": "DULOMO UTARA"
     },
     {
       "id": "3500677784-sofyan-hadi-adam",
@@ -2009,8 +2209,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8124422868",
+        "namaDesa": "BIAWAO"
+      },
+      "noHp": "8124422868",
+      "namaDesa": "BIAWAO"
     },
     {
       "id": "3500678145-syafril-taib-tjan",
@@ -2047,8 +2251,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82271288570",
+        "namaDesa": "BULOTADAA TIMUR"
+      },
+      "noHp": "82271288570",
+      "namaDesa": "BULOTADAA TIMUR"
     },
     {
       "id": "3500677867-ulfa-monoarfa",
@@ -2085,8 +2293,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82154526009",
+        "namaDesa": "PULUBALA"
+      },
+      "noHp": "82154526009",
+      "namaDesa": "PULUBALA"
     },
     {
       "id": "3500677785-wahyuni-binti-muhsin-zubeidi",
@@ -2123,8 +2335,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85341776477",
+        "namaDesa": "BIAWAO"
+      },
+      "noHp": "85341776477",
+      "namaDesa": "BIAWAO"
     },
     {
       "id": "3500678403-lastry-zakaria",
@@ -2161,8 +2377,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81356506337",
+        "namaDesa": "IPILO"
+      },
+      "noHp": "81356506337",
+      "namaDesa": "IPILO"
     },
     {
       "id": "3500677990-madina-damis-asepe",
@@ -2199,8 +2419,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85399204488",
+        "namaDesa": "DULALOWO"
+      },
+      "noHp": "85399204488",
+      "namaDesa": "DULALOWO"
     },
     {
       "id": "3500678476-mohamad-safril-burhan",
@@ -2237,8 +2461,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81242151003",
+        "namaDesa": "WUMIALO"
+      },
+      "noHp": "81242151003",
+      "namaDesa": "WUMIALO"
     },
     {
       "id": "3500678402-nuhdi-kalapati",
@@ -2275,8 +2503,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85342313811",
+        "namaDesa": "DULALOWO"
+      },
+      "noHp": "85342313811",
+      "namaDesa": "DULALOWO"
     },
     {
       "id": "3500678405-nurlaila-zakaria-kasim",
@@ -2313,8 +2545,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82192348889",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "82192348889",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500676410-rohani-datu-mandapo",
@@ -2351,8 +2587,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256417094",
+        "namaDesa": "DULALOWO"
+      },
+      "noHp": "85256417094",
+      "namaDesa": "DULALOWO"
     },
     {
       "id": "3500678162-sri-rahmawaty-yunus",
@@ -2389,8 +2629,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81244205386",
+        "namaDesa": "LIMBA U II"
+      },
+      "noHp": "81244205386",
+      "namaDesa": "LIMBA U II"
     },
     {
       "id": "3500678404-syamsah-zakaria",
@@ -2427,8 +2671,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85298037191",
+        "namaDesa": "IPILO"
+      },
+      "noHp": "85298037191",
+      "namaDesa": "IPILO"
     },
     {
       "id": "3500677989-utami-putri-pratama",
@@ -2465,8 +2713,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85343770981",
+        "namaDesa": "DULALOWO"
+      },
+      "noHp": "85343770981",
+      "namaDesa": "DULALOWO"
     },
     {
       "id": "3500678477-yolandah-hadju",
@@ -2503,8 +2755,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81343904057",
+        "namaDesa": "WUMIALO"
+      },
+      "noHp": "81343904057",
+      "namaDesa": "WUMIALO"
     },
     {
       "id": "3500677998-asmin-djama-bakir",
@@ -2541,8 +2797,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81388405329",
+        "namaDesa": "LIMBA U I"
+      },
+      "noHp": "81388405329",
+      "namaDesa": "LIMBA U I"
     },
     {
       "id": "3500677996-bambang-winarto",
@@ -2579,8 +2839,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85145603200",
+        "namaDesa": "HELEDULAA"
+      },
+      "noHp": "85145603200",
+      "namaDesa": "HELEDULAA"
     },
     {
       "id": "3500684919-hamzah-zees",
@@ -2617,8 +2881,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240004257",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "85240004257",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500677706-mirah-syafira-mohammad",
@@ -2655,8 +2923,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82187489587",
+        "namaDesa": "WUMIALO"
+      },
+      "noHp": "82187489587",
+      "namaDesa": "WUMIALO"
     },
     {
       "id": "3500677619-rahmawaty-gani",
@@ -2693,8 +2965,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81243672229",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "81243672229",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500677757-ratna-harun-zees",
@@ -2731,8 +3007,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85399636108",
+        "namaDesa": "YOSONEGORO"
+      },
+      "noHp": "85399636108",
+      "namaDesa": "YOSONEGORO"
     },
     {
       "id": "3500681720-sartin-salihi-latief",
@@ -2769,8 +3049,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240230945",
+        "namaDesa": "LIMBA U1"
+      },
+      "noHp": "85240230945",
+      "namaDesa": "LIMBA U1"
     },
     {
       "id": "3500677997-tamila-kasmaun-simin",
@@ -2807,8 +3091,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82393211134",
+        "namaDesa": "HELEDULAA"
+      },
+      "noHp": "82393211134",
+      "namaDesa": "HELEDULAA"
     },
     {
       "id": "2200037674-wahyuni-latief",
@@ -2845,8 +3133,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "",
+        "namaDesa": ""
+      },
+      "noHp": "",
+      "namaDesa": ""
     },
     {
       "id": "3500677705-wara-niode",
@@ -2883,8 +3175,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82195895233",
+        "namaDesa": "HELEDULAA UTARA"
+      },
+      "noHp": "82195895233",
+      "namaDesa": "HELEDULAA UTARA"
     },
     {
       "id": "3500678112-faruk-oktowijaya-husain",
@@ -2921,8 +3217,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8124408808",
+        "namaDesa": "WUMIALO"
+      },
+      "noHp": "8124408808",
+      "namaDesa": "WUMIALO"
     },
     {
       "id": "2600019406-hastuti-abdul-kadir-bouta",
@@ -2959,8 +3259,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "",
+        "namaDesa": ""
+      },
+      "noHp": "",
+      "namaDesa": ""
     },
     {
       "id": "3500677787-jasmin-van-gobel",
@@ -2997,8 +3301,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "89528750854",
+        "namaDesa": "LEATO UTARA"
+      },
+      "noHp": "89528750854",
+      "namaDesa": "LEATO UTARA"
     },
     {
       "id": "3500678630-la-ode-karbeni",
@@ -3035,8 +3343,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85285003133",
+        "namaDesa": "LIMBA U I"
+      },
+      "noHp": "85285003133",
+      "namaDesa": "LIMBA U I"
     },
     {
       "id": "3500678113-lusiyana-runtuwene",
@@ -3073,8 +3385,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8124454445",
+        "namaDesa": "WUMIALO"
+      },
+      "noHp": "8124454445",
+      "namaDesa": "WUMIALO"
     },
     {
       "id": "3500677872-musfirah-mohamad-yamin-lahay",
@@ -3111,8 +3427,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "89618324940",
+        "namaDesa": "LIMBA U I"
+      },
+      "noHp": "89618324940",
+      "namaDesa": "LIMBA U I"
     },
     {
       "id": "3500679127-muthmainnah-mohamad-lahay",
@@ -3149,8 +3469,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8973196826",
+        "namaDesa": "LIMBA U I"
+      },
+      "noHp": "8973196826",
+      "namaDesa": "LIMBA U I"
     },
     {
       "id": "2600019407-nayla-septiasa-bouta",
@@ -3187,8 +3511,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "",
+        "namaDesa": ""
+      },
+      "noHp": "",
+      "namaDesa": ""
     },
     {
       "id": "3500677873-sabrinisa-mohamad-yamin-lahay",
@@ -3225,8 +3553,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "0",
+        "namaDesa": "LIMBA U I"
+      },
+      "noHp": "0",
+      "namaDesa": "LIMBA U I"
     },
     {
       "id": "3500677951-zenab-maruf",
@@ -3263,8 +3595,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85298489169",
+        "namaDesa": "LEATO SELATAN"
+      },
+      "noHp": "85298489169",
+      "namaDesa": "LEATO SELATAN"
     },
     {
       "id": "3500016648-fahrudin-ahmad",
@@ -3301,8 +3637,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85345480022",
+        "namaDesa": "TENILO"
+      },
+      "noHp": "85345480022",
+      "namaDesa": "TENILO"
     },
     {
       "id": "3500677821-fatmah-nurdin",
@@ -3339,8 +3679,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81340088288",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "81340088288",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500678485-gusaini-galib",
@@ -3377,8 +3721,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82324382971",
+        "namaDesa": "TENILO"
+      },
+      "noHp": "82324382971",
+      "namaDesa": "TENILO"
     },
     {
       "id": "3500678024-imran-lahi",
@@ -3415,8 +3763,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81354768057",
+        "namaDesa": "TENILO"
+      },
+      "noHp": "81354768057",
+      "namaDesa": "TENILO"
     },
     {
       "id": "7470001636-jasmin-hilomalo-yusuf",
@@ -3453,8 +3805,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "-",
-        "syarikah": "-"
-      }
+        "syarikah": "-",
+        "noHp": "",
+        "namaDesa": ""
+      },
+      "noHp": "",
+      "namaDesa": ""
     },
     {
       "id": "3500686974-jibrilul-alil-imran",
@@ -3491,8 +3847,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81354768057",
+        "namaDesa": "tenilo"
+      },
+      "noHp": "81354768057",
+      "namaDesa": "tenilo"
     },
     {
       "id": "3500678022-jumri-lahi",
@@ -3529,8 +3889,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81354768076",
+        "namaDesa": "TENILO"
+      },
+      "noHp": "81354768076",
+      "namaDesa": "TENILO"
     },
     {
       "id": "3500677833-marwin-hasan",
@@ -3567,8 +3931,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81340299455",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "81340299455",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500678361-meilany-wungguli",
@@ -3605,8 +3973,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82259223971",
+        "namaDesa": "HELEDEULAA SELATAN"
+      },
+      "noHp": "82259223971",
+      "namaDesa": "HELEDEULAA SELATAN"
     },
     {
       "id": "3500677822-roike-ibrahim-yakob",
@@ -3643,8 +4015,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8124404807",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "8124404807",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500686966-sry-mulyani",
@@ -3681,8 +4057,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82173755457",
+        "namaDesa": "TENILO"
+      },
+      "noHp": "82173755457",
+      "namaDesa": "TENILO"
     },
     {
       "id": "3500678025-supardin-galib",
@@ -3719,8 +4099,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82173755457",
+        "namaDesa": "TENILO"
+      },
+      "noHp": "82173755457",
+      "namaDesa": "TENILO"
     },
     {
       "id": "3500678457-abdul-rahman-lakadjo",
@@ -3757,8 +4141,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "811430838",
+        "namaDesa": "HELEDULAA UTARA"
+      },
+      "noHp": "811430838",
+      "namaDesa": "HELEDULAA UTARA"
     },
     {
       "id": "3500677905-asra-umar-murad",
@@ -3795,8 +4183,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81245265072",
+        "namaDesa": "BUGIS"
+      },
+      "noHp": "81245265072",
+      "namaDesa": "BUGIS"
     },
     {
       "id": "3500678193-merny-usman-podungge",
@@ -3833,8 +4225,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240833445",
+        "namaDesa": "TALUMOLO"
+      },
+      "noHp": "85240833445",
+      "namaDesa": "TALUMOLO"
     },
     {
       "id": "3500684905-mohamad-shafri-botutihe",
@@ -3871,8 +4267,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85281293369",
+        "namaDesa": "TALUMOLO"
+      },
+      "noHp": "85281293369",
+      "namaDesa": "TALUMOLO"
     },
     {
       "id": "3500684248-nilawaty-murad-umar",
@@ -3909,8 +4309,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256537890",
+        "namaDesa": "BUGIS"
+      },
+      "noHp": "85256537890",
+      "namaDesa": "BUGIS"
     },
     {
       "id": "3500678121-samsudin-laderi-sun",
@@ -3947,8 +4351,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85399600199",
+        "namaDesa": "BUGIS"
+      },
+      "noHp": "85399600199",
+      "namaDesa": "BUGIS"
     },
     {
       "id": "3500678194-sitti-fajria-botutihe",
@@ -3985,8 +4393,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240833445",
+        "namaDesa": "TALUMOLO"
+      },
+      "noHp": "85240833445",
+      "namaDesa": "TALUMOLO"
     },
     {
       "id": "3500678455-sulastri-binti-abusari-lamusu",
@@ -4023,8 +4435,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256927117",
+        "namaDesa": "HELEDULAA UTARA"
+      },
+      "noHp": "85256927117",
+      "namaDesa": "HELEDULAA UTARA"
     },
     {
       "id": "3500678449-thalha-bohtem-mohamad",
@@ -4061,8 +4477,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82393227641",
+        "namaDesa": "BOTU"
+      },
+      "noHp": "82393227641",
+      "namaDesa": "BOTU"
     },
     {
       "id": "3500678422-yahya-akantu",
@@ -4099,8 +4519,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85342513355",
+        "namaDesa": "BUGIS"
+      },
+      "noHp": "85342513355",
+      "namaDesa": "BUGIS"
     },
     {
       "id": "3500678311-farida-anwar",
@@ -4137,8 +4561,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "895328981836",
+        "namaDesa": "TOMULABUTAO"
+      },
+      "noHp": "895328981836",
+      "namaDesa": "TOMULABUTAO"
     },
     {
       "id": "3500677604-ferra-moha",
@@ -4175,8 +4603,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256464314",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "85256464314",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500678287-hafid-buta",
@@ -4213,8 +4645,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85932936819",
+        "namaDesa": "TOMULABUTAO SELATAN"
+      },
+      "noHp": "85932936819",
+      "namaDesa": "TOMULABUTAO SELATAN"
     },
     {
       "id": "3500678215-marwan-dako-mursidi",
@@ -4251,8 +4687,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8124478029",
+        "namaDesa": "DONGGALA"
+      },
+      "noHp": "8124478029",
+      "namaDesa": "DONGGALA"
     },
     {
       "id": "3500678134-mohammad-taufik-saleh",
@@ -4289,8 +4729,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8124313403",
+        "namaDesa": "WUMIALO"
+      },
+      "noHp": "8124313403",
+      "namaDesa": "WUMIALO"
     },
     {
       "id": "3500677603-regita-cahyani-daud",
@@ -4327,8 +4771,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81243391620",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "81243391620",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500678166-sauda-suwele-kadir",
@@ -4365,8 +4813,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "87777456916",
+        "namaDesa": "TOMULABUTAO SELATAN"
+      },
+      "noHp": "87777456916",
+      "namaDesa": "TOMULABUTAO SELATAN"
     },
     {
       "id": "3500678133-wahyuni-amin",
@@ -4403,8 +4855,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81342582787",
+        "namaDesa": "WUMIALO"
+      },
+      "noHp": "81342582787",
+      "namaDesa": "WUMIALO"
     },
     {
       "id": "3500678216-yeni-jusuf-asri",
@@ -4441,8 +4897,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85397744454",
+        "namaDesa": "DONGGALA"
+      },
+      "noHp": "85397744454",
+      "namaDesa": "DONGGALA"
     },
     {
       "id": "3500678805-yuli-runtulalo",
@@ -4479,8 +4939,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240326636",
+        "namaDesa": "TOMULABUTAO SELATAN"
+      },
+      "noHp": "85240326636",
+      "namaDesa": "TOMULABUTAO SELATAN"
     },
     {
       "id": "3500678265-agus-maliki",
@@ -4517,8 +4981,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81343701577",
+        "namaDesa": "LIBUO"
+      },
+      "noHp": "81343701577",
+      "namaDesa": "LIBUO"
     },
     {
       "id": "3500678224-erni-matili",
@@ -4555,8 +5023,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82259457685",
+        "namaDesa": "LIBUO"
+      },
+      "noHp": "82259457685",
+      "namaDesa": "LIBUO"
     },
     {
       "id": "3500678220-fatmawati-kadjudju-gandi",
@@ -4593,8 +5065,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81244051735",
+        "namaDesa": "IPILO"
+      },
+      "noHp": "81244051735",
+      "namaDesa": "IPILO"
     },
     {
       "id": "3500678223-iwan-kude-samadi",
@@ -4631,8 +5107,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82259457685",
+        "namaDesa": "LIBUO"
+      },
+      "noHp": "82259457685",
+      "namaDesa": "LIBUO"
     },
     {
       "id": "3500679578-moh-nur-aliwu",
@@ -4669,8 +5149,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81356381234",
+        "namaDesa": "WUMIALO"
+      },
+      "noHp": "81356381234",
+      "namaDesa": "WUMIALO"
     },
     {
       "id": "3500678195-selvy-igirisa",
@@ -4707,8 +5191,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81356381234",
+        "namaDesa": "WUMIALO"
+      },
+      "noHp": "81356381234",
+      "namaDesa": "WUMIALO"
     },
     {
       "id": "3500678229-silfana-latoini",
@@ -4745,8 +5233,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "895326427100",
+        "namaDesa": "BUGIS"
+      },
+      "noHp": "895326427100",
+      "namaDesa": "BUGIS"
     },
     {
       "id": "3500678150-suwardi-yusup-umlina",
@@ -4783,8 +5275,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256396860",
+        "namaDesa": "WONGKADITI BARAT"
+      },
+      "noHp": "85256396860",
+      "namaDesa": "WONGKADITI BARAT"
     },
     {
       "id": "3500678151-wiranti-tambipi",
@@ -4821,8 +5317,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82346951855",
+        "namaDesa": "WONGKADITI BARAT"
+      },
+      "noHp": "82346951855",
+      "namaDesa": "WONGKADITI BARAT"
     },
     {
       "id": "3500678266-yunangsih-kudjiman-raden-sunge",
@@ -4859,8 +5359,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81394505975",
+        "namaDesa": "LIBUO"
+      },
+      "noHp": "81394505975",
+      "namaDesa": "LIBUO"
     },
     {
       "id": "3500678445-ambo-enre",
@@ -4897,8 +5401,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256758699",
+        "namaDesa": "PULUBALA"
+      },
+      "noHp": "85256758699",
+      "namaDesa": "PULUBALA"
     },
     {
       "id": "3500678472-ampauleng-zainuddin-ngati",
@@ -4935,8 +5443,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82290556330",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "82290556330",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500678515-andi-kasmawati-kasa",
@@ -4973,8 +5485,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85342835544",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "85342835544",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500678442-baharuddin-welong",
@@ -5011,8 +5527,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85398745557",
+        "namaDesa": "BULOTADAA TIMUR"
+      },
+      "noHp": "85398745557",
+      "namaDesa": "BULOTADAA TIMUR"
     },
     {
       "id": "3500678441-indo-lala",
@@ -5049,8 +5569,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85396397979",
+        "namaDesa": "BULOTADAA TIMUR"
+      },
+      "noHp": "85396397979",
+      "namaDesa": "BULOTADAA TIMUR"
     },
     {
       "id": "3500678494-mujahid-damopolii-abdul-kadir",
@@ -5087,8 +5611,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81340097372",
+        "namaDesa": "BULADU"
+      },
+      "noHp": "81340097372",
+      "namaDesa": "BULADU"
     },
     {
       "id": "3500678493-nelyan-helma-mokoginta",
@@ -5125,8 +5653,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8124470120",
+        "namaDesa": "BULADU"
+      },
+      "noHp": "8124470120",
+      "namaDesa": "BULADU"
     },
     {
       "id": "3500678469-rini-muchtiari-makkatareng",
@@ -5163,8 +5695,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240110659",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "85240110659",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500678518-risnayati-mustafa-bitte",
@@ -5201,8 +5737,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85255575761",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "85255575761",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500678444-siti-arafa",
@@ -5239,8 +5779,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256758699",
+        "namaDesa": "PULUBALA"
+      },
+      "noHp": "85256758699",
+      "namaDesa": "PULUBALA"
     },
     {
       "id": "3500677400-sumanti-dini-tangahu",
@@ -5277,8 +5821,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81356696830",
+        "namaDesa": "DULALOWO TIMUR"
+      },
+      "noHp": "81356696830",
+      "namaDesa": "DULALOWO TIMUR"
     },
     {
       "id": "3500678478-darmawati-amide-yunus",
@@ -5315,8 +5863,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8514642209",
+        "namaDesa": "DEMBE JAYA"
+      },
+      "noHp": "8514642209",
+      "namaDesa": "DEMBE JAYA"
     },
     {
       "id": "3500682861-mohammad-fathir-saputra",
@@ -5353,8 +5905,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85397783501",
+        "namaDesa": "LIMBA U II"
+      },
+      "noHp": "85397783501",
+      "namaDesa": "LIMBA U II"
     },
     {
       "id": "3500678479-muhammad-yunus-guzasiah",
@@ -5391,8 +5947,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82196437300",
+        "namaDesa": "DEMBE JAYA"
+      },
+      "noHp": "82196437300",
+      "namaDesa": "DEMBE JAYA"
     },
     {
       "id": "3500678172-nadira-zalsabilah-fahmi",
@@ -5429,8 +5989,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8124475001",
+        "namaDesa": "LIMBA U II"
+      },
+      "noHp": "8124475001",
+      "namaDesa": "LIMBA U II"
     },
     {
       "id": "3500678167-noviyanti-jufri-nonci",
@@ -5467,8 +6031,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85299940000",
+        "namaDesa": "LIMBA B"
+      },
+      "noHp": "85299940000",
+      "namaDesa": "LIMBA B"
     },
     {
       "id": "3500678171-rafly-hardyansah-fahmi",
@@ -5505,8 +6073,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8124475001",
+        "namaDesa": "LIMBA U II"
+      },
+      "noHp": "8124475001",
+      "namaDesa": "LIMBA U II"
     },
     {
       "id": "3500677880-rudi-sarifudin-kamarong",
@@ -5543,8 +6115,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240562107",
+        "namaDesa": "LIMBA U II"
+      },
+      "noHp": "85240562107",
+      "namaDesa": "LIMBA U II"
     },
     {
       "id": "3500678165-sandi-darling-nonci",
@@ -5581,8 +6157,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85299940000",
+        "namaDesa": "LIMBA B"
+      },
+      "noHp": "85299940000",
+      "namaDesa": "LIMBA B"
     },
     {
       "id": "3500015564-tsurayya-fadilah-ramadhani",
@@ -5619,8 +6199,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82271355838",
+        "namaDesa": "LIMBA U II"
+      },
+      "noHp": "82271355838",
+      "namaDesa": "LIMBA U II"
     },
     {
       "id": "3500687424-zalfa-sahiyya-putri",
@@ -5657,8 +6241,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240110790",
+        "namaDesa": "PAGUYAMAN"
+      },
+      "noHp": "85240110790",
+      "namaDesa": "PAGUYAMAN"
     },
     {
       "id": "3500676520-abdul-haris-pakaya",
@@ -5695,8 +6283,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240190410",
+        "namaDesa": "MOLOSIFAT W"
+      },
+      "noHp": "85240190410",
+      "namaDesa": "MOLOSIFAT W"
     },
     {
       "id": "3500677792-adhelin-sahi-yunan",
@@ -5733,8 +6325,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85342393123",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "85342393123",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500678120-asma-mohammad-aslam",
@@ -5771,8 +6367,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82194405217",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "82194405217",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500678343-asni-pakaja",
@@ -5809,8 +6409,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85298633363",
+        "namaDesa": "TENILO"
+      },
+      "noHp": "85298633363",
+      "namaDesa": "TENILO"
     },
     {
       "id": "3500678213-baderia-madda-remmeng",
@@ -5847,8 +6451,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82190006748",
+        "namaDesa": "PULUBALA"
+      },
+      "noHp": "82190006748",
+      "namaDesa": "PULUBALA"
     },
     {
       "id": "3500678005-hardjon-igirisa",
@@ -5885,8 +6493,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81242951450",
+        "namaDesa": "LIMBA U II"
+      },
+      "noHp": "81242951450",
+      "namaDesa": "LIMBA U II"
     },
     {
       "id": "3500678261-mardia-idi-latif",
@@ -5923,8 +6535,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85146266650",
+        "namaDesa": "BULOTADAA TIMUR"
+      },
+      "noHp": "85146266650",
+      "namaDesa": "BULOTADAA TIMUR"
     },
     {
       "id": "3500678260-meis-rahmat",
@@ -5961,8 +6577,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85242911490",
+        "namaDesa": "BIAWU"
+      },
+      "noHp": "85242911490",
+      "namaDesa": "BIAWU"
     },
     {
       "id": "3500678214-nurdin-palancoi",
@@ -5999,8 +6619,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81340815779",
+        "namaDesa": "PULUBALA"
+      },
+      "noHp": "81340815779",
+      "namaDesa": "PULUBALA"
     },
     {
       "id": "3500676521-nurhayati-nasaru-abubakar",
@@ -6037,8 +6661,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82346001313",
+        "namaDesa": "MOLOSIFAT W"
+      },
+      "noHp": "82346001313",
+      "namaDesa": "MOLOSIFAT W"
     },
     {
       "id": "3500678160-eflin-panigoro-djalil",
@@ -6075,8 +6703,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81356856262",
+        "namaDesa": "DONGGALA"
+      },
+      "noHp": "81356856262",
+      "namaDesa": "DONGGALA"
     },
     {
       "id": "3500678034-jois-musa",
@@ -6113,8 +6745,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8114319223",
+        "namaDesa": "DULOMO SELATAN"
+      },
+      "noHp": "8114319223",
+      "namaDesa": "DULOMO SELATAN"
     },
     {
       "id": "3500678161-maryam-adam",
@@ -6151,8 +6787,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85270702543",
+        "namaDesa": "LIBUO"
+      },
+      "noHp": "85270702543",
+      "namaDesa": "LIBUO"
     },
     {
       "id": "3500678302-rahmi-liputo",
@@ -6189,8 +6829,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81241284858",
+        "namaDesa": "BULADU"
+      },
+      "noHp": "81241284858",
+      "namaDesa": "BULADU"
     },
     {
       "id": "3500676985-rasyid-polumulo",
@@ -6227,8 +6871,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8114606788",
+        "namaDesa": "TENDA"
+      },
+      "noHp": "8114606788",
+      "namaDesa": "TENDA"
     },
     {
       "id": "3500678035-rustam-mustafa",
@@ -6265,8 +6913,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85298836618",
+        "namaDesa": "DULOMO SELATAN"
+      },
+      "noHp": "85298836618",
+      "namaDesa": "DULOMO SELATAN"
     },
     {
       "id": "3500678026-safri-mustapa",
@@ -6303,8 +6955,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81356783000",
+        "namaDesa": "LILUWO"
+      },
+      "noHp": "81356783000",
+      "namaDesa": "LILUWO"
     },
     {
       "id": "3500678000-salma-maseke",
@@ -6341,8 +6997,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81244384142",
+        "namaDesa": "TOMULABUTAO"
+      },
+      "noHp": "81244384142",
+      "namaDesa": "TOMULABUTAO"
     },
     {
       "id": "3500678306-siskawaty-duma",
@@ -6379,8 +7039,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81241124442",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "81241124442",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500677275-usman-gobel",
@@ -6417,8 +7081,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85398734528",
+        "namaDesa": "DEMBE JAYA"
+      },
+      "noHp": "85398734528",
+      "namaDesa": "DEMBE JAYA"
     },
     {
       "id": "3500678315-banun-bachsin",
@@ -6455,8 +7123,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81244896794",
+        "namaDesa": "HELEDULAA SELATAN"
+      },
+      "noHp": "81244896794",
+      "namaDesa": "HELEDULAA SELATAN"
     },
     {
       "id": "3500678377-elysa-gobel",
@@ -6493,8 +7165,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81340877315",
+        "namaDesa": "DESA TALUMOPATU"
+      },
+      "noHp": "81340877315",
+      "namaDesa": "DESA TALUMOPATU"
     },
     {
       "id": "3500678344-fadli-husen-alamri",
@@ -6531,8 +7207,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85298624359",
+        "namaDesa": "LIMBA B"
+      },
+      "noHp": "85298624359",
+      "namaDesa": "LIMBA B"
     },
     {
       "id": "3500678389-farina-zubedi",
@@ -6569,8 +7249,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85146475805",
+        "namaDesa": "BUGIS"
+      },
+      "noHp": "85146475805",
+      "namaDesa": "BUGIS"
     },
     {
       "id": "3500678345-hadija-hasan",
@@ -6607,8 +7291,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85298647190",
+        "namaDesa": "LIMBA B"
+      },
+      "noHp": "85298647190",
+      "namaDesa": "LIMBA B"
     },
     {
       "id": "3500678376-jismon-djakaria",
@@ -6645,8 +7333,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8114316715",
+        "namaDesa": "TOMULABUTAO SELATAN"
+      },
+      "noHp": "8114316715",
+      "namaDesa": "TOMULABUTAO SELATAN"
     },
     {
       "id": "3500678375-maryam-panigoro-umar",
@@ -6683,8 +7375,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81356995020",
+        "namaDesa": "MOLOSIPAT W"
+      },
+      "noHp": "81356995020",
+      "namaDesa": "MOLOSIPAT W"
     },
     {
       "id": "3500678366-mohamad-faturahman-alganani",
@@ -6721,8 +7417,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240062400",
+        "namaDesa": "PAGUYAMAN"
+      },
+      "noHp": "85240062400",
+      "namaDesa": "PAGUYAMAN"
     },
     {
       "id": "3500678374-muhamad-fathanah-djakaria",
@@ -6759,8 +7459,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82290608015",
+        "namaDesa": "TOMULABUTAO SELATAN"
+      },
+      "noHp": "82290608015",
+      "namaDesa": "TOMULABUTAO SELATAN"
     },
     {
       "id": "3500678392-nursyafrianty-taha",
@@ -6797,8 +7501,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256014796",
+        "namaDesa": "LIMBA B"
+      },
+      "noHp": "85256014796",
+      "namaDesa": "LIMBA B"
     },
     {
       "id": "3500678346-samya-hasan-fray",
@@ -6835,8 +7543,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82191459094",
+        "namaDesa": "LIMBA B"
+      },
+      "noHp": "82191459094",
+      "namaDesa": "LIMBA B"
     },
     {
       "id": "3500678407-asmin-s-suleman",
@@ -6873,8 +7585,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85341310913",
+        "namaDesa": "BUGIS"
+      },
+      "noHp": "85341310913",
+      "namaDesa": "BUGIS"
     },
     {
       "id": "3500678028-hartin-maliki",
@@ -6911,8 +7627,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81342782264",
+        "namaDesa": "LIMBA B"
+      },
+      "noHp": "81342782264",
+      "namaDesa": "LIMBA B"
     },
     {
       "id": "3500678406-hasan-hamid",
@@ -6949,8 +7669,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85341310913",
+        "namaDesa": "BUGIS"
+      },
+      "noHp": "85341310913",
+      "namaDesa": "BUGIS"
     },
     {
       "id": "3500678506-ismartono-balango-imran",
@@ -6987,8 +7711,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "811560094",
+        "namaDesa": "DULALOWO TIMUR"
+      },
+      "noHp": "811560094",
+      "namaDesa": "DULALOWO TIMUR"
     },
     {
       "id": "3500678398-lian-ahmad",
@@ -7025,8 +7753,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85210029977",
+        "namaDesa": "PULUBALA"
+      },
+      "noHp": "85210029977",
+      "namaDesa": "PULUBALA"
     },
     {
       "id": "3500677942-maryeni-dunggio-sun",
@@ -7063,8 +7795,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240125707",
+        "namaDesa": "LIBUO"
+      },
+      "noHp": "85240125707",
+      "namaDesa": "LIBUO"
     },
     {
       "id": "3500678507-restu-hestiyati-moo",
@@ -7101,8 +7837,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8115700094",
+        "namaDesa": "DULALOWO TIMUR"
+      },
+      "noHp": "8115700094",
+      "namaDesa": "DULALOWO TIMUR"
     },
     {
       "id": "3500677710-rizal-ombingo-djainudin",
@@ -7139,8 +7879,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85298447979",
+        "namaDesa": "BULOTADAA TIMUR"
+      },
+      "noHp": "85298447979",
+      "namaDesa": "BULOTADAA TIMUR"
     },
     {
       "id": "3500678126-sardin-abas-mani",
@@ -7177,8 +7921,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256252616",
+        "namaDesa": "LIMBA U II"
+      },
+      "noHp": "85256252616",
+      "namaDesa": "LIMBA U II"
     },
     {
       "id": "3500677739-suarni-bano",
@@ -7215,8 +7963,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85397911858",
+        "namaDesa": "TOMULABUTAO SELATAN"
+      },
+      "noHp": "85397911858",
+      "namaDesa": "TOMULABUTAO SELATAN"
     },
     {
       "id": "3500678348-arifin-hamzah",
@@ -7253,8 +8005,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81225872590",
+        "namaDesa": "DEMBE JAYA"
+      },
+      "noHp": "81225872590",
+      "namaDesa": "DEMBE JAYA"
     },
     {
       "id": "3500678276-darlin-malayu-mohamad",
@@ -7291,8 +8047,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82296485076",
+        "namaDesa": "BIAWU"
+      },
+      "noHp": "82296485076",
+      "namaDesa": "BIAWU"
     },
     {
       "id": "3500678149-fitri-doka",
@@ -7329,8 +8089,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240269093",
+        "namaDesa": "HELEDULAA UTARA"
+      },
+      "noHp": "85240269093",
+      "namaDesa": "HELEDULAA UTARA"
     },
     {
       "id": "3500678364-iri-hawaria-dengo",
@@ -7367,8 +8131,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85298713799",
+        "namaDesa": "TAPA"
+      },
+      "noHp": "85298713799",
+      "namaDesa": "TAPA"
     },
     {
       "id": "3500677774-ridwan-m-abas",
@@ -7405,8 +8173,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81342222529",
+        "namaDesa": "TOMULABUTAO SELATAN"
+      },
+      "noHp": "81342222529",
+      "namaDesa": "TOMULABUTAO SELATAN"
     },
     {
       "id": "3500678292-rudiyanto-katili",
@@ -7443,8 +8215,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8124310999",
+        "namaDesa": "HELEDULAA UTARA"
+      },
+      "noHp": "8124310999",
+      "namaDesa": "HELEDULAA UTARA"
     },
     {
       "id": "3500015214-sarlin-mooduto",
@@ -7481,8 +8257,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85123995020",
+        "namaDesa": "TAMALATE"
+      },
+      "noHp": "85123995020",
+      "namaDesa": "TAMALATE"
     },
     {
       "id": "3500678293-sitti-aminah",
@@ -7519,8 +8299,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81244444466",
+        "namaDesa": "HELEDULAA UTARA"
+      },
+      "noHp": "81244444466",
+      "namaDesa": "HELEDULAA UTARA"
     },
     {
       "id": "3500678356-sitti-fatimah-meylandri-arsad",
@@ -7557,8 +8341,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85399537711",
+        "namaDesa": "LIMBA U II"
+      },
+      "noHp": "85399537711",
+      "namaDesa": "LIMBA U II"
     },
     {
       "id": "3500678355-sitti-nurtiah-arsad",
@@ -7595,8 +8383,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82215525292",
+        "namaDesa": "LIMBA U II"
+      },
+      "noHp": "82215525292",
+      "namaDesa": "LIMBA U II"
     },
     {
       "id": "3500677790-arsad-muhammad-labungasa",
@@ -7633,8 +8425,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8124402582",
+        "namaDesa": "MOLOSIFAT U"
+      },
+      "noHp": "8124402582",
+      "namaDesa": "MOLOSIFAT U"
     },
     {
       "id": "3500677657-deysi-daenunu",
@@ -7671,8 +8467,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81356659900",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "81356659900",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500677736-fatmah-latif",
@@ -7709,8 +8509,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85145787610",
+        "namaDesa": "LEKOBALO"
+      },
+      "noHp": "85145787610",
+      "namaDesa": "LEKOBALO"
     },
     {
       "id": "3500677658-ferdi-adam",
@@ -7747,8 +8551,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240758919",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "85240758919",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500685256-satria-latif",
@@ -7785,8 +8593,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256298175",
+        "namaDesa": "LEKOBALO"
+      },
+      "noHp": "85256298175",
+      "namaDesa": "LEKOBALO"
     },
     {
       "id": "3500677791-sulastry-abdullah",
@@ -7823,8 +8635,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256303568",
+        "namaDesa": "MOLOSIFAT U"
+      },
+      "noHp": "85256303568",
+      "namaDesa": "MOLOSIFAT U"
     },
     {
       "id": "3500677746-suryani-tjan-dunggio",
@@ -7861,8 +8677,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81342222228",
+        "namaDesa": "MOLOSIFAT U"
+      },
+      "noHp": "81342222228",
+      "namaDesa": "MOLOSIFAT U"
     },
     {
       "id": "3500678535-syamsiah-gobel",
@@ -7899,8 +8719,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82349368924",
+        "namaDesa": "BIAWU"
+      },
+      "noHp": "82349368924",
+      "namaDesa": "BIAWU"
     },
     {
       "id": "3500678550-syamsudin-djailani",
@@ -7937,8 +8761,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85398191835",
+        "namaDesa": "TULADENGGI"
+      },
+      "noHp": "85398191835",
+      "namaDesa": "TULADENGGI"
     },
     {
       "id": "3500678551-titi-cendra-kasih-pangalima",
@@ -7975,8 +8803,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82189062773",
+        "namaDesa": "TULADENGGI"
+      },
+      "noHp": "82189062773",
+      "namaDesa": "TULADENGGI"
     },
     {
       "id": "3500678532-ahmad-nango",
@@ -8013,8 +8845,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "895352634433",
+        "namaDesa": "LIMBA U II"
+      },
+      "noHp": "895352634433",
+      "namaDesa": "LIMBA U II"
     },
     {
       "id": "3500678510-dian-pravitasari-mahmud",
@@ -8051,8 +8887,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81244096559",
+        "namaDesa": "PULUBALA"
+      },
+      "noHp": "81244096559",
+      "namaDesa": "PULUBALA"
     },
     {
       "id": "3500678255-fatmawati-abdullah-hamid",
@@ -8089,8 +8929,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82297551154",
+        "namaDesa": "WUMIALO"
+      },
+      "noHp": "82297551154",
+      "namaDesa": "WUMIALO"
     },
     {
       "id": "3500677812-irsanty-wungguli",
@@ -8127,8 +8971,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81340662438",
+        "namaDesa": "HELEDULAA UTARA"
+      },
+      "noHp": "81340662438",
+      "namaDesa": "HELEDULAA UTARA"
     },
     {
       "id": "3500678122-iyam-ibura",
@@ -8165,8 +9013,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256564652",
+        "namaDesa": "TOMULABUTAO SELATAN"
+      },
+      "noHp": "85256564652",
+      "namaDesa": "TOMULABUTAO SELATAN"
     },
     {
       "id": "3500678511-jois-gobel",
@@ -8203,8 +9055,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82191498446",
+        "namaDesa": "MOODU"
+      },
+      "noHp": "82191498446",
+      "namaDesa": "MOODU"
     },
     {
       "id": "3500678379-kaharuddin-kamaru-achmad",
@@ -8241,8 +9097,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "811431717",
+        "namaDesa": "LILUWO"
+      },
+      "noHp": "811431717",
+      "namaDesa": "LILUWO"
     },
     {
       "id": "3500678381-linda-arsyad-rahman",
@@ -8279,8 +9139,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "811430175",
+        "namaDesa": "LILUWO"
+      },
+      "noHp": "811430175",
+      "namaDesa": "LILUWO"
     },
     {
       "id": "3500681361-mohamad-hidayat-koniyo",
@@ -8317,8 +9181,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "811430322",
+        "namaDesa": "DULALOWO"
+      },
+      "noHp": "811430322",
+      "namaDesa": "DULALOWO"
     },
     {
       "id": "3500677435-roma-niuwa",
@@ -8355,8 +9223,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81395999851",
+        "namaDesa": "YOSONEGORO/LIMBOTO BARAT"
+      },
+      "noHp": "81395999851",
+      "namaDesa": "YOSONEGORO/LIMBOTO BARAT"
     },
     {
       "id": "3500678520-selvian-lamusu-hok",
@@ -8393,8 +9265,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82346984551",
+        "namaDesa": "LIMBA U II"
+      },
+      "noHp": "82346984551",
+      "namaDesa": "LIMBA U II"
     },
     {
       "id": "3500678129-agustin-neu",
@@ -8431,8 +9307,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256221842",
+        "namaDesa": "BULOTADAA TIMUR"
+      },
+      "noHp": "85256221842",
+      "namaDesa": "BULOTADAA TIMUR"
     },
     {
       "id": "3500678056-alyn-pou",
@@ -8469,8 +9349,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85242516630",
+        "namaDesa": "LIMBA U 2"
+      },
+      "noHp": "85242516630",
+      "namaDesa": "LIMBA U 2"
     },
     {
       "id": "3500678530-isna-gobel",
@@ -8507,8 +9391,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240085657",
+        "namaDesa": "PILOHAYANGA / TELAGA"
+      },
+      "noHp": "85240085657",
+      "namaDesa": "PILOHAYANGA / TELAGA"
     },
     {
       "id": "3500687957-mirnawaty-n-zakaria",
@@ -8545,8 +9433,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256888488",
+        "namaDesa": "DULOMO SELATAN"
+      },
+      "noHp": "85256888488",
+      "namaDesa": "DULOMO SELATAN"
     },
     {
       "id": "3500677902-nasir-zakaria",
@@ -8583,8 +9475,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81244775188",
+        "namaDesa": "DEMBE JAYA"
+      },
+      "noHp": "81244775188",
+      "namaDesa": "DEMBE JAYA"
     },
     {
       "id": "3500678384-ramli-kasim-nassa",
@@ -8621,8 +9517,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85255342323",
+        "namaDesa": "BULULI/ASPARAGA"
+      },
+      "noHp": "85255342323",
+      "namaDesa": "BULULI/ASPARAGA"
     },
     {
       "id": "3500676553-rifli-muhammad-katili",
@@ -8659,8 +9559,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "8124458463",
+        "namaDesa": "WUMIALO"
+      },
+      "noHp": "8124458463",
+      "namaDesa": "WUMIALO"
     },
     {
       "id": "3500678057-umar-ismail",
@@ -8697,8 +9601,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81356645647",
+        "namaDesa": "PANTUNGO/TELAGA BIRU"
+      },
+      "noHp": "81356645647",
+      "namaDesa": "PANTUNGO/TELAGA BIRU"
     },
     {
       "id": "3500686972-wis-m-lantu",
@@ -8735,8 +9643,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85397478599",
+        "namaDesa": "BULOTADAA TIMUR"
+      },
+      "noHp": "85397478599",
+      "namaDesa": "BULOTADAA TIMUR"
     },
     {
       "id": "3500678383-yuni-nugrah-made",
@@ -8773,8 +9685,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85399661818",
+        "namaDesa": "BULULI/ASPARAGA"
+      },
+      "noHp": "85399661818",
+      "namaDesa": "BULULI/ASPARAGA"
     },
     {
       "id": "3500678274-abdi-suryawan-sahi",
@@ -8811,8 +9727,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81342606265",
+        "namaDesa": "BULADU"
+      },
+      "noHp": "81342606265",
+      "namaDesa": "BULADU"
     },
     {
       "id": "3247350002-agus-akase-kude",
@@ -8849,8 +9769,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "",
+        "namaDesa": ""
+      },
+      "noHp": "",
+      "namaDesa": ""
     },
     {
       "id": "3500678484-hapsa-yusuf-habu",
@@ -8887,8 +9811,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82293333422",
+        "namaDesa": "BUGIS"
+      },
+      "noHp": "82293333422",
+      "namaDesa": "BUGIS"
     },
     {
       "id": "3500678560-laila-abdulgani-giasi",
@@ -8925,8 +9853,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85298789110",
+        "namaDesa": "MODELOMO"
+      },
+      "noHp": "85298789110",
+      "namaDesa": "MODELOMO"
     },
     {
       "id": "3147350001-munkizul-umam-kau",
@@ -8963,8 +9895,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "",
+        "namaDesa": ""
+      },
+      "noHp": "",
+      "namaDesa": ""
     },
     {
       "id": "3500677860-rianto-nur-darwis",
@@ -9001,8 +9937,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85342132756",
+        "namaDesa": "KEC.SIPATANA"
+      },
+      "noHp": "85342132756",
+      "namaDesa": "KEC.SIPATANA"
     },
     {
       "id": "3500678502-rianty-harun",
@@ -9039,8 +9979,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81356407667",
+        "namaDesa": "MOLOSIPAT U"
+      },
+      "noHp": "81356407667",
+      "namaDesa": "MOLOSIPAT U"
     },
     {
       "id": "900164954-roslina-kasim-husin",
@@ -9077,8 +10021,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "",
+        "namaDesa": ""
+      },
+      "noHp": "",
+      "namaDesa": ""
     },
     {
       "id": "3500678131-sarifa-isnora-irawati-dungga",
@@ -9115,8 +10063,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82191398583",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "82191398583",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500677861-sri-suparti-lamadupa",
@@ -9153,8 +10105,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256851936",
+        "namaDesa": "KEC.SIPATANA"
+      },
+      "noHp": "85256851936",
+      "namaDesa": "KEC.SIPATANA"
     },
     {
       "id": "3500678248-enik-erdiana",
@@ -9191,8 +10147,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81244033096",
+        "namaDesa": "PULUBALA"
+      },
+      "noHp": "81244033096",
+      "namaDesa": "PULUBALA"
     },
     {
       "id": "3500678245-firra-laksana-deby-sudarsono",
@@ -9229,8 +10189,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85396378373",
+        "namaDesa": "PULUBALA"
+      },
+      "noHp": "85396378373",
+      "namaDesa": "PULUBALA"
     },
     {
       "id": "3500678500-helmiani-baharuddin",
@@ -9267,8 +10231,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81343906107",
+        "namaDesa": "BUMI BAHARI"
+      },
+      "noHp": "81343906107",
+      "namaDesa": "BUMI BAHARI"
     },
     {
       "id": "3500678495-herlinah-baharuddin",
@@ -9305,8 +10273,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81354058767",
+        "namaDesa": "BUMI BAHARI"
+      },
+      "noHp": "81354058767",
+      "namaDesa": "BUMI BAHARI"
     },
     {
       "id": "3500678247-maisah-binti-bain-paris",
@@ -9343,8 +10315,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81243672552",
+        "namaDesa": "PULUBALA"
+      },
+      "noHp": "81243672552",
+      "namaDesa": "PULUBALA"
     },
     {
       "id": "3500678240-rosminati-sukardi",
@@ -9381,8 +10357,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82187624309",
+        "namaDesa": "HELEDULAA UTARA"
+      },
+      "noHp": "82187624309",
+      "namaDesa": "HELEDULAA UTARA"
     },
     {
       "id": "3500678337-suparji-siswanto",
@@ -9419,8 +10399,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240912633",
+        "namaDesa": "HELEDULAA UTARA"
+      },
+      "noHp": "85240912633",
+      "namaDesa": "HELEDULAA UTARA"
     },
     {
       "id": "3500678256-tamin-hadi-suyoto-yotopawiro",
@@ -9457,8 +10441,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82259863399",
+        "namaDesa": "HELEDULAA SELATAN"
+      },
+      "noHp": "82259863399",
+      "namaDesa": "HELEDULAA SELATAN"
     },
     {
       "id": "3500678257-trinem-reso-katmio",
@@ -9495,8 +10483,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81355825075",
+        "namaDesa": "HELEDULAA SELATAN"
+      },
+      "noHp": "81355825075",
+      "namaDesa": "HELEDULAA SELATAN"
     },
     {
       "id": "3500678239-yolfin-pomanto",
@@ -9533,8 +10525,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82363375544",
+        "namaDesa": "HELEDULAA UTARA"
+      },
+      "noHp": "82363375544",
+      "namaDesa": "HELEDULAA UTARA"
     },
     {
       "id": "3500678142-abdullah-r-ismail",
@@ -9571,8 +10567,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "0",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "0",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500678544-darni-diu-noho",
@@ -9609,8 +10609,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85370244196",
+        "namaDesa": "BULOTADAA BARAT"
+      },
+      "noHp": "85370244196",
+      "namaDesa": "BULOTADAA BARAT"
     },
     {
       "id": "3500677187-fatwatiny-bahua",
@@ -9647,8 +10651,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256315385",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "85256315385",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500687654-fenti-anggraeni-thaib",
@@ -9685,8 +10693,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82348834778",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "82348834778",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500678459-ona-d-igiasi",
@@ -9723,8 +10735,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81287511489",
+        "namaDesa": "TOM ULABUTAO SELATAN"
+      },
+      "noHp": "81287511489",
+      "namaDesa": "TOM ULABUTAO SELATAN"
     },
     {
       "id": "3500677908-rosita-adam",
@@ -9761,8 +10777,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85146467380",
+        "namaDesa": "DULALOWO"
+      },
+      "noHp": "85146467380",
+      "namaDesa": "DULALOWO"
     },
     {
       "id": "3500678508-rukmin-hulukati",
@@ -9799,8 +10819,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81935718454",
+        "namaDesa": "TOMULABUTAO"
+      },
+      "noHp": "81935718454",
+      "namaDesa": "TOMULABUTAO"
     },
     {
       "id": "3500678362-saleh-kasim",
@@ -9837,8 +10861,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85298542914",
+        "namaDesa": "TOMULABUTAO SELATAN"
+      },
+      "noHp": "85298542914",
+      "namaDesa": "TOMULABUTAO SELATAN"
     },
     {
       "id": "3500678460-suleman-harun",
@@ -9875,8 +10903,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81287511489",
+        "namaDesa": "TOMULABUTAO SELATAN"
+      },
+      "noHp": "81287511489",
+      "namaDesa": "TOMULABUTAO SELATAN"
     },
     {
       "id": "3500678238-warni-lahilote",
@@ -9913,8 +10945,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82216967611",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "82216967611",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500678373-yulan-k-jusuf",
@@ -9951,8 +10987,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256967399",
+        "namaDesa": "IPILO"
+      },
+      "noHp": "85256967399",
+      "namaDesa": "IPILO"
     },
     {
       "id": "3500678190-elly-mustapa",
@@ -9989,8 +11029,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256672080",
+        "namaDesa": "LILUWO"
+      },
+      "noHp": "85256672080",
+      "namaDesa": "LILUWO"
     },
     {
       "id": "3500677805-hartati-ngatiman",
@@ -10027,8 +11071,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85299967133",
+        "namaDesa": "TAPA"
+      },
+      "noHp": "85299967133",
+      "namaDesa": "TAPA"
     },
     {
       "id": "3500678470-jamiah-samadi",
@@ -10065,8 +11113,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81340511775",
+        "namaDesa": "LIMBA B"
+      },
+      "noHp": "81340511775",
+      "namaDesa": "LIMBA B"
     },
     {
       "id": "3500685912-jusrin-pakaja",
@@ -10103,8 +11155,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82292484895",
+        "namaDesa": "HUANGOBOTU"
+      },
+      "noHp": "82292484895",
+      "namaDesa": "HUANGOBOTU"
     },
     {
       "id": "3500678471-khasiran-salim",
@@ -10141,8 +11197,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85398196683",
+        "namaDesa": "LIMBA B"
+      },
+      "noHp": "85398196683",
+      "namaDesa": "LIMBA B"
     },
     {
       "id": "3500685541-milawaty-eki",
@@ -10179,8 +11239,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82292484895",
+        "namaDesa": "DULALOWO TIMUR"
+      },
+      "noHp": "82292484895",
+      "namaDesa": "DULALOWO TIMUR"
     },
     {
       "id": "3500677817-misirah-bikun",
@@ -10217,8 +11281,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82344256835",
+        "namaDesa": "TAPA"
+      },
+      "noHp": "82344256835",
+      "namaDesa": "TAPA"
     },
     {
       "id": "3500678178-mohamad-sarimin-hilumalo",
@@ -10255,8 +11323,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256172433",
+        "namaDesa": "TULADENGGI"
+      },
+      "noHp": "85256172433",
+      "namaDesa": "TULADENGGI"
     },
     {
       "id": "3500677802-pairen-rasid",
@@ -10293,8 +11365,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85298667037",
+        "namaDesa": "TAPA"
+      },
+      "noHp": "85298667037",
+      "namaDesa": "TAPA"
     },
     {
       "id": "3500677814-sapingi-djaimo",
@@ -10331,8 +11407,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82344253835",
+        "namaDesa": "TAPA"
+      },
+      "noHp": "82344253835",
+      "namaDesa": "TAPA"
     },
     {
       "id": "3500677958-adha-abd-wahab",
@@ -10369,8 +11449,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85215463959",
+        "namaDesa": "DULOMO SELATAN"
+      },
+      "noHp": "85215463959",
+      "namaDesa": "DULOMO SELATAN"
     },
     {
       "id": "3500678233-ervina-amu",
@@ -10407,8 +11491,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85299501282",
+        "namaDesa": "BULOTADAA BARAT"
+      },
+      "noHp": "85299501282",
+      "namaDesa": "BULOTADAA BARAT"
     },
     {
       "id": "3500678359-lisnawati-didipu-idrus",
@@ -10445,8 +11533,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85243036165",
+        "namaDesa": "LILUWO"
+      },
+      "noHp": "85243036165",
+      "namaDesa": "LILUWO"
     },
     {
       "id": "3500678173-nurlinda-lahemma",
@@ -10483,8 +11575,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85250220848",
+        "namaDesa": "MOTOLOHU"
+      },
+      "noHp": "85250220848",
+      "namaDesa": "MOTOLOHU"
     },
     {
       "id": "3500678174-nurmiah-laceng",
@@ -10521,8 +11617,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85145607032",
+        "namaDesa": "MOTOLUHU"
+      },
+      "noHp": "85145607032",
+      "namaDesa": "MOTOLUHU"
     },
     {
       "id": "3500677068-nurtin-hinta",
@@ -10559,8 +11659,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85340111158",
+        "namaDesa": "Kel. Tomulobutao"
+      },
+      "noHp": "85340111158",
+      "namaDesa": "Kel. Tomulobutao"
     },
     {
       "id": "3500677099-ratna-harun-dako",
@@ -10597,8 +11701,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82188008112",
+        "namaDesa": "TOMULABUTAO SELATAN"
+      },
+      "noHp": "82188008112",
+      "namaDesa": "TOMULABUTAO SELATAN"
     },
     {
       "id": "3500678181-silvana-karim",
@@ -10635,8 +11743,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85241968630",
+        "namaDesa": "TOMULABUTAO"
+      },
+      "noHp": "85241968630",
+      "namaDesa": "TOMULABUTAO"
     },
     {
       "id": "3500678037-sri-ritawani-tuna",
@@ -10673,8 +11785,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240269097",
+        "namaDesa": "TOMULABUTAO"
+      },
+      "noHp": "85240269097",
+      "namaDesa": "TOMULABUTAO"
     },
     {
       "id": "3500678036-yunus-kidamu",
@@ -10711,8 +11827,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81244892344",
+        "namaDesa": "TOMULABUTAO"
+      },
+      "noHp": "81244892344",
+      "namaDesa": "TOMULABUTAO"
     },
     {
       "id": "3500678227-ambo-upe",
@@ -10749,8 +11869,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85299997053",
+        "namaDesa": "MOTOLOHU"
+      },
+      "noHp": "85299997053",
+      "namaDesa": "MOTOLOHU"
     },
     {
       "id": "3500678091-besse-ernianti",
@@ -10787,8 +11911,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85255515133",
+        "namaDesa": "MOTOLOHU"
+      },
+      "noHp": "85255515133",
+      "namaDesa": "MOTOLOHU"
     },
     {
       "id": "3500678228-besse-rawe",
@@ -10825,8 +11953,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85299997053",
+        "namaDesa": "MOTOLOHU"
+      },
+      "noHp": "85299997053",
+      "namaDesa": "MOTOLOHU"
     },
     {
       "id": "3500678093-besse-suriani",
@@ -10863,8 +11995,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85145351063",
+        "namaDesa": "MOTOLOHU"
+      },
+      "noHp": "85145351063",
+      "namaDesa": "MOTOLOHU"
     },
     {
       "id": "3500677353-fitrah-albanat-kaiman",
@@ -10901,8 +12037,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82228066327",
+        "namaDesa": "MANUNGGAL KARYA"
+      },
+      "noHp": "82228066327",
+      "namaDesa": "MANUNGGAL KARYA"
     },
     {
       "id": "3500678481-jahera-sale",
@@ -10939,8 +12079,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85298177644",
+        "namaDesa": "PATUHU"
+      },
+      "noHp": "85298177644",
+      "namaDesa": "PATUHU"
     },
     {
       "id": "3500678186-juhuria-ajo-wilan",
@@ -10977,8 +12121,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85342114253",
+        "namaDesa": "DUHIADAA"
+      },
+      "noHp": "85342114253",
+      "namaDesa": "DUHIADAA"
     },
     {
       "id": "3500678090-jumadi-ambo-angka",
@@ -11015,8 +12163,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85145351063",
+        "namaDesa": "MOTOLOHU"
+      },
+      "noHp": "85145351063",
+      "namaDesa": "MOTOLOHU"
     },
     {
       "id": "3500677356-sumarno-kaiman",
@@ -11053,8 +12205,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240872920",
+        "namaDesa": "MANUNGGAL KARYA"
+      },
+      "noHp": "85240872920",
+      "namaDesa": "MANUNGGAL KARYA"
     },
     {
       "id": "3500678548-zusmiyati-abu",
@@ -11091,8 +12247,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85298177644",
+        "namaDesa": "PATUHU"
+      },
+      "noHp": "85298177644",
+      "namaDesa": "PATUHU"
     },
     {
       "id": "3500678436-hesti-otoluwa",
@@ -11129,8 +12289,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81354309926",
+        "namaDesa": "MARISA SELATAN"
+      },
+      "noHp": "81354309926",
+      "namaDesa": "MARISA SELATAN"
     },
     {
       "id": "3500678474-mansur-mohamad",
@@ -11167,8 +12331,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81398758008",
+        "namaDesa": "SIDUAN"
+      },
+      "noHp": "81398758008",
+      "namaDesa": "SIDUAN"
     },
     {
       "id": "3500677325-moh-bugi-lukman-hakim",
@@ -11205,8 +12373,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82192798200",
+        "namaDesa": "MARISA SELATAN"
+      },
+      "noHp": "82192798200",
+      "namaDesa": "MARISA SELATAN"
     },
     {
       "id": "3500677326-mohamad-aulia",
@@ -11243,8 +12415,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82192798200",
+        "namaDesa": "MARISA SELATAN"
+      },
+      "noHp": "82192798200",
+      "namaDesa": "MARISA SELATAN"
     },
     {
       "id": "3500677324-muhammad-syahril-hery",
@@ -11281,8 +12457,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82192798200",
+        "namaDesa": "MARISA SELATAN"
+      },
+      "noHp": "82192798200",
+      "namaDesa": "MARISA SELATAN"
     },
     {
       "id": "3500688635-naiko-tawaa",
@@ -11319,8 +12499,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81356132132",
+        "namaDesa": "BUNTULIA JAYA"
+      },
+      "noHp": "81356132132",
+      "namaDesa": "BUNTULIA JAYA"
     },
     {
       "id": "3500677044-nirmala-j-rahmola",
@@ -11357,8 +12541,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82336113567",
+        "namaDesa": "DESA BUNUYO"
+      },
+      "noHp": "82336113567",
+      "namaDesa": "DESA BUNUYO"
     },
     {
       "id": "1300670511-okky-farid-febrianto",
@@ -11395,8 +12583,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "",
+        "namaDesa": ""
+      },
+      "noHp": "",
+      "namaDesa": ""
     },
     {
       "id": "3500677322-sadriyo-hery",
@@ -11433,8 +12625,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82192798200",
+        "namaDesa": "MARISA SELATAN"
+      },
+      "noHp": "82192798200",
+      "namaDesa": "MARISA SELATAN"
     },
     {
       "id": "3500677323-siti-um-maimunah-samad-sati",
@@ -11471,8 +12667,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82192798200",
+        "namaDesa": "MARISA SELATAN"
+      },
+      "noHp": "82192798200",
+      "namaDesa": "MARISA SELATAN"
     },
     {
       "id": "3500680156-suud-darson-beleneti",
@@ -11509,8 +12709,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82221000075",
+        "namaDesa": "DESA BUNTULIA UTARA"
+      },
+      "noHp": "82221000075",
+      "namaDesa": "DESA BUNTULIA UTARA"
     },
     {
       "id": "3500677976-anies-radjak-yunus",
@@ -11547,8 +12751,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240521654",
+        "namaDesa": "MARISA UTARA"
+      },
+      "noHp": "85240521654",
+      "namaDesa": "MARISA UTARA"
     },
     {
       "id": "3500678030-baharuddin-aras",
@@ -11585,8 +12793,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82197195477",
+        "namaDesa": "TERATAI"
+      },
+      "noHp": "82197195477",
+      "namaDesa": "TERATAI"
     },
     {
       "id": "3500677977-fadhilah-radjak-anies",
@@ -11623,8 +12835,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82291798895",
+        "namaDesa": "MARISA UTARA"
+      },
+      "noHp": "82291798895",
+      "namaDesa": "MARISA UTARA"
     },
     {
       "id": "3500678420-iskandar-datau-mahmud",
@@ -11661,8 +12877,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82310626232",
+        "namaDesa": "MARISA SELATAN"
+      },
+      "noHp": "82310626232",
+      "namaDesa": "MARISA SELATAN"
     },
     {
       "id": "3500678351-marlina-pikoli",
@@ -11699,8 +12919,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85298823783",
+        "namaDesa": "TALUDUYUNU"
+      },
+      "noHp": "85298823783",
+      "namaDesa": "TALUDUYUNU"
     },
     {
       "id": "3500677952-melly-s-dunggio",
@@ -11737,8 +12961,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81342104544",
+        "namaDesa": "PENTADU"
+      },
+      "noHp": "81342104544",
+      "namaDesa": "PENTADU"
     },
     {
       "id": "3500678033-nursaadah-baharuddin-aras",
@@ -11775,8 +13003,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81244378855",
+        "namaDesa": "TERATAI"
+      },
+      "noHp": "81244378855",
+      "namaDesa": "TERATAI"
     },
     {
       "id": "3500677986-risno-inaku",
@@ -11813,8 +13045,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85218404889",
+        "namaDesa": "BUNTULIA JAYA"
+      },
+      "noHp": "85218404889",
+      "namaDesa": "BUNTULIA JAYA"
     },
     {
       "id": "3500678501-ronny-jusuf-pakaya",
@@ -11851,8 +13087,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256323566",
+        "namaDesa": "MARISA UTARA"
+      },
+      "noHp": "85256323566",
+      "namaDesa": "MARISA UTARA"
     },
     {
       "id": "3500677923-sri-wilin-dunggio",
@@ -11889,8 +13129,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85218403889",
+        "namaDesa": "BUNTULIA"
+      },
+      "noHp": "85218403889",
+      "namaDesa": "BUNTULIA"
     },
     {
       "id": "3500678234-amina-ahmad-mudi",
@@ -11927,8 +13171,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82344080922",
+        "namaDesa": "PANCAKARSA 1"
+      },
+      "noHp": "82344080922",
+      "namaDesa": "PANCAKARSA 1"
     },
     {
       "id": "3500677881-chairul-anam",
@@ -11965,8 +13213,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85394822195",
+        "namaDesa": "MANUNGGAL KARYA"
+      },
+      "noHp": "85394822195",
+      "namaDesa": "MANUNGGAL KARYA"
     },
     {
       "id": "3500684911-jamaludin-hamli",
@@ -12003,8 +13255,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81356126986",
+        "namaDesa": "PANCA KARSA I"
+      },
+      "noHp": "81356126986",
+      "namaDesa": "PANCA KARSA I"
     },
     {
       "id": "3500678775-kodiyah-mad-ngasri",
@@ -12041,8 +13297,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85255521583",
+        "namaDesa": "PANCA KARSA I"
+      },
+      "noHp": "85255521583",
+      "namaDesa": "PANCA KARSA I"
     },
     {
       "id": "3500677882-laily-munifah",
@@ -12079,8 +13339,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81340128280",
+        "namaDesa": "MANUNGGAL KARYA"
+      },
+      "noHp": "81340128280",
+      "namaDesa": "MANUNGGAL KARYA"
     },
     {
       "id": "3500678300-makmuri-mat-suwito",
@@ -12117,8 +13381,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85255521583",
+        "namaDesa": "PANCA KARSA 1"
+      },
+      "noHp": "85255521583",
+      "namaDesa": "PANCA KARSA 1"
     },
     {
       "id": "3500678252-nova-dince-ntuiyo",
@@ -12155,8 +13423,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82271493002",
+        "namaDesa": "DESA MARISA SELATAN"
+      },
+      "noHp": "82271493002",
+      "namaDesa": "DESA MARISA SELATAN"
     },
     {
       "id": "3500677970-sartin-usman",
@@ -12193,8 +13465,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81356961317",
+        "namaDesa": "MAKARTI JAYA"
+      },
+      "noHp": "81356961317",
+      "namaDesa": "MAKARTI JAYA"
     },
     {
       "id": "3500678299-siti-aminah-komarudin",
@@ -12231,8 +13507,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85255521583",
+        "namaDesa": "PANCA KARSA 1"
+      },
+      "noHp": "85255521583",
+      "namaDesa": "PANCA KARSA 1"
     },
     {
       "id": "3500687984-sudjadi-giran",
@@ -12269,8 +13549,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85395546814",
+        "namaDesa": "PANCAKARSA I"
+      },
+      "noHp": "85395546814",
+      "namaDesa": "PANCAKARSA I"
     },
     {
       "id": "3500678430-andi-nur-hikma",
@@ -12307,8 +13591,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82293018856",
+        "namaDesa": "DESA MOTOLOHU"
+      },
+      "noHp": "82293018856",
+      "namaDesa": "DESA MOTOLOHU"
     },
     {
       "id": "3500678428-andi-tenri-ampa",
@@ -12345,8 +13633,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85347448073",
+        "namaDesa": "MOTOLOHU"
+      },
+      "noHp": "85347448073",
+      "namaDesa": "MOTOLOHU"
     },
     {
       "id": "3500677930-badria-alamri",
@@ -12383,8 +13675,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82290228580",
+        "namaDesa": "DESA PALOPO"
+      },
+      "noHp": "82290228580",
+      "namaDesa": "DESA PALOPO"
     },
     {
       "id": "3500678027-darmi-karwita",
@@ -12421,8 +13717,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81340778737",
+        "namaDesa": "MOTOLOHU"
+      },
+      "noHp": "81340778737",
+      "namaDesa": "MOTOLOHU"
     },
     {
       "id": "3500678209-hamzah-juma",
@@ -12459,8 +13759,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82193491137",
+        "namaDesa": "SIDUWONGE"
+      },
+      "noHp": "82193491137",
+      "namaDesa": "SIDUWONGE"
     },
     {
       "id": "3500687718-mohamad-ridwan-kidudu",
@@ -12497,8 +13801,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81340302823",
+        "namaDesa": "DESA PALOPO KEC MARISA"
+      },
+      "noHp": "81340302823",
+      "namaDesa": "DESA PALOPO KEC MARISA"
     },
     {
       "id": "3500678029-muntholib-karni",
@@ -12535,8 +13843,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81244050869",
+        "namaDesa": "MOTOLOHU"
+      },
+      "noHp": "81244050869",
+      "namaDesa": "MOTOLOHU"
     },
     {
       "id": "3500678156-nur-yanto-sukidi",
@@ -12573,8 +13885,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81356124411",
+        "namaDesa": "MANUNGGAL KARYA"
+      },
+      "noHp": "81356124411",
+      "namaDesa": "MANUNGGAL KARYA"
     },
     {
       "id": "3500678085-sahati-tuwo",
@@ -12611,8 +13927,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82193491137",
+        "namaDesa": "SIDUWONGE"
+      },
+      "noHp": "82193491137",
+      "namaDesa": "SIDUWONGE"
     },
     {
       "id": "3500678157-sunartin-suwadi-marwah",
@@ -12649,8 +13969,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82348780869",
+        "namaDesa": "MANUNGGAL KARYA"
+      },
+      "noHp": "82348780869",
+      "namaDesa": "MANUNGGAL KARYA"
     },
     {
       "id": "3500678418-ariyanto-saud",
@@ -12687,8 +14011,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256248624",
+        "namaDesa": "BONGOPINI"
+      },
+      "noHp": "85256248624",
+      "namaDesa": "BONGOPINI"
     },
     {
       "id": "3500678396-asna-adam",
@@ -12725,8 +14053,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81308130813",
+        "namaDesa": "TOTO UTARA"
+      },
+      "noHp": "81308130813",
+      "namaDesa": "TOTO UTARA"
     },
     {
       "id": "7470000704-ilhamdi-pramana-antula",
@@ -12763,8 +14095,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "-",
-        "syarikah": "-"
-      }
+        "syarikah": "-",
+        "noHp": "",
+        "namaDesa": ""
+      },
+      "noHp": "",
+      "namaDesa": ""
     },
     {
       "id": "3500682051-isra-mada",
@@ -12801,8 +14137,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85255871916",
+        "namaDesa": "DESA ALALE"
+      },
+      "noHp": "85255871916",
+      "namaDesa": "DESA ALALE"
     },
     {
       "id": "3500678230-iyam-hasan",
@@ -12839,8 +14179,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81340326027",
+        "namaDesa": "OLUHUTA"
+      },
+      "noHp": "81340326027",
+      "namaDesa": "OLUHUTA"
     },
     {
       "id": "3500682052-maimun-kono",
@@ -12877,8 +14221,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256288616",
+        "namaDesa": "ALALE"
+      },
+      "noHp": "85256288616",
+      "namaDesa": "ALALE"
     },
     {
       "id": "3500012730-mohamad-husain",
@@ -12915,8 +14263,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "",
+        "namaDesa": "TOLUWAYA"
+      },
+      "noHp": "",
+      "namaDesa": "TOLUWAYA"
     },
     {
       "id": "3500678417-nikma-t-hasan",
@@ -12953,8 +14305,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85340994359",
+        "namaDesa": "BONGOPINI"
+      },
+      "noHp": "85340994359",
+      "namaDesa": "BONGOPINI"
     },
     {
       "id": "3247350001-ridwan-badu-setiawan",
@@ -12991,8 +14347,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "",
+        "namaDesa": ""
+      },
+      "noHp": "",
+      "namaDesa": ""
     },
     {
       "id": "3147350003-santo-musa-imran",
@@ -13029,8 +14389,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "",
+        "namaDesa": ""
+      },
+      "noHp": "",
+      "namaDesa": ""
     },
     {
       "id": "3500676676-virna-lasulika",
@@ -13067,8 +14431,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82293418187",
+        "namaDesa": "TINELO"
+      },
+      "noHp": "82293418187",
+      "namaDesa": "TINELO"
     },
     {
       "id": "3500677795-yuliati-buhang",
@@ -13105,8 +14473,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81342315024",
+        "namaDesa": "BANDUNGAN"
+      },
+      "noHp": "81342315024",
+      "namaDesa": "BANDUNGAN"
     },
     {
       "id": "3500678177-abdurahman-husain",
@@ -13143,8 +14515,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81244396907",
+        "namaDesa": "SUKMA"
+      },
+      "noHp": "81244396907",
+      "namaDesa": "SUKMA"
     },
     {
       "id": "3500678291-halima-lumbato",
@@ -13181,8 +14557,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85298858815",
+        "namaDesa": "POOWO"
+      },
+      "noHp": "85298858815",
+      "namaDesa": "POOWO"
     },
     {
       "id": "3500678294-hapisa-siru-mursali",
@@ -13219,8 +14599,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85255704149",
+        "namaDesa": "HUNTU SELATAN"
+      },
+      "noHp": "85255704149",
+      "namaDesa": "HUNTU SELATAN"
     },
     {
       "id": "3500677956-kivan-j-mantune",
@@ -13257,8 +14641,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240040370",
+        "namaDesa": "PAUWO"
+      },
+      "noHp": "85240040370",
+      "namaDesa": "PAUWO"
     },
     {
       "id": "3500678159-maryam-saini",
@@ -13295,8 +14683,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "0",
+        "namaDesa": "PAUWO"
+      },
+      "noHp": "0",
+      "namaDesa": "PAUWO"
     },
     {
       "id": "2200037842-ratna-botutihe",
@@ -13333,8 +14725,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "",
+        "namaDesa": ""
+      },
+      "noHp": "",
+      "namaDesa": ""
     },
     {
       "id": "3500678275-ratna-harun-hasan",
@@ -13371,8 +14767,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82293295496",
+        "namaDesa": "POOWO BARAT"
+      },
+      "noHp": "82293295496",
+      "namaDesa": "POOWO BARAT"
     },
     {
       "id": "3500678319-suriati-patuti",
@@ -13409,8 +14809,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240691377",
+        "namaDesa": "BONGOIME"
+      },
+      "noHp": "85240691377",
+      "namaDesa": "BONGOIME"
     },
     {
       "id": "3500683664-verawaty-wahyunangsi-ahmad",
@@ -13447,8 +14851,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82290247221",
+        "namaDesa": "TAMBOO"
+      },
+      "noHp": "82290247221",
+      "namaDesa": "TAMBOO"
     },
     {
       "id": "3500681311-yan-tawaba",
@@ -13485,8 +14893,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82347963623",
+        "namaDesa": "POOWO"
+      },
+      "noHp": "82347963623",
+      "namaDesa": "POOWO"
     },
     {
       "id": "3500678304-abd-karim-paulutu",
@@ -13523,8 +14935,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240125144",
+        "namaDesa": "PERMATA"
+      },
+      "noHp": "85240125144",
+      "namaDesa": "PERMATA"
     },
     {
       "id": "3500678525-asni-ibrahim-djafar",
@@ -13561,8 +14977,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85394069672",
+        "namaDesa": "SEJAHTERA"
+      },
+      "noHp": "85394069672",
+      "namaDesa": "SEJAHTERA"
     },
     {
       "id": "3500678153-frenky-noe-kamlan",
@@ -13599,8 +15019,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256209222",
+        "namaDesa": "PAGUYAMAN"
+      },
+      "noHp": "85256209222",
+      "namaDesa": "PAGUYAMAN"
     },
     {
       "id": "3500686845-marni-markawelo-syukur",
@@ -13637,8 +15061,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85397915480",
+        "namaDesa": "tanggilingo"
+      },
+      "noHp": "85397915480",
+      "namaDesa": "tanggilingo"
     },
     {
       "id": "3500686065-nuralim-pasisingi",
@@ -13675,8 +15103,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85280848083",
+        "namaDesa": "TUMBIHE"
+      },
+      "noHp": "85280848083",
+      "namaDesa": "TUMBIHE"
     },
     {
       "id": "3500679285-ramli-abdurrahman",
@@ -13713,8 +15145,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81356808322",
+        "namaDesa": "BONGOHULAWA"
+      },
+      "noHp": "81356808322",
+      "namaDesa": "BONGOHULAWA"
     },
     {
       "id": "3500678974-ratna-hulukati",
@@ -13751,8 +15187,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85280848083",
+        "namaDesa": "TUMBIHE"
+      },
+      "noHp": "85280848083",
+      "namaDesa": "TUMBIHE"
     },
     {
       "id": "3500678524-ridwan-ali",
@@ -13789,8 +15229,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "89526357450",
+        "namaDesa": "SEJAHTERA"
+      },
+      "noHp": "89526357450",
+      "namaDesa": "SEJAHTERA"
     },
     {
       "id": "3500678152-sriyanti-padiku",
@@ -13827,8 +15271,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85298238727",
+        "namaDesa": "PAGUYAMAN"
+      },
+      "noHp": "85298238727",
+      "namaDesa": "PAGUYAMAN"
     },
     {
       "id": "3500677783-wirda-mustapa",
@@ -13865,8 +15313,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81356681682",
+        "namaDesa": "BONGOHULAWA"
+      },
+      "noHp": "81356681682",
+      "namaDesa": "BONGOHULAWA"
     },
     {
       "id": "3500678357-ardjuna-naue-djafar",
@@ -13903,8 +15355,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82188166814",
+        "namaDesa": "LAMAHU"
+      },
+      "noHp": "82188166814",
+      "namaDesa": "LAMAHU"
     },
     {
       "id": "3500678218-dafid-buyu",
@@ -13941,8 +15397,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81356412321",
+        "namaDesa": "HELUMO"
+      },
+      "noHp": "81356412321",
+      "namaDesa": "HELUMO"
     },
     {
       "id": "3500677726-fitriana-pakaya",
@@ -13979,8 +15439,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82292483030",
+        "namaDesa": "ALALE"
+      },
+      "noHp": "82292483030",
+      "namaDesa": "ALALE"
     },
     {
       "id": "3500678101-hansarina-hunowu",
@@ -14017,8 +15481,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82312214773",
+        "namaDesa": "AYULA TIMUR"
+      },
+      "noHp": "82312214773",
+      "namaDesa": "AYULA TIMUR"
     },
     {
       "id": "2100043333-iyam-hunowu",
@@ -14055,8 +15523,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "",
+        "namaDesa": ""
+      },
+      "noHp": "",
+      "namaDesa": ""
     },
     {
       "id": "3500677073-marine-baku",
@@ -14093,8 +15565,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82395952195",
+        "namaDesa": "TALULOBUTU"
+      },
+      "noHp": "82395952195",
+      "namaDesa": "TALULOBUTU"
     },
     {
       "id": "3500677963-munawir-mato-amarudin",
@@ -14131,8 +15607,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82393608060",
+        "namaDesa": "TOLUWAYA"
+      },
+      "noHp": "82393608060",
+      "namaDesa": "TOLUWAYA"
     },
     {
       "id": "3500677991-nirmala-a-onge",
@@ -14169,8 +15649,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240076922",
+        "namaDesa": "TOTO UTARA"
+      },
+      "noHp": "85240076922",
+      "namaDesa": "TOTO UTARA"
     },
     {
       "id": "3500678102-samin-botutihe",
@@ -14207,8 +15691,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256520883",
+        "namaDesa": "AYULA TIMUR"
+      },
+      "noHp": "85256520883",
+      "namaDesa": "AYULA TIMUR"
     },
     {
       "id": "3500677962-sartin-doda-yusuf",
@@ -14245,8 +15733,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85256611728",
+        "namaDesa": "TOLUWAYA"
+      },
+      "noHp": "85256611728",
+      "namaDesa": "TOLUWAYA"
     },
     {
       "id": "3500677407-arfan-hioda",
@@ -14283,8 +15775,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81340755036",
+        "namaDesa": "BONGOIME"
+      },
+      "noHp": "81340755036",
+      "namaDesa": "BONGOIME"
     },
     {
       "id": "3500017185-erni-haluti-alwin",
@@ -14321,8 +15817,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "",
+        "namaDesa": "OLUHUTA"
+      },
+      "noHp": "",
+      "namaDesa": "OLUHUTA"
     },
     {
       "id": "3500678312-haryani-biga",
@@ -14359,8 +15859,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82187364083",
+        "namaDesa": "TALANGO"
+      },
+      "noHp": "82187364083",
+      "namaDesa": "TALANGO"
     },
     {
       "id": "3500677408-irna-kadir",
@@ -14397,8 +15901,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85240483737",
+        "namaDesa": "BONGOIME"
+      },
+      "noHp": "85240483737",
+      "namaDesa": "BONGOIME"
     },
     {
       "id": "3500678206-ismail-uluo",
@@ -14435,8 +15943,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81244423335",
+        "namaDesa": "TINGKOHUBU"
+      },
+      "noHp": "81244423335",
+      "namaDesa": "TINGKOHUBU"
     },
     {
       "id": "3500678205-lisnawaty-uluo",
@@ -14473,8 +15985,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81244423335",
+        "namaDesa": "TINGKOHUBU"
+      },
+      "noHp": "81244423335",
+      "namaDesa": "TINGKOHUBU"
     },
     {
       "id": "3500678204-mohamad-nursalman-puluhulawa",
@@ -14511,8 +16027,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81244423334",
+        "namaDesa": "TINGKOHUBU"
+      },
+      "noHp": "81244423334",
+      "namaDesa": "TINGKOHUBU"
     },
     {
       "id": "3500677781-rahim-abd-gani",
@@ -14549,8 +16069,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "81245428069",
+        "namaDesa": "AYULA UTARA"
+      },
+      "noHp": "81245428069",
+      "namaDesa": "AYULA UTARA"
     },
     {
       "id": "3500678313-siti-nur-chairiyah-ruchban",
@@ -14587,8 +16111,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82290692526",
+        "namaDesa": "DESA TALANGO"
+      },
+      "noHp": "82290692526",
+      "namaDesa": "DESA TALANGO"
     },
     {
       "id": "3500677796-sri-wahyuni-pakaja",
@@ -14625,8 +16153,12 @@
         "jenisKelamin": "P",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85397316956",
+        "namaDesa": "ULANTA"
+      },
+      "noHp": "85397316956",
+      "namaDesa": "ULANTA"
     },
     {
       "id": "3500675984-wani-yunus-tuki",
@@ -14663,8 +16195,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "0",
+        "namaDesa": "MOTILANGO"
+      },
+      "noHp": "0",
+      "namaDesa": "MOTILANGO"
     },
     {
       "id": "3500677979-cindra-mokodompit",
@@ -14701,8 +16237,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82243915854",
+        "namaDesa": "TILANGOBULA"
+      },
+      "noHp": "82243915854",
+      "namaDesa": "TILANGOBULA"
     },
     {
       "id": "3500678534-frid-ashari",
@@ -14739,8 +16279,12 @@
         "jenisKelamin": "L",
         "ket": "-",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85241572000",
+        "namaDesa": "HUNTU UTARA"
+      },
+      "noHp": "85241572000",
+      "namaDesa": "HUNTU UTARA"
     },
     {
       "id": "3500677761-ikhsan-ibrahim",
@@ -14777,8 +16321,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85211989001",
+        "namaDesa": "LUWOHU"
+      },
+      "noHp": "85211989001",
+      "namaDesa": "LUWOHU"
     },
     {
       "id": "3500678387-maryam-hiola",
@@ -14815,8 +16363,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82395338821",
+        "namaDesa": "SEJAHTERA"
+      },
+      "noHp": "82395338821",
+      "namaDesa": "SEJAHTERA"
     },
     {
       "id": "3500677981-maswati-daud",
@@ -14853,8 +16405,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85399950611",
+        "namaDesa": "TILANGOBULA"
+      },
+      "noHp": "85399950611",
+      "namaDesa": "TILANGOBULA"
     },
     {
       "id": "3500678446-riko-abdulah-mahanggi",
@@ -14891,8 +16447,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "82394192867",
+        "namaDesa": "TUMBA"
+      },
+      "noHp": "82394192867",
+      "namaDesa": "TUMBA"
     },
     {
       "id": "3500678226-rosfin-ngabito",
@@ -14929,8 +16489,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85341993201",
+        "namaDesa": "AYULA TIMUR"
+      },
+      "noHp": "85341993201",
+      "namaDesa": "AYULA TIMUR"
     },
     {
       "id": "3500678533-srinastity-daud",
@@ -14967,8 +16531,12 @@
         "jenisKelamin": "P",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "85255072122",
+        "namaDesa": "HUNTU UTARA"
+      },
+      "noHp": "85255072122",
+      "namaDesa": "HUNTU UTARA"
     },
     {
       "id": "3500678084-zakaria-akuba",
@@ -15005,8 +16573,12 @@
         "jenisKelamin": "L",
         "ket": "P",
         "kloterPra": "UPG-28",
-        "syarikah": "RKN"
-      }
+        "syarikah": "RKN",
+        "noHp": "0",
+        "namaDesa": "BUBE"
+      },
+      "noHp": "0",
+      "namaDesa": "BUBE"
     }
   ]
 }

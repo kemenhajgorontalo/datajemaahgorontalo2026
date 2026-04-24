@@ -17,6 +17,7 @@ DATA_DIR = PUBLIC_DIR / "data"
 ASSETS_DIR = PUBLIC_DIR / "assets"
 
 SOURCE_ROOT = Path("/content/drive/MyDrive/misc/codex")
+ENRICHMENT_CSV = PROJECT_ROOT / "totalpelunasan - Sheet1.csv"
 
 
 @dataclass(frozen=True)
@@ -97,6 +98,19 @@ def is_gorontalo_row(row: dict[str, str]) -> bool:
     return clean(row.get("Kab/Kota")) in GORONTALO_KAB_KOTA
 
 
+def load_enrichment_data(path: Path) -> dict[str, dict[str, str]]:
+    if not path.exists():
+        return {}
+
+    with path.open(newline="", encoding="utf-8-sig") as handle:
+        reader = csv.DictReader(handle)
+        return {
+            clean(row.get("No. Porsi")): row
+            for row in reader
+            if clean(row.get("No. Porsi")).isdigit()
+        }
+
+
 def build_file_index(root: Path, pattern: str) -> dict[str, Path]:
     index: dict[str, Path] = {}
     for path in root.rglob(pattern):
@@ -143,10 +157,14 @@ def build_person_record(
     visa_index: dict[str, Path],
     kartu_index: dict[str, Path],
     foto_index: dict[str, Path],
+    enrichment_data: dict[str, dict[str, str]],
 ) -> dict[str, object]:
     nomor_porsi = clean(row.get("No. Porsi"))
     nama = clean(row.get("Nama"))
     slug = slugify(f"{nomor_porsi}-{nama}")
+    enrichment_row = enrichment_data.get(nomor_porsi, {})
+    no_hp = clean(enrichment_row.get("No. HP"))
+    nama_desa = clean(enrichment_row.get("Nama Desa"))
 
     asset_base = ASSETS_DIR / f"kloter-{kloter.code}" / slug
     visa_url = copy_asset(visa_index.get(nomor_porsi), asset_base / "visa.pdf")
@@ -168,6 +186,8 @@ def build_person_record(
     fields = {}
     for source_name, key in DISPLAY_FIELDS:
         fields[key] = clean(row.get(source_name))
+    fields["noHp"] = no_hp
+    fields["namaDesa"] = nama_desa
 
     return {
         "id": slug,
@@ -184,6 +204,8 @@ def build_person_record(
         "umur": clean(row.get("Umur")),
         "noPaspor": clean(row.get("No. Paspor")),
         "noVisa": clean(row.get("No. Visa")),
+        "noHp": no_hp,
+        "namaDesa": nama_desa,
         "assets": {
             "foto": foto_url,
             "kartu": kartu_url,
@@ -226,6 +248,7 @@ def generate() -> None:
 
     all_people: list[dict[str, object]] = []
     kloter_summaries: list[dict[str, object]] = []
+    enrichment_data = load_enrichment_data(ENRICHMENT_CSV)
 
     for kloter in KLOTERS:
         visa_index = build_file_index(kloter.visa_dir, "*.pdf")
@@ -247,6 +270,7 @@ def generate() -> None:
                     visa_index=visa_index,
                     kartu_index=kartu_index,
                     foto_index=foto_index,
+                    enrichment_data=enrichment_data,
                 )
                 people.append(person)
                 expected_slugs.add(str(person["slug"]))
