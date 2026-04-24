@@ -76,6 +76,50 @@
         "TPHD / TKHD",
         "TPHI",
         "TPIHI"
+      ],
+      "officerContacts": [
+        {
+          "nama": "ALWIN RANS TOMA",
+          "jenisTugas": "(TPHI 28)",
+          "label": "TPHI",
+          "kloter": "28",
+          "nomorHp": "082187799997"
+        },
+        {
+          "nama": "JASMIN HILOMALO YUSUF",
+          "jenisTugas": "(TPIHI 28)",
+          "label": "TPIHI",
+          "kloter": "28",
+          "nomorHp": "085256914111"
+        },
+        {
+          "nama": "RAHMI NOVI YASIN",
+          "jenisTugas": "(TKHI 28)",
+          "label": "TKHI",
+          "kloter": "28",
+          "nomorHp": "08114309087"
+        },
+        {
+          "nama": "ILHAMDI PRAMANA ANTULA",
+          "jenisTugas": "(PARAMEDIS 28)",
+          "label": "PARAMEDIS",
+          "kloter": "28",
+          "nomorHp": "085340456208"
+        },
+        {
+          "nama": "MUNKIZUL UMAM KAU",
+          "jenisTugas": "(TPHD 28)",
+          "label": "TPHD",
+          "kloter": "28",
+          "nomorHp": "081340070802"
+        },
+        {
+          "nama": "SANTO MUSA IMRAN",
+          "jenisTugas": "(TPHD 28)",
+          "label": "TPHD",
+          "kloter": "28",
+          "nomorHp": "085343540333"
+        }
       ]
     },
     {
@@ -127,6 +171,36 @@
         "TKHI",
         "TPHD / TKHD",
         "TPHI"
+      ],
+      "officerContacts": [
+        {
+          "nama": "RUSTAN SYARIFUDIN",
+          "jenisTugas": "(TPHI 30)",
+          "label": "TPHI",
+          "kloter": "30",
+          "nomorHp": "085299589438"
+        },
+        {
+          "nama": "NUZLY QHADRI AKMAL",
+          "jenisTugas": "(TKHI 30)",
+          "label": "TKHI",
+          "kloter": "30",
+          "nomorHp": "085240205067"
+        },
+        {
+          "nama": "WINDRA LAGARUSU",
+          "jenisTugas": "(TPHD 30)",
+          "label": "TPHD",
+          "kloter": "30",
+          "nomorHp": "085240644461"
+        },
+        {
+          "nama": "IWAN WOLUWO",
+          "jenisTugas": "(TPHD 30)",
+          "label": "TPHD",
+          "kloter": "30",
+          "nomorHp": "085396130992"
+        }
       ]
     }
   ],

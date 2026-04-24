@@ -61,6 +61,7 @@ const elements = {
   detailKloter: document.getElementById("detail-kloter"),
   detailName: document.getElementById("detail-name"),
   detailChips: document.getElementById("detail-chips"),
+  detailOfficerContacts: document.getElementById("detail-officer-contacts"),
   detailAssets: document.getElementById("detail-assets"),
   detailPhoto: document.getElementById("detail-photo"),
   profileHighlights: document.getElementById("profile-highlights"),
@@ -225,6 +226,10 @@ function toWhatsAppNumber(value) {
   if (digits.startsWith("62")) return digits;
   if (digits.startsWith("0")) return `62${digits.slice(1)}`;
   return `62${digits}`;
+}
+
+function getOfficerContactsForKloter(kloterCode) {
+  return state.site?.kloters?.find((kloter) => kloter.code === kloterCode)?.officerContacts || [];
 }
 
 function displayFieldValue(key, value) {
@@ -519,6 +524,7 @@ function renderList() {
 
   state.filtered.forEach((person) => {
     const placementSummary = buildPersonPlacementSummary(person);
+    const officerContacts = getOfficerContactsForKloter(person.kloterCode);
     const card = document.createElement("article");
     card.className = "person-card";
     card.tabIndex = 0;
@@ -535,6 +541,7 @@ function renderList() {
         <span class="chip">Regu ${person.reguKloter}</span>
         <span class="chip">${person.statusJemaah || "Status belum ada"}</span>
       </div>
+      ${officerContacts.length > 0 ? '<div class="person-card__contacts"></div>' : ""}
       ${
         placementSummary
           ? `<div class="person-card__placement">
@@ -550,6 +557,13 @@ function renderList() {
         <div><strong>Paspor:</strong> ${person.noPaspor || "-"}</div>
       </div>
     `;
+
+    if (officerContacts.length > 0) {
+      const contactActions = card.querySelector(".person-card__contacts");
+      officerContacts.forEach((contact) => {
+        contactActions.appendChild(buildOfficerContactLink(contact));
+      });
+    }
 
     card.addEventListener("click", () => selectPerson(person.id));
     card.addEventListener("keydown", (event) => {
@@ -571,6 +585,24 @@ function buildAssetLink(label, href) {
     anchor.target = "_blank";
     anchor.rel = "noopener noreferrer";
   }
+  return anchor;
+}
+
+function buildOfficerContactLink(contact) {
+  const whatsappNumber = toWhatsAppNumber(contact.nomorHp);
+  const anchor = document.createElement("a");
+  anchor.className = `officer-contact-button${whatsappNumber ? "" : " is-disabled"}`;
+  anchor.href = whatsappNumber ? `https://wa.me/${whatsappNumber}` : "#";
+  anchor.target = whatsappNumber ? "_blank" : "";
+  anchor.rel = whatsappNumber ? "noopener noreferrer" : "";
+  anchor.title = `${contact.nama || "Petugas"} - ${formatPhoneNumber(contact.nomorHp)}`;
+  anchor.setAttribute(
+    "aria-label",
+    `Hubungi ${contact.label || "Petugas"} ${contact.nama || ""}`.trim()
+  );
+  anchor.innerHTML = `${createIcon("whatsapp")}<span>${contact.label || "Petugas"}</span>`;
+  anchor.addEventListener("click", (event) => event.stopPropagation());
+  anchor.addEventListener("keydown", (event) => event.stopPropagation());
   return anchor;
 }
 
@@ -758,6 +790,7 @@ function renderDetail() {
   elements.detailKloter.textContent = `${person.kloterLabel} • Nomor Porsi ${person.noPorsi}`;
   elements.detailName.textContent = person.nama;
   elements.detailChips.innerHTML = "";
+  elements.detailOfficerContacts.innerHTML = "";
   [
     `Rombongan ${person.rombongan}`,
     `Regu ${person.reguKloter}`,
@@ -771,6 +804,10 @@ function renderDetail() {
       chip.textContent = text;
       elements.detailChips.appendChild(chip);
     });
+
+  getOfficerContactsForKloter(person.kloterCode).forEach((contact) => {
+    elements.detailOfficerContacts.appendChild(buildOfficerContactLink(contact));
+  });
 
   elements.detailAssets.innerHTML = "";
   elements.detailAssets.append(

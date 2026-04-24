@@ -634,6 +634,68 @@ body::before {
   font-size: 0.9rem;
 }
 
+.person-card__contacts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.detail__officer-contact-section {
+  display: grid;
+  gap: 10px;
+}
+
+.detail__officer-contact-section h3 {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.25;
+}
+
+.detail__officer-contacts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.officer-contact-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  min-height: 38px;
+  padding: 9px 12px;
+  border-radius: 12px;
+  border: 1px solid rgba(18, 140, 126, 0.18);
+  background: rgba(18, 140, 126, 0.1);
+  color: #0f766b;
+  font-size: 0.78rem;
+  font-weight: 700;
+  line-height: 1;
+  text-decoration: none;
+  transition: transform 160ms ease, background 160ms ease, box-shadow 160ms ease;
+}
+
+.officer-contact-button:hover,
+.officer-contact-button:focus-visible {
+  transform: translateY(-1px);
+  background: rgba(18, 140, 126, 0.16);
+  box-shadow: 0 10px 20px rgba(18, 140, 126, 0.12);
+  outline: none;
+}
+
+.officer-contact-button .phone-action__icon {
+  width: 16px;
+  height: 16px;
+}
+
+.officer-contact-button.is-disabled {
+  pointer-events: none;
+  color: rgba(86, 65, 52, 0.38);
+  background: rgba(138, 90, 56, 0.1);
+  box-shadow: none;
+}
+
 .person-card__placement {
   display: grid;
   gap: 6px;
@@ -1370,6 +1432,22 @@ body::before {
   .person-card__meta {
     margin-top: 12px;
     font-size: 0.84rem;
+  }
+
+  .person-card__contacts {
+    margin-top: 12px;
+    gap: 7px;
+  }
+
+  .detail__officer-contacts {
+    margin-top: 10px;
+    gap: 7px;
+  }
+
+  .officer-contact-button {
+    min-height: 36px;
+    padding: 8px 10px;
+    font-size: 0.72rem;
   }
 
   .modal {

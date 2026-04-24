@@ -18,6 +18,7 @@ ASSETS_DIR = PUBLIC_DIR / "assets"
 
 SOURCE_ROOT = Path("/content/drive/MyDrive/misc/codex")
 ENRICHMENT_CSV = PROJECT_ROOT / "totalpelunasan - Sheet1.csv"
+OFFICER_CONTACTS_CSV = SOURCE_ROOT / "KONTAK PETUGAS - Sheet1.csv"
 
 
 @dataclass(frozen=True)
@@ -109,6 +110,49 @@ def load_enrichment_data(path: Path) -> dict[str, dict[str, str]]:
             for row in reader
             if clean(row.get("No. Porsi")).isdigit()
         }
+
+
+def normalize_phone_number(value: str) -> str:
+    digits = re.sub(r"\D+", "", value or "")
+    if not digits or digits == "0":
+        return ""
+    if digits.startswith("62"):
+        return digits
+    if digits.startswith("0"):
+        return digits
+    return f"0{digits}"
+
+
+def normalize_officer_role(value: str, kloter_code: str) -> str:
+    role = clean(value).strip("()")
+    role = re.sub(rf"\s*{re.escape(kloter_code)}\s*$", "", role).strip()
+    return role or clean(value) or "Petugas"
+
+
+def load_officer_contacts(path: Path) -> dict[str, list[dict[str, str]]]:
+    if not path.exists():
+        return {}
+
+    contacts: dict[str, list[dict[str, str]]] = {}
+    with path.open(newline="", encoding="utf-8-sig") as handle:
+        reader = csv.DictReader(handle)
+        for row in reader:
+            kloter_code = clean(row.get("KLOTER"))
+            phone_number = normalize_phone_number(clean(row.get("NOMOR HP")))
+            if not kloter_code or not phone_number:
+                continue
+
+            contacts.setdefault(kloter_code, []).append(
+                {
+                    "nama": clean(row.get("NAMA")),
+                    "jenisTugas": clean(row.get("JENIS TUGAS")),
+                    "label": normalize_officer_role(clean(row.get("JENIS TUGAS")), kloter_code),
+                    "kloter": kloter_code,
+                    "nomorHp": phone_number,
+                }
+            )
+
+    return contacts
 
 
 def build_file_index(root: Path, pattern: str) -> dict[str, Path]:
@@ -226,7 +270,12 @@ def sort_people(items: list[dict[str, object]]) -> list[dict[str, object]]:
     )
 
 
-def build_summary(people: list[dict[str, object]], label: str, code: str) -> dict[str, object]:
+def build_summary(
+    people: list[dict[str, object]],
+    label: str,
+    code: str,
+    officer_contacts: list[dict[str, str]],
+) -> dict[str, object]:
     rombongan = sorted({str(item["rombongan"]) for item in people if str(item["rombongan"]).isdigit()}, key=int)
     regu = sorted({str(item["reguKloter"]) for item in people if str(item["reguKloter"]).isdigit()}, key=int)
     kabkota = sorted({str(item["kabKota"]) for item in people if str(item["kabKota"])})
@@ -239,6 +288,7 @@ def build_summary(people: list[dict[str, object]], label: str, code: str) -> dic
         "reguKloter": regu,
         "kabKota": kabkota,
         "statusJemaah": status,
+        "officerContacts": officer_contacts,
     }
 
 
@@ -249,6 +299,7 @@ def generate() -> None:
     all_people: list[dict[str, object]] = []
     kloter_summaries: list[dict[str, object]] = []
     enrichment_data = load_enrichment_data(ENRICHMENT_CSV)
+    officer_contacts = load_officer_contacts(OFFICER_CONTACTS_CSV)
 
     for kloter in KLOTERS:
         visa_index = build_file_index(kloter.visa_dir, "*.pdf")
@@ -278,7 +329,12 @@ def generate() -> None:
         people = sort_people(people)
         prune_kloter_asset_dir(ASSETS_DIR / f"kloter-{kloter.code}", expected_slugs)
         kloter_payload = {
-            "summary": build_summary(people, kloter.label, kloter.code),
+            "summary": build_summary(
+                people,
+                kloter.label,
+                kloter.code,
+                officer_contacts.get(kloter.code, []),
+            ),
             "people": people,
         }
         (DATA_DIR / f"kloter-{kloter.code}.json").write_text(
