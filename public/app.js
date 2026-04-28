@@ -99,7 +99,7 @@ function shouldGateListOnMobile() {
 }
 
 function isSearchIdleOnMobile() {
-  return shouldGateListOnMobile() && !state.filters.query.trim();
+  return shouldGateListOnMobile() && !hasActiveFilters();
 }
 
 function hasActiveFilters() {
