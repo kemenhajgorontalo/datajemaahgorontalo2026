@@ -114,7 +114,15 @@
         "namaDesa": ""
       },
       "noHp": "",
-      "namaDesa": ""
+      "namaDesa": "",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "101",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678020-asri-soleman",
@@ -156,7 +164,15 @@
         "namaDesa": "HELEDULAA UTARA"
       },
       "noHp": "81340408585",
-      "namaDesa": "HELEDULAA UTARA"
+      "namaDesa": "HELEDULAA UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "105",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678254-dian-sofianty-makarawo",
@@ -198,7 +214,15 @@
         "namaDesa": "HELEDULAA SELATAN"
       },
       "noHp": "81340084914",
-      "namaDesa": "HELEDULAA SELATAN"
+      "namaDesa": "HELEDULAA SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "102",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500683671-lamadi-gobel",
@@ -240,7 +264,15 @@
         "namaDesa": "Kel. Heledulaa Selatan"
       },
       "noHp": "85398623934",
-      "namaDesa": "Kel. Heledulaa Selatan"
+      "namaDesa": "Kel. Heledulaa Selatan",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "101",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677775-luki-husin",
@@ -282,7 +314,15 @@
         "namaDesa": "SIENDENG"
       },
       "noHp": "81340099614",
-      "namaDesa": "SIENDENG"
+      "namaDesa": "SIENDENG",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "103",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678253-mahmud-gobel",
@@ -324,7 +364,15 @@
         "namaDesa": "HELEDULAA SELATAN"
       },
       "noHp": "85294900099",
-      "namaDesa": "HELEDULAA SELATAN"
+      "namaDesa": "HELEDULAA SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "101",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677776-nurhayati-hamzah",
@@ -366,7 +414,15 @@
         "namaDesa": "SIENDENG"
       },
       "noHp": "85240429847",
-      "namaDesa": "SIENDENG"
+      "namaDesa": "SIENDENG",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "102",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677372-roosmira-bachtiar",
@@ -408,7 +464,15 @@
         "namaDesa": "LIMBA U II"
       },
       "noHp": "811437135",
-      "namaDesa": "LIMBA U II"
+      "namaDesa": "LIMBA U II",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "105",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500688044-salim-potutu-tomayahu",
@@ -450,7 +514,15 @@
         "namaDesa": "LIMBA U2"
       },
       "noHp": "81342309213",
-      "namaDesa": "LIMBA U2"
+      "namaDesa": "LIMBA U2",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "103",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678354-sarlotan-polapa",
@@ -492,7 +564,15 @@
         "namaDesa": "SIENDENG"
       },
       "noHp": "895326611978",
-      "namaDesa": "SIENDENG"
+      "namaDesa": "SIENDENG",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "102",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677373-syarif-potutu",
@@ -534,7 +614,15 @@
         "namaDesa": "LIMBA U 2"
       },
       "noHp": "82348169010",
-      "namaDesa": "LIMBA U 2"
+      "namaDesa": "LIMBA U 2",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "103",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678019-taufiq-firmansyah",
@@ -576,7 +664,15 @@
         "namaDesa": "HELEDULAA UTARA"
       },
       "noHp": "811432306",
-      "namaDesa": "HELEDULAA UTARA"
+      "namaDesa": "HELEDULAA UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "104",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678163-abdul-wahid-lahay",
@@ -618,7 +714,15 @@
         "namaDesa": "LILUWO"
       },
       "noHp": "0",
-      "namaDesa": "LILUWO"
+      "namaDesa": "LILUWO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "106",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678137-amellia-zalfa-azzahra-pahrun",
@@ -660,7 +764,15 @@
         "namaDesa": "TANGGIKIKI"
       },
       "noHp": "81334387565",
-      "namaDesa": "TANGGIKIKI"
+      "namaDesa": "TANGGIKIKI",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "108",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678164-asyani-muslim-azis",
@@ -702,7 +814,15 @@
         "namaDesa": "LILUWO"
       },
       "noHp": "85240282642",
-      "namaDesa": "LILUWO"
+      "namaDesa": "LILUWO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "107",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677704-dadang-mohamad-djafar",
@@ -744,7 +864,15 @@
         "namaDesa": "TENDA"
       },
       "noHp": "82345086669",
-      "namaDesa": "TENDA"
+      "namaDesa": "TENDA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "104",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678282-dahliana-abdul-azis",
@@ -786,7 +914,15 @@
         "namaDesa": "PAGUYAMAN"
       },
       "noHp": "8114334475",
-      "namaDesa": "PAGUYAMAN"
+      "namaDesa": "PAGUYAMAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "105",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500681357-kurnia-dewi-makatitta",
@@ -828,7 +964,15 @@
         "namaDesa": "PULUBALA"
       },
       "noHp": "85340302436",
-      "namaDesa": "PULUBALA"
+      "namaDesa": "PULUBALA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "107",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678203-maria-yuningsih-ahmad",
@@ -870,7 +1014,15 @@
         "namaDesa": "IPILO"
       },
       "noHp": "82187792084",
-      "namaDesa": "IPILO"
+      "namaDesa": "IPILO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "108",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677903-nurnaningsih-arief",
@@ -912,7 +1064,15 @@
         "namaDesa": "DULALOWO TIMUR"
       },
       "noHp": "82189799000",
-      "namaDesa": "DULALOWO TIMUR"
+      "namaDesa": "DULALOWO TIMUR",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "107",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678138-rafini-binti-margono",
@@ -954,7 +1114,15 @@
         "namaDesa": "TANGGIKIKI"
       },
       "noHp": "81334387565",
-      "namaDesa": "TANGGIKIKI"
+      "namaDesa": "TANGGIKIKI",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "108",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678283-sultan-kalupe",
@@ -996,7 +1164,15 @@
         "namaDesa": "PAGUYAMAN"
       },
       "noHp": "8114339291",
-      "namaDesa": "PAGUYAMAN"
+      "namaDesa": "PAGUYAMAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "104",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500676595-akihito-lamato",
@@ -1038,7 +1214,15 @@
         "namaDesa": "LIBUO"
       },
       "noHp": "85242682006",
-      "namaDesa": "LIBUO"
+      "namaDesa": "LIBUO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "106",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678317-azis-mohamad-harun",
@@ -1080,7 +1264,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "85256687111",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "109",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500688586-barraq-akmal-laleno",
@@ -1122,7 +1314,15 @@
         "namaDesa": "TOMULABUTAO"
       },
       "noHp": "81356549007",
-      "namaDesa": "TOMULABUTAO"
+      "namaDesa": "TOMULABUTAO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "106",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678119-henny-tantu-syam",
@@ -1164,7 +1364,15 @@
         "namaDesa": "PULUBALA"
       },
       "noHp": "85340604166",
-      "namaDesa": "PULUBALA"
+      "namaDesa": "PULUBALA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "110",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500676270-irma-suryani-darise",
@@ -1206,7 +1414,15 @@
         "namaDesa": "PULUBALA"
       },
       "noHp": "81342262361",
-      "namaDesa": "PULUBALA"
+      "namaDesa": "PULUBALA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "110",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500676582-lia-amelia-salim",
@@ -1248,7 +1464,15 @@
         "namaDesa": "LIBUO"
       },
       "noHp": "85256449329",
-      "namaDesa": "LIBUO"
+      "namaDesa": "LIBUO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "111",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500676051-mutu-gani-katili",
@@ -1290,7 +1514,15 @@
         "namaDesa": "DULALOWO"
       },
       "noHp": "85240144435",
-      "namaDesa": "DULALOWO"
+      "namaDesa": "DULALOWO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "109",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500016726-nurhayati-husain-dumbela",
@@ -1332,7 +1564,15 @@
         "namaDesa": "TOMULABUTAO"
       },
       "noHp": "",
-      "namaDesa": "TOMULABUTAO"
+      "namaDesa": "TOMULABUTAO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "110",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500681494-rumiati-adam",
@@ -1374,7 +1614,15 @@
         "namaDesa": "DEMBE JAYA"
       },
       "noHp": "85240645419",
-      "namaDesa": "DEMBE JAYA"
+      "namaDesa": "DEMBE JAYA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "111",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500687933-thahirun-abdul-muthalib-katili",
@@ -1416,7 +1664,15 @@
         "namaDesa": "DULALOWO TIMUR"
       },
       "noHp": "81342208258",
-      "namaDesa": "DULALOWO TIMUR"
+      "namaDesa": "DULALOWO TIMUR",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "109",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677667-amran-arsyad",
@@ -1458,7 +1714,15 @@
         "namaDesa": "TULADENGGI"
       },
       "noHp": "85298426116",
-      "namaDesa": "TULADENGGI"
+      "namaDesa": "TULADENGGI",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "112",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500676845-ismiyati-lahabu",
@@ -1500,7 +1764,15 @@
         "namaDesa": "SIENDENG"
       },
       "noHp": "85240789928",
-      "namaDesa": "SIENDENG"
+      "namaDesa": "SIENDENG",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "113",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678201-lenny-mustapa",
@@ -1542,7 +1814,15 @@
         "namaDesa": "BULADU"
       },
       "noHp": "81241584543",
-      "namaDesa": "BULADU"
+      "namaDesa": "BULADU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "113",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500688371-mifthahul-alim",
@@ -1584,7 +1864,15 @@
         "namaDesa": "TULADENGGI"
       },
       "noHp": "85256203881",
-      "namaDesa": "TULADENGGI"
+      "namaDesa": "TULADENGGI",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "112",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678147-mohamad-bakri-ibrahim",
@@ -1626,7 +1914,15 @@
         "namaDesa": "PADEBUOLO"
       },
       "noHp": "85240399554",
-      "namaDesa": "PADEBUOLO"
+      "namaDesa": "PADEBUOLO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "112",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678176-ratna-bulotio",
@@ -1668,7 +1964,15 @@
         "namaDesa": "PADEBUOLO"
       },
       "noHp": "85342988194",
-      "namaDesa": "PADEBUOLO"
+      "namaDesa": "PADEBUOLO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "114",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678049-silvana-katili",
@@ -1710,7 +2014,15 @@
         "namaDesa": "BULADU"
       },
       "noHp": "85298216021",
-      "namaDesa": "BULADU"
+      "namaDesa": "BULADU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "111",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678148-sofya-mitrian-dotu",
@@ -1752,7 +2064,15 @@
         "namaDesa": "MOLOSIFAT W"
       },
       "noHp": "85399650080",
-      "namaDesa": "MOLOSIFAT W"
+      "namaDesa": "MOLOSIFAT W",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "114",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678365-susanti-husain",
@@ -1794,7 +2114,15 @@
         "namaDesa": "IPILO"
       },
       "noHp": "85256109971",
-      "namaDesa": "IPILO"
+      "namaDesa": "IPILO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "114",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678135-yuniati-kumali",
@@ -1836,7 +2164,15 @@
         "namaDesa": "IPILO"
       },
       "noHp": "85240415314",
-      "namaDesa": "IPILO"
+      "namaDesa": "IPILO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "113",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500683333-farida-mahmud",
@@ -1878,7 +2214,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "8124495855",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "117",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677845-iskandar-soleman-moerad",
@@ -1920,7 +2264,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "81356341140",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "115",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678146-lun-akili-eni",
@@ -1962,7 +2314,15 @@
         "namaDesa": "BULOTADAA TIMUR"
       },
       "noHp": "8124450966",
-      "namaDesa": "BULOTADAA TIMUR"
+      "namaDesa": "BULOTADAA TIMUR",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "117",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677919-lunardi-kalaka",
@@ -2004,7 +2364,15 @@
         "namaDesa": "DEMBE JAYA"
       },
       "noHp": "82188635960",
-      "namaDesa": "DEMBE JAYA"
+      "namaDesa": "DEMBE JAYA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "116",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677920-mudin-abdullah",
@@ -2046,7 +2414,15 @@
         "namaDesa": "DEMBE JAYA"
       },
       "noHp": "85240275216",
-      "namaDesa": "DEMBE JAYA"
+      "namaDesa": "DEMBE JAYA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "118",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "7470001256-rahmi-novi-yasin",
@@ -2088,7 +2464,15 @@
         "namaDesa": ""
       },
       "noHp": "",
-      "namaDesa": ""
+      "namaDesa": "",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "117",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678144-sarifudin-suleman",
@@ -2130,7 +2514,15 @@
         "namaDesa": "DULOMO UTARA"
       },
       "noHp": "81244291444",
-      "namaDesa": "DULOMO UTARA"
+      "namaDesa": "DULOMO UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "115",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678143-siti-ainenza-nurfasya-suleman",
@@ -2172,7 +2564,15 @@
         "namaDesa": "DULOMO UTARA"
       },
       "noHp": "81340002236",
-      "namaDesa": "DULOMO UTARA"
+      "namaDesa": "DULOMO UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "118",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677784-sofyan-hadi-adam",
@@ -2214,7 +2614,15 @@
         "namaDesa": "BIAWAO"
       },
       "noHp": "8124422868",
-      "namaDesa": "BIAWAO"
+      "namaDesa": "BIAWAO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "116",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678145-syafril-taib-tjan",
@@ -2256,7 +2664,15 @@
         "namaDesa": "BULOTADAA TIMUR"
       },
       "noHp": "82271288570",
-      "namaDesa": "BULOTADAA TIMUR"
+      "namaDesa": "BULOTADAA TIMUR",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "115",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677867-ulfa-monoarfa",
@@ -2298,7 +2714,15 @@
         "namaDesa": "PULUBALA"
       },
       "noHp": "82154526009",
-      "namaDesa": "PULUBALA"
+      "namaDesa": "PULUBALA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "119",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677785-wahyuni-binti-muhsin-zubeidi",
@@ -2340,7 +2764,15 @@
         "namaDesa": "BIAWAO"
       },
       "noHp": "85341776477",
-      "namaDesa": "BIAWAO"
+      "namaDesa": "BIAWAO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "118",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678403-lastry-zakaria",
@@ -2382,7 +2814,15 @@
         "namaDesa": "IPILO"
       },
       "noHp": "81356506337",
-      "namaDesa": "IPILO"
+      "namaDesa": "IPILO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "122",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677990-madina-damis-asepe",
@@ -2424,7 +2864,15 @@
         "namaDesa": "DULALOWO"
       },
       "noHp": "85399204488",
-      "namaDesa": "DULALOWO"
+      "namaDesa": "DULALOWO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "121",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678476-mohamad-safril-burhan",
@@ -2466,7 +2914,15 @@
         "namaDesa": "WUMIALO"
       },
       "noHp": "81242151003",
-      "namaDesa": "WUMIALO"
+      "namaDesa": "WUMIALO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "116",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678402-nuhdi-kalapati",
@@ -2508,7 +2964,15 @@
         "namaDesa": "DULALOWO"
       },
       "noHp": "85342313811",
-      "namaDesa": "DULALOWO"
+      "namaDesa": "DULALOWO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "120",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678405-nurlaila-zakaria-kasim",
@@ -2550,7 +3014,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "82192348889",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "122",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500676410-rohani-datu-mandapo",
@@ -2592,7 +3064,15 @@
         "namaDesa": "DULALOWO"
       },
       "noHp": "85256417094",
-      "namaDesa": "DULALOWO"
+      "namaDesa": "DULALOWO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "121",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678162-sri-rahmawaty-yunus",
@@ -2634,7 +3114,15 @@
         "namaDesa": "LIMBA U II"
       },
       "noHp": "81244205386",
-      "namaDesa": "LIMBA U II"
+      "namaDesa": "LIMBA U II",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "121",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678404-syamsah-zakaria",
@@ -2676,7 +3164,15 @@
         "namaDesa": "IPILO"
       },
       "noHp": "85298037191",
-      "namaDesa": "IPILO"
+      "namaDesa": "IPILO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "122",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677989-utami-putri-pratama",
@@ -2718,7 +3214,15 @@
         "namaDesa": "DULALOWO"
       },
       "noHp": "85343770981",
-      "namaDesa": "DULALOWO"
+      "namaDesa": "DULALOWO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "119",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678477-yolandah-hadju",
@@ -2760,7 +3264,15 @@
         "namaDesa": "WUMIALO"
       },
       "noHp": "81343904057",
-      "namaDesa": "WUMIALO"
+      "namaDesa": "WUMIALO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "119",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677998-asmin-djama-bakir",
@@ -2802,7 +3314,15 @@
         "namaDesa": "LIMBA U I"
       },
       "noHp": "81388405329",
-      "namaDesa": "LIMBA U I"
+      "namaDesa": "LIMBA U I",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "125",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677996-bambang-winarto",
@@ -2844,7 +3364,15 @@
         "namaDesa": "HELEDULAA"
       },
       "noHp": "85145603200",
-      "namaDesa": "HELEDULAA"
+      "namaDesa": "HELEDULAA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "120",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500684919-hamzah-zees",
@@ -2886,7 +3414,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "85240004257",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "124",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677706-mirah-syafira-mohammad",
@@ -2928,7 +3464,15 @@
         "namaDesa": "WUMIALO"
       },
       "noHp": "82187489587",
-      "namaDesa": "WUMIALO"
+      "namaDesa": "WUMIALO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "126",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677619-rahmawaty-gani",
@@ -2970,7 +3514,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "81243672229",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "125",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677757-ratna-harun-zees",
@@ -3012,7 +3564,15 @@
         "namaDesa": "YOSONEGORO"
       },
       "noHp": "85399636108",
-      "namaDesa": "YOSONEGORO"
+      "namaDesa": "YOSONEGORO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "123",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500681720-sartin-salihi-latief",
@@ -3054,7 +3614,15 @@
         "namaDesa": "LIMBA U1"
       },
       "noHp": "85240230945",
-      "namaDesa": "LIMBA U1"
+      "namaDesa": "LIMBA U1",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "123",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677997-tamila-kasmaun-simin",
@@ -3096,7 +3664,15 @@
         "namaDesa": "HELEDULAA"
       },
       "noHp": "82393211134",
-      "namaDesa": "HELEDULAA"
+      "namaDesa": "HELEDULAA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "125",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "2200037674-wahyuni-latief",
@@ -3138,7 +3714,15 @@
         "namaDesa": ""
       },
       "noHp": "",
-      "namaDesa": ""
+      "namaDesa": "",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "123",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677705-wara-niode",
@@ -3180,7 +3764,15 @@
         "namaDesa": "HELEDULAA UTARA"
       },
       "noHp": "82195895233",
-      "namaDesa": "HELEDULAA UTARA"
+      "namaDesa": "HELEDULAA UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "120",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678112-faruk-oktowijaya-husain",
@@ -3222,7 +3814,15 @@
         "namaDesa": "WUMIALO"
       },
       "noHp": "8124408808",
-      "namaDesa": "WUMIALO"
+      "namaDesa": "WUMIALO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "124",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "2600019406-hastuti-abdul-kadir-bouta",
@@ -3264,7 +3864,15 @@
         "namaDesa": ""
       },
       "noHp": "",
-      "namaDesa": ""
+      "namaDesa": "",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "128",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677787-jasmin-van-gobel",
@@ -3306,7 +3914,15 @@
         "namaDesa": "LEATO UTARA"
       },
       "noHp": "89528750854",
-      "namaDesa": "LEATO UTARA"
+      "namaDesa": "LEATO UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "126",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678630-la-ode-karbeni",
@@ -3348,7 +3964,15 @@
         "namaDesa": "LIMBA U I"
       },
       "noHp": "85285003133",
-      "namaDesa": "LIMBA U I"
+      "namaDesa": "LIMBA U I",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "124",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678113-lusiyana-runtuwene",
@@ -3390,7 +4014,15 @@
         "namaDesa": "WUMIALO"
       },
       "noHp": "8124454445",
-      "namaDesa": "WUMIALO"
+      "namaDesa": "WUMIALO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "126",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677872-musfirah-mohamad-yamin-lahay",
@@ -3432,7 +4064,15 @@
         "namaDesa": "LIMBA U I"
       },
       "noHp": "89618324940",
-      "namaDesa": "LIMBA U I"
+      "namaDesa": "LIMBA U I",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "127",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500679127-muthmainnah-mohamad-lahay",
@@ -3474,7 +4114,15 @@
         "namaDesa": "LIMBA U I"
       },
       "noHp": "8973196826",
-      "namaDesa": "LIMBA U I"
+      "namaDesa": "LIMBA U I",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "127",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "2600019407-nayla-septiasa-bouta",
@@ -3516,7 +4164,15 @@
         "namaDesa": ""
       },
       "noHp": "",
-      "namaDesa": ""
+      "namaDesa": "",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "128",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677873-sabrinisa-mohamad-yamin-lahay",
@@ -3558,7 +4214,15 @@
         "namaDesa": "LIMBA U I"
       },
       "noHp": "0",
-      "namaDesa": "LIMBA U I"
+      "namaDesa": "LIMBA U I",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "127",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677951-zenab-maruf",
@@ -3600,7 +4264,15 @@
         "namaDesa": "LEATO SELATAN"
       },
       "noHp": "85298489169",
-      "namaDesa": "LEATO SELATAN"
+      "namaDesa": "LEATO SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "128",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500016648-fahrudin-ahmad",
@@ -3642,7 +4314,15 @@
         "namaDesa": "TENILO"
       },
       "noHp": "85345480022",
-      "namaDesa": "TENILO"
+      "namaDesa": "TENILO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "129",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677821-fatmah-nurdin",
@@ -3684,7 +4364,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "81340088288",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "132",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678485-gusaini-galib",
@@ -3726,7 +4414,15 @@
         "namaDesa": "TENILO"
       },
       "noHp": "82324382971",
-      "namaDesa": "TENILO"
+      "namaDesa": "TENILO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "130",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678024-imran-lahi",
@@ -3768,7 +4464,15 @@
         "namaDesa": "TENILO"
       },
       "noHp": "81354768057",
-      "namaDesa": "TENILO"
+      "namaDesa": "TENILO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "129",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "7470001636-jasmin-hilomalo-yusuf",
@@ -3810,7 +4514,15 @@
         "namaDesa": ""
       },
       "noHp": "",
-      "namaDesa": ""
+      "namaDesa": "",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "131",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500686974-jibrilul-alil-imran",
@@ -3852,7 +4564,15 @@
         "namaDesa": "tenilo"
       },
       "noHp": "81354768057",
-      "namaDesa": "tenilo"
+      "namaDesa": "tenilo",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "129",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678022-jumri-lahi",
@@ -3894,7 +4614,15 @@
         "namaDesa": "TENILO"
       },
       "noHp": "81354768076",
-      "namaDesa": "TENILO"
+      "namaDesa": "TENILO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "130",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677833-marwin-hasan",
@@ -3936,7 +4664,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "81340299455",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "135",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678361-meilany-wungguli",
@@ -3978,7 +4714,15 @@
         "namaDesa": "HELEDEULAA SELATAN"
       },
       "noHp": "82259223971",
-      "namaDesa": "HELEDEULAA SELATAN"
+      "namaDesa": "HELEDEULAA SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "132",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677822-roike-ibrahim-yakob",
@@ -4020,7 +4764,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "8124404807",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "131",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500686966-sry-mulyani",
@@ -4062,7 +4814,15 @@
         "namaDesa": "TENILO"
       },
       "noHp": "82173755457",
-      "namaDesa": "TENILO"
+      "namaDesa": "TENILO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "132",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678025-supardin-galib",
@@ -4104,7 +4864,15 @@
         "namaDesa": "TENILO"
       },
       "noHp": "82173755457",
-      "namaDesa": "TENILO"
+      "namaDesa": "TENILO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "130",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678457-abdul-rahman-lakadjo",
@@ -4146,7 +4914,15 @@
         "namaDesa": "HELEDULAA UTARA"
       },
       "noHp": "811430838",
-      "namaDesa": "HELEDULAA UTARA"
+      "namaDesa": "HELEDULAA UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "134",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677905-asra-umar-murad",
@@ -4188,7 +4964,15 @@
         "namaDesa": "BUGIS"
       },
       "noHp": "81245265072",
-      "namaDesa": "BUGIS"
+      "namaDesa": "BUGIS",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "133",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678193-merny-usman-podungge",
@@ -4230,7 +5014,15 @@
         "namaDesa": "TALUMOLO"
       },
       "noHp": "85240833445",
-      "namaDesa": "TALUMOLO"
+      "namaDesa": "TALUMOLO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "135",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500684905-mohamad-shafri-botutihe",
@@ -4272,7 +5064,15 @@
         "namaDesa": "TALUMOLO"
       },
       "noHp": "85281293369",
-      "namaDesa": "TALUMOLO"
+      "namaDesa": "TALUMOLO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "134",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500684248-nilawaty-murad-umar",
@@ -4314,7 +5114,15 @@
         "namaDesa": "BUGIS"
       },
       "noHp": "85256537890",
-      "namaDesa": "BUGIS"
+      "namaDesa": "BUGIS",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "133",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678121-samsudin-laderi-sun",
@@ -4356,7 +5164,15 @@
         "namaDesa": "BUGIS"
       },
       "noHp": "85399600199",
-      "namaDesa": "BUGIS"
+      "namaDesa": "BUGIS",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "131",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678194-sitti-fajria-botutihe",
@@ -4398,7 +5214,15 @@
         "namaDesa": "TALUMOLO"
       },
       "noHp": "85240833445",
-      "namaDesa": "TALUMOLO"
+      "namaDesa": "TALUMOLO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "135",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678455-sulastri-binti-abusari-lamusu",
@@ -4440,7 +5264,15 @@
         "namaDesa": "HELEDULAA UTARA"
       },
       "noHp": "85256927117",
-      "namaDesa": "HELEDULAA UTARA"
+      "namaDesa": "HELEDULAA UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "133",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678449-thalha-bohtem-mohamad",
@@ -4482,7 +5314,15 @@
         "namaDesa": "BOTU"
       },
       "noHp": "82393227641",
-      "namaDesa": "BOTU"
+      "namaDesa": "BOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "136",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678422-yahya-akantu",
@@ -4524,7 +5364,15 @@
         "namaDesa": "BUGIS"
       },
       "noHp": "85342513355",
-      "namaDesa": "BUGIS"
+      "namaDesa": "BUGIS",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "134",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678311-farida-anwar",
@@ -4566,7 +5414,15 @@
         "namaDesa": "TOMULABUTAO"
       },
       "noHp": "895328981836",
-      "namaDesa": "TOMULABUTAO"
+      "namaDesa": "TOMULABUTAO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "138",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677604-ferra-moha",
@@ -4608,7 +5464,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "85256464314",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "138",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678287-hafid-buta",
@@ -4650,7 +5514,15 @@
         "namaDesa": "TOMULABUTAO SELATAN"
       },
       "noHp": "85932936819",
-      "namaDesa": "TOMULABUTAO SELATAN"
+      "namaDesa": "TOMULABUTAO SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "137",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678215-marwan-dako-mursidi",
@@ -4692,7 +5564,15 @@
         "namaDesa": "DONGGALA"
       },
       "noHp": "8124478029",
-      "namaDesa": "DONGGALA"
+      "namaDesa": "DONGGALA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "137",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678134-mohammad-taufik-saleh",
@@ -4734,7 +5614,15 @@
         "namaDesa": "WUMIALO"
       },
       "noHp": "8124313403",
-      "namaDesa": "WUMIALO"
+      "namaDesa": "WUMIALO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "137",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677603-regita-cahyani-daud",
@@ -4776,7 +5664,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "81243391620",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "136",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678166-sauda-suwele-kadir",
@@ -4818,7 +5714,15 @@
         "namaDesa": "TOMULABUTAO SELATAN"
       },
       "noHp": "87777456916",
-      "namaDesa": "TOMULABUTAO SELATAN"
+      "namaDesa": "TOMULABUTAO SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "139",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678133-wahyuni-amin",
@@ -4860,7 +5764,15 @@
         "namaDesa": "WUMIALO"
       },
       "noHp": "81342582787",
-      "namaDesa": "WUMIALO"
+      "namaDesa": "WUMIALO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "138",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678216-yeni-jusuf-asri",
@@ -4902,7 +5814,15 @@
         "namaDesa": "DONGGALA"
       },
       "noHp": "85397744454",
-      "namaDesa": "DONGGALA"
+      "namaDesa": "DONGGALA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "136",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678805-yuli-runtulalo",
@@ -4944,7 +5864,15 @@
         "namaDesa": "TOMULABUTAO SELATAN"
       },
       "noHp": "85240326636",
-      "namaDesa": "TOMULABUTAO SELATAN"
+      "namaDesa": "TOMULABUTAO SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "139",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678265-agus-maliki",
@@ -4986,7 +5914,15 @@
         "namaDesa": "LIBUO"
       },
       "noHp": "81343701577",
-      "namaDesa": "LIBUO"
+      "namaDesa": "LIBUO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "140",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678224-erni-matili",
@@ -5028,7 +5964,15 @@
         "namaDesa": "LIBUO"
       },
       "noHp": "82259457685",
-      "namaDesa": "LIBUO"
+      "namaDesa": "LIBUO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "203",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678220-fatmawati-kadjudju-gandi",
@@ -5070,7 +6014,15 @@
         "namaDesa": "IPILO"
       },
       "noHp": "81244051735",
-      "namaDesa": "IPILO"
+      "namaDesa": "IPILO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "202",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678223-iwan-kude-samadi",
@@ -5112,7 +6064,15 @@
         "namaDesa": "LIBUO"
       },
       "noHp": "82259457685",
-      "namaDesa": "LIBUO"
+      "namaDesa": "LIBUO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "140",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500679578-moh-nur-aliwu",
@@ -5154,7 +6114,15 @@
         "namaDesa": "WUMIALO"
       },
       "noHp": "81356381234",
-      "namaDesa": "WUMIALO"
+      "namaDesa": "WUMIALO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "201",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678195-selvy-igirisa",
@@ -5196,7 +6164,15 @@
         "namaDesa": "WUMIALO"
       },
       "noHp": "81356381234",
-      "namaDesa": "WUMIALO"
+      "namaDesa": "WUMIALO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "202",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678229-silfana-latoini",
@@ -5238,7 +6214,15 @@
         "namaDesa": "BUGIS"
       },
       "noHp": "895326427100",
-      "namaDesa": "BUGIS"
+      "namaDesa": "BUGIS",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "203",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678150-suwardi-yusup-umlina",
@@ -5280,7 +6264,15 @@
         "namaDesa": "WONGKADITI BARAT"
       },
       "noHp": "85256396860",
-      "namaDesa": "WONGKADITI BARAT"
+      "namaDesa": "WONGKADITI BARAT",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "140",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678151-wiranti-tambipi",
@@ -5322,7 +6314,15 @@
         "namaDesa": "WONGKADITI BARAT"
       },
       "noHp": "82346951855",
-      "namaDesa": "WONGKADITI BARAT"
+      "namaDesa": "WONGKADITI BARAT",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "1",
+        "nomorKamar": "139",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678266-yunangsih-kudjiman-raden-sunge",
@@ -5364,7 +6364,15 @@
         "namaDesa": "LIBUO"
       },
       "noHp": "81394505975",
-      "namaDesa": "LIBUO"
+      "namaDesa": "LIBUO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "203",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678445-ambo-enre",
@@ -5406,7 +6414,15 @@
         "namaDesa": "PULUBALA"
       },
       "noHp": "85256758699",
-      "namaDesa": "PULUBALA"
+      "namaDesa": "PULUBALA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "201",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678472-ampauleng-zainuddin-ngati",
@@ -5448,7 +6464,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "82290556330",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "201",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678515-andi-kasmawati-kasa",
@@ -5490,7 +6514,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "85342835544",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "205",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678442-baharuddin-welong",
@@ -5532,7 +6564,15 @@
         "namaDesa": "BULOTADAA TIMUR"
       },
       "noHp": "85398745557",
-      "namaDesa": "BULOTADAA TIMUR"
+      "namaDesa": "BULOTADAA TIMUR",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "204",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678441-indo-lala",
@@ -5574,7 +6614,15 @@
         "namaDesa": "BULOTADAA TIMUR"
       },
       "noHp": "85396397979",
-      "namaDesa": "BULOTADAA TIMUR"
+      "namaDesa": "BULOTADAA TIMUR",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "206",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678494-mujahid-damopolii-abdul-kadir",
@@ -5616,7 +6664,15 @@
         "namaDesa": "BULADU"
       },
       "noHp": "81340097372",
-      "namaDesa": "BULADU"
+      "namaDesa": "BULADU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "204",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678493-nelyan-helma-mokoginta",
@@ -5658,7 +6714,15 @@
         "namaDesa": "BULADU"
       },
       "noHp": "8124470120",
-      "namaDesa": "BULADU"
+      "namaDesa": "BULADU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "206",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678469-rini-muchtiari-makkatareng",
@@ -5700,7 +6764,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "85240110659",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "205",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678518-risnayati-mustafa-bitte",
@@ -5742,7 +6814,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "85255575761",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "205",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678444-siti-arafa",
@@ -5784,7 +6864,15 @@
         "namaDesa": "PULUBALA"
       },
       "noHp": "85256758699",
-      "namaDesa": "PULUBALA"
+      "namaDesa": "PULUBALA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "202",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677400-sumanti-dini-tangahu",
@@ -5826,7 +6914,15 @@
         "namaDesa": "DULALOWO TIMUR"
       },
       "noHp": "81356696830",
-      "namaDesa": "DULALOWO TIMUR"
+      "namaDesa": "DULALOWO TIMUR",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "206",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678478-darmawati-amide-yunus",
@@ -5868,7 +6964,15 @@
         "namaDesa": "DEMBE JAYA"
       },
       "noHp": "8514642209",
-      "namaDesa": "DEMBE JAYA"
+      "namaDesa": "DEMBE JAYA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "210",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500682861-mohammad-fathir-saputra",
@@ -5910,7 +7014,15 @@
         "namaDesa": "LIMBA U II"
       },
       "noHp": "85397783501",
-      "namaDesa": "LIMBA U II"
+      "namaDesa": "LIMBA U II",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "207",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678479-muhammad-yunus-guzasiah",
@@ -5952,7 +7064,15 @@
         "namaDesa": "DEMBE JAYA"
       },
       "noHp": "82196437300",
-      "namaDesa": "DEMBE JAYA"
+      "namaDesa": "DEMBE JAYA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "208",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678172-nadira-zalsabilah-fahmi",
@@ -5994,7 +7114,15 @@
         "namaDesa": "LIMBA U II"
       },
       "noHp": "8124475001",
-      "namaDesa": "LIMBA U II"
+      "namaDesa": "LIMBA U II",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "210",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678167-noviyanti-jufri-nonci",
@@ -6036,7 +7164,15 @@
         "namaDesa": "LIMBA B"
       },
       "noHp": "85299940000",
-      "namaDesa": "LIMBA B"
+      "namaDesa": "LIMBA B",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "209",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678171-rafly-hardyansah-fahmi",
@@ -6078,7 +7214,15 @@
         "namaDesa": "LIMBA U II"
       },
       "noHp": "8124475001",
-      "namaDesa": "LIMBA U II"
+      "namaDesa": "LIMBA U II",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "207",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677880-rudi-sarifudin-kamarong",
@@ -6120,7 +7264,15 @@
         "namaDesa": "LIMBA U II"
       },
       "noHp": "85240562107",
-      "namaDesa": "LIMBA U II"
+      "namaDesa": "LIMBA U II",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "204",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678165-sandi-darling-nonci",
@@ -6162,7 +7314,15 @@
         "namaDesa": "LIMBA B"
       },
       "noHp": "85299940000",
-      "namaDesa": "LIMBA B"
+      "namaDesa": "LIMBA B",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "207",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500015564-tsurayya-fadilah-ramadhani",
@@ -6204,7 +7364,15 @@
         "namaDesa": "LIMBA U II"
       },
       "noHp": "82271355838",
-      "namaDesa": "LIMBA U II"
+      "namaDesa": "LIMBA U II",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "209",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500687424-zalfa-sahiyya-putri",
@@ -6246,7 +7414,15 @@
         "namaDesa": "PAGUYAMAN"
       },
       "noHp": "85240110790",
-      "namaDesa": "PAGUYAMAN"
+      "namaDesa": "PAGUYAMAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "209",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500676520-abdul-haris-pakaya",
@@ -6288,7 +7464,15 @@
         "namaDesa": "MOLOSIFAT W"
       },
       "noHp": "85240190410",
-      "namaDesa": "MOLOSIFAT W"
+      "namaDesa": "MOLOSIFAT W",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "212",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677792-adhelin-sahi-yunan",
@@ -6330,7 +7514,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "85342393123",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "213",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678120-asma-mohammad-aslam",
@@ -6372,7 +7564,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "82194405217",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "213",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678343-asni-pakaja",
@@ -6414,7 +7614,15 @@
         "namaDesa": "TENILO"
       },
       "noHp": "85298633363",
-      "namaDesa": "TENILO"
+      "namaDesa": "TENILO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "211",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678213-baderia-madda-remmeng",
@@ -6456,7 +7664,15 @@
         "namaDesa": "PULUBALA"
       },
       "noHp": "82190006748",
-      "namaDesa": "PULUBALA"
+      "namaDesa": "PULUBALA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "211",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678005-hardjon-igirisa",
@@ -6498,7 +7714,15 @@
         "namaDesa": "LIMBA U II"
       },
       "noHp": "81242951450",
-      "namaDesa": "LIMBA U II"
+      "namaDesa": "LIMBA U II",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "212",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678261-mardia-idi-latif",
@@ -6540,7 +7764,15 @@
         "namaDesa": "BULOTADAA TIMUR"
       },
       "noHp": "85146266650",
-      "namaDesa": "BULOTADAA TIMUR"
+      "namaDesa": "BULOTADAA TIMUR",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "210",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678260-meis-rahmat",
@@ -6582,7 +7814,15 @@
         "namaDesa": "BIAWU"
       },
       "noHp": "85242911490",
-      "namaDesa": "BIAWU"
+      "namaDesa": "BIAWU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "208",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678214-nurdin-palancoi",
@@ -6624,7 +7864,15 @@
         "namaDesa": "PULUBALA"
       },
       "noHp": "81340815779",
-      "namaDesa": "PULUBALA"
+      "namaDesa": "PULUBALA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "208",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500676521-nurhayati-nasaru-abubakar",
@@ -6666,7 +7914,15 @@
         "namaDesa": "MOLOSIFAT W"
       },
       "noHp": "82346001313",
-      "namaDesa": "MOLOSIFAT W"
+      "namaDesa": "MOLOSIFAT W",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "211",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678160-eflin-panigoro-djalil",
@@ -6708,7 +7964,15 @@
         "namaDesa": "DONGGALA"
       },
       "noHp": "81356856262",
-      "namaDesa": "DONGGALA"
+      "namaDesa": "DONGGALA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "216",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678034-jois-musa",
@@ -6750,7 +8014,15 @@
         "namaDesa": "DULOMO SELATAN"
       },
       "noHp": "8114319223",
-      "namaDesa": "DULOMO SELATAN"
+      "namaDesa": "DULOMO SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "213",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678161-maryam-adam",
@@ -6792,7 +8064,15 @@
         "namaDesa": "LIBUO"
       },
       "noHp": "85270702543",
-      "namaDesa": "LIBUO"
+      "namaDesa": "LIBUO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "215",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678302-rahmi-liputo",
@@ -6834,7 +8114,15 @@
         "namaDesa": "BULADU"
       },
       "noHp": "81241284858",
-      "namaDesa": "BULADU"
+      "namaDesa": "BULADU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "215",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500676985-rasyid-polumulo",
@@ -6876,7 +8164,15 @@
         "namaDesa": "TENDA"
       },
       "noHp": "8114606788",
-      "namaDesa": "TENDA"
+      "namaDesa": "TENDA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "214",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678035-rustam-mustafa",
@@ -6918,7 +8214,15 @@
         "namaDesa": "DULOMO SELATAN"
       },
       "noHp": "85298836618",
-      "namaDesa": "DULOMO SELATAN"
+      "namaDesa": "DULOMO SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "212",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678026-safri-mustapa",
@@ -6960,7 +8264,15 @@
         "namaDesa": "LILUWO"
       },
       "noHp": "81356783000",
-      "namaDesa": "LILUWO"
+      "namaDesa": "LILUWO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "214",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678000-salma-maseke",
@@ -7002,7 +8314,15 @@
         "namaDesa": "TOMULABUTAO"
       },
       "noHp": "81244384142",
-      "namaDesa": "TOMULABUTAO"
+      "namaDesa": "TOMULABUTAO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "216",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678306-siskawaty-duma",
@@ -7044,7 +8364,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "81241124442",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "215",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677275-usman-gobel",
@@ -7086,7 +8414,15 @@
         "namaDesa": "DEMBE JAYA"
       },
       "noHp": "85398734528",
-      "namaDesa": "DEMBE JAYA"
+      "namaDesa": "DEMBE JAYA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "214",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678315-banun-bachsin",
@@ -7128,7 +8464,15 @@
         "namaDesa": "HELEDULAA SELATAN"
       },
       "noHp": "81244896794",
-      "namaDesa": "HELEDULAA SELATAN"
+      "namaDesa": "HELEDULAA SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "219",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678377-elysa-gobel",
@@ -7170,7 +8514,15 @@
         "namaDesa": "DESA TALUMOPATU"
       },
       "noHp": "81340877315",
-      "namaDesa": "DESA TALUMOPATU"
+      "namaDesa": "DESA TALUMOPATU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "220",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678344-fadli-husen-alamri",
@@ -7212,7 +8564,15 @@
         "namaDesa": "LIMBA B"
       },
       "noHp": "85298624359",
-      "namaDesa": "LIMBA B"
+      "namaDesa": "LIMBA B",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "217",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678389-farina-zubedi",
@@ -7254,7 +8614,15 @@
         "namaDesa": "BUGIS"
       },
       "noHp": "85146475805",
-      "namaDesa": "BUGIS"
+      "namaDesa": "BUGIS",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "220",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678345-hadija-hasan",
@@ -7296,7 +8664,15 @@
         "namaDesa": "LIMBA B"
       },
       "noHp": "85298647190",
-      "namaDesa": "LIMBA B"
+      "namaDesa": "LIMBA B",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "216",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678376-jismon-djakaria",
@@ -7338,7 +8714,15 @@
         "namaDesa": "TOMULABUTAO SELATAN"
       },
       "noHp": "8114316715",
-      "namaDesa": "TOMULABUTAO SELATAN"
+      "namaDesa": "TOMULABUTAO SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "217",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678375-maryam-panigoro-umar",
@@ -7380,7 +8764,15 @@
         "namaDesa": "MOLOSIPAT W"
       },
       "noHp": "81356995020",
-      "namaDesa": "MOLOSIPAT W"
+      "namaDesa": "MOLOSIPAT W",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "219",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678366-mohamad-faturahman-alganani",
@@ -7422,7 +8814,15 @@
         "namaDesa": "PAGUYAMAN"
       },
       "noHp": "85240062400",
-      "namaDesa": "PAGUYAMAN"
+      "namaDesa": "PAGUYAMAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "217",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678374-muhamad-fathanah-djakaria",
@@ -7464,7 +8864,15 @@
         "namaDesa": "TOMULABUTAO SELATAN"
       },
       "noHp": "82290608015",
-      "namaDesa": "TOMULABUTAO SELATAN"
+      "namaDesa": "TOMULABUTAO SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "218",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678392-nursyafrianty-taha",
@@ -7506,7 +8914,15 @@
         "namaDesa": "LIMBA B"
       },
       "noHp": "85256014796",
-      "namaDesa": "LIMBA B"
+      "namaDesa": "LIMBA B",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "220",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678346-samya-hasan-fray",
@@ -7548,7 +8964,15 @@
         "namaDesa": "LIMBA B"
       },
       "noHp": "82191459094",
-      "namaDesa": "LIMBA B"
+      "namaDesa": "LIMBA B",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "219",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678407-asmin-s-suleman",
@@ -7590,7 +9014,15 @@
         "namaDesa": "BUGIS"
       },
       "noHp": "85341310913",
-      "namaDesa": "BUGIS"
+      "namaDesa": "BUGIS",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "222",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678028-hartin-maliki",
@@ -7632,7 +9064,15 @@
         "namaDesa": "LIMBA B"
       },
       "noHp": "81342782264",
-      "namaDesa": "LIMBA B"
+      "namaDesa": "LIMBA B",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "223",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678406-hasan-hamid",
@@ -7674,7 +9114,15 @@
         "namaDesa": "BUGIS"
       },
       "noHp": "85341310913",
-      "namaDesa": "BUGIS"
+      "namaDesa": "BUGIS",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "221",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678506-ismartono-balango-imran",
@@ -7716,7 +9164,15 @@
         "namaDesa": "DULALOWO TIMUR"
       },
       "noHp": "811560094",
-      "namaDesa": "DULALOWO TIMUR"
+      "namaDesa": "DULALOWO TIMUR",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "221",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678398-lian-ahmad",
@@ -7758,7 +9214,15 @@
         "namaDesa": "PULUBALA"
       },
       "noHp": "85210029977",
-      "namaDesa": "PULUBALA"
+      "namaDesa": "PULUBALA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "222",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677942-maryeni-dunggio-sun",
@@ -7800,7 +9264,15 @@
         "namaDesa": "LIBUO"
       },
       "noHp": "85240125707",
-      "namaDesa": "LIBUO"
+      "namaDesa": "LIBUO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "222",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678507-restu-hestiyati-moo",
@@ -7842,7 +9314,15 @@
         "namaDesa": "DULALOWO TIMUR"
       },
       "noHp": "8115700094",
-      "namaDesa": "DULALOWO TIMUR"
+      "namaDesa": "DULALOWO TIMUR",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "223",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677710-rizal-ombingo-djainudin",
@@ -7884,7 +9364,15 @@
         "namaDesa": "BULOTADAA TIMUR"
       },
       "noHp": "85298447979",
-      "namaDesa": "BULOTADAA TIMUR"
+      "namaDesa": "BULOTADAA TIMUR",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "218",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678126-sardin-abas-mani",
@@ -7926,7 +9414,15 @@
         "namaDesa": "LIMBA U II"
       },
       "noHp": "85256252616",
-      "namaDesa": "LIMBA U II"
+      "namaDesa": "LIMBA U II",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "218",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677739-suarni-bano",
@@ -7968,7 +9464,15 @@
         "namaDesa": "TOMULABUTAO SELATAN"
       },
       "noHp": "85397911858",
-      "namaDesa": "TOMULABUTAO SELATAN"
+      "namaDesa": "TOMULABUTAO SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "223",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678348-arifin-hamzah",
@@ -8010,7 +9514,15 @@
         "namaDesa": "DEMBE JAYA"
       },
       "noHp": "81225872590",
-      "namaDesa": "DEMBE JAYA"
+      "namaDesa": "DEMBE JAYA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "221",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678276-darlin-malayu-mohamad",
@@ -8052,7 +9564,15 @@
         "namaDesa": "BIAWU"
       },
       "noHp": "82296485076",
-      "namaDesa": "BIAWU"
+      "namaDesa": "BIAWU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "225",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678149-fitri-doka",
@@ -8094,7 +9614,15 @@
         "namaDesa": "HELEDULAA UTARA"
       },
       "noHp": "85240269093",
-      "namaDesa": "HELEDULAA UTARA"
+      "namaDesa": "HELEDULAA UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "225",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678364-iri-hawaria-dengo",
@@ -8136,7 +9664,15 @@
         "namaDesa": "TAPA"
       },
       "noHp": "85298713799",
-      "namaDesa": "TAPA"
+      "namaDesa": "TAPA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "226",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677774-ridwan-m-abas",
@@ -8178,7 +9714,15 @@
         "namaDesa": "TOMULABUTAO SELATAN"
       },
       "noHp": "81342222529",
-      "namaDesa": "TOMULABUTAO SELATAN"
+      "namaDesa": "TOMULABUTAO SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "224",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678292-rudiyanto-katili",
@@ -8220,7 +9764,15 @@
         "namaDesa": "HELEDULAA UTARA"
       },
       "noHp": "8124310999",
-      "namaDesa": "HELEDULAA UTARA"
+      "namaDesa": "HELEDULAA UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "224",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500015214-sarlin-mooduto",
@@ -8262,7 +9814,15 @@
         "namaDesa": "TAMALATE"
       },
       "noHp": "85123995020",
-      "namaDesa": "TAMALATE"
+      "namaDesa": "TAMALATE",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "227",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678293-sitti-aminah",
@@ -8304,7 +9864,15 @@
         "namaDesa": "HELEDULAA UTARA"
       },
       "noHp": "81244444466",
-      "namaDesa": "HELEDULAA UTARA"
+      "namaDesa": "HELEDULAA UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "225",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678356-sitti-fatimah-meylandri-arsad",
@@ -8346,7 +9914,15 @@
         "namaDesa": "LIMBA U II"
       },
       "noHp": "85399537711",
-      "namaDesa": "LIMBA U II"
+      "namaDesa": "LIMBA U II",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "226",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678355-sitti-nurtiah-arsad",
@@ -8388,7 +9964,15 @@
         "namaDesa": "LIMBA U II"
       },
       "noHp": "82215525292",
-      "namaDesa": "LIMBA U II"
+      "namaDesa": "LIMBA U II",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "226",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677790-arsad-muhammad-labungasa",
@@ -8430,7 +10014,15 @@
         "namaDesa": "MOLOSIFAT U"
       },
       "noHp": "8124402582",
-      "namaDesa": "MOLOSIFAT U"
+      "namaDesa": "MOLOSIFAT U",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "229",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677657-deysi-daenunu",
@@ -8472,7 +10064,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "81356659900",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "228",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677736-fatmah-latif",
@@ -8514,7 +10114,15 @@
         "namaDesa": "LEKOBALO"
       },
       "noHp": "85145787610",
-      "namaDesa": "LEKOBALO"
+      "namaDesa": "LEKOBALO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "228",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677658-ferdi-adam",
@@ -8556,7 +10164,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "85240758919",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "224",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500685256-satria-latif",
@@ -8598,7 +10214,15 @@
         "namaDesa": "LEKOBALO"
       },
       "noHp": "85256298175",
-      "namaDesa": "LEKOBALO"
+      "namaDesa": "LEKOBALO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "228",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677791-sulastry-abdullah",
@@ -8640,7 +10264,15 @@
         "namaDesa": "MOLOSIFAT U"
       },
       "noHp": "85256303568",
-      "namaDesa": "MOLOSIFAT U"
+      "namaDesa": "MOLOSIFAT U",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "227",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677746-suryani-tjan-dunggio",
@@ -8682,7 +10314,15 @@
         "namaDesa": "MOLOSIFAT U"
       },
       "noHp": "81342222228",
-      "namaDesa": "MOLOSIFAT U"
+      "namaDesa": "MOLOSIFAT U",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "227",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678535-syamsiah-gobel",
@@ -8724,7 +10364,15 @@
         "namaDesa": "BIAWU"
       },
       "noHp": "82349368924",
-      "namaDesa": "BIAWU"
+      "namaDesa": "BIAWU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "230",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678550-syamsudin-djailani",
@@ -8766,7 +10414,15 @@
         "namaDesa": "TULADENGGI"
       },
       "noHp": "85398191835",
-      "namaDesa": "TULADENGGI"
+      "namaDesa": "TULADENGGI",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "229",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678551-titi-cendra-kasih-pangalima",
@@ -8808,7 +10464,15 @@
         "namaDesa": "TULADENGGI"
       },
       "noHp": "82189062773",
-      "namaDesa": "TULADENGGI"
+      "namaDesa": "TULADENGGI",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "230",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678532-ahmad-nango",
@@ -8850,7 +10514,15 @@
         "namaDesa": "LIMBA U II"
       },
       "noHp": "895352634433",
-      "namaDesa": "LIMBA U II"
+      "namaDesa": "LIMBA U II",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "232",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678510-dian-pravitasari-mahmud",
@@ -8892,7 +10564,15 @@
         "namaDesa": "PULUBALA"
       },
       "noHp": "81244096559",
-      "namaDesa": "PULUBALA"
+      "namaDesa": "PULUBALA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "234",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678255-fatmawati-abdullah-hamid",
@@ -8934,7 +10614,15 @@
         "namaDesa": "WUMIALO"
       },
       "noHp": "82297551154",
-      "namaDesa": "WUMIALO"
+      "namaDesa": "WUMIALO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "233",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677812-irsanty-wungguli",
@@ -8976,7 +10664,15 @@
         "namaDesa": "HELEDULAA UTARA"
       },
       "noHp": "81340662438",
-      "namaDesa": "HELEDULAA UTARA"
+      "namaDesa": "HELEDULAA UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "233",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678122-iyam-ibura",
@@ -9018,7 +10714,15 @@
         "namaDesa": "TOMULABUTAO SELATAN"
       },
       "noHp": "85256564652",
-      "namaDesa": "TOMULABUTAO SELATAN"
+      "namaDesa": "TOMULABUTAO SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "231",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678511-jois-gobel",
@@ -9060,7 +10764,15 @@
         "namaDesa": "MOODU"
       },
       "noHp": "82191498446",
-      "namaDesa": "MOODU"
+      "namaDesa": "MOODU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "234",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678379-kaharuddin-kamaru-achmad",
@@ -9102,7 +10814,15 @@
         "namaDesa": "LILUWO"
       },
       "noHp": "811431717",
-      "namaDesa": "LILUWO"
+      "namaDesa": "LILUWO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "232",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678381-linda-arsyad-rahman",
@@ -9144,7 +10864,15 @@
         "namaDesa": "LILUWO"
       },
       "noHp": "811430175",
-      "namaDesa": "LILUWO"
+      "namaDesa": "LILUWO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "233",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500681361-mohamad-hidayat-koniyo",
@@ -9186,7 +10914,15 @@
         "namaDesa": "DULALOWO"
       },
       "noHp": "811430322",
-      "namaDesa": "DULALOWO"
+      "namaDesa": "DULALOWO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "229",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677435-roma-niuwa",
@@ -9228,7 +10964,15 @@
         "namaDesa": "YOSONEGORO/LIMBOTO BARAT"
       },
       "noHp": "81395999851",
-      "namaDesa": "YOSONEGORO/LIMBOTO BARAT"
+      "namaDesa": "YOSONEGORO/LIMBOTO BARAT",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "234",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678520-selvian-lamusu-hok",
@@ -9270,7 +11014,15 @@
         "namaDesa": "LIMBA U II"
       },
       "noHp": "82346984551",
-      "namaDesa": "LIMBA U II"
+      "namaDesa": "LIMBA U II",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "230",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678129-agustin-neu",
@@ -9312,7 +11064,15 @@
         "namaDesa": "BULOTADAA TIMUR"
       },
       "noHp": "85256221842",
-      "namaDesa": "BULOTADAA TIMUR"
+      "namaDesa": "BULOTADAA TIMUR",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "231",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678056-alyn-pou",
@@ -9354,7 +11114,15 @@
         "namaDesa": "LIMBA U 2"
       },
       "noHp": "85242516630",
-      "namaDesa": "LIMBA U 2"
+      "namaDesa": "LIMBA U 2",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "237",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678530-isna-gobel",
@@ -9396,7 +11164,15 @@
         "namaDesa": "PILOHAYANGA / TELAGA"
       },
       "noHp": "85240085657",
-      "namaDesa": "PILOHAYANGA / TELAGA"
+      "namaDesa": "PILOHAYANGA / TELAGA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "237",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500687957-mirnawaty-n-zakaria",
@@ -9438,7 +11214,15 @@
         "namaDesa": "DULOMO SELATAN"
       },
       "noHp": "85256888488",
-      "namaDesa": "DULOMO SELATAN"
+      "namaDesa": "DULOMO SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "231",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677902-nasir-zakaria",
@@ -9480,7 +11264,15 @@
         "namaDesa": "DEMBE JAYA"
       },
       "noHp": "81244775188",
-      "namaDesa": "DEMBE JAYA"
+      "namaDesa": "DEMBE JAYA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "235",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678384-ramli-kasim-nassa",
@@ -9522,7 +11314,15 @@
         "namaDesa": "BULULI/ASPARAGA"
       },
       "noHp": "85255342323",
-      "namaDesa": "BULULI/ASPARAGA"
+      "namaDesa": "BULULI/ASPARAGA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "235",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500676553-rifli-muhammad-katili",
@@ -9564,7 +11364,15 @@
         "namaDesa": "WUMIALO"
       },
       "noHp": "8124458463",
-      "namaDesa": "WUMIALO"
+      "namaDesa": "WUMIALO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "235",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678057-umar-ismail",
@@ -9606,7 +11414,15 @@
         "namaDesa": "PANTUNGO/TELAGA BIRU"
       },
       "noHp": "81356645647",
-      "namaDesa": "PANTUNGO/TELAGA BIRU"
+      "namaDesa": "PANTUNGO/TELAGA BIRU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "236",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500686972-wis-m-lantu",
@@ -9648,7 +11464,15 @@
         "namaDesa": "BULOTADAA TIMUR"
       },
       "noHp": "85397478599",
-      "namaDesa": "BULOTADAA TIMUR"
+      "namaDesa": "BULOTADAA TIMUR",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "232",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678383-yuni-nugrah-made",
@@ -9690,7 +11514,15 @@
         "namaDesa": "BULULI/ASPARAGA"
       },
       "noHp": "85399661818",
-      "namaDesa": "BULULI/ASPARAGA"
+      "namaDesa": "BULULI/ASPARAGA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "237",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678274-abdi-suryawan-sahi",
@@ -9732,7 +11564,15 @@
         "namaDesa": "BULADU"
       },
       "noHp": "81342606265",
-      "namaDesa": "BULADU"
+      "namaDesa": "BULADU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "236",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3247350002-agus-akase-kude",
@@ -9774,7 +11614,15 @@
         "namaDesa": ""
       },
       "noHp": "",
-      "namaDesa": ""
+      "namaDesa": "",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "238",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678484-hapsa-yusuf-habu",
@@ -9816,7 +11664,15 @@
         "namaDesa": "BUGIS"
       },
       "noHp": "82293333422",
-      "namaDesa": "BUGIS"
+      "namaDesa": "BUGIS",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "239",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678560-laila-abdulgani-giasi",
@@ -9858,7 +11714,15 @@
         "namaDesa": "MODELOMO"
       },
       "noHp": "85298789110",
-      "namaDesa": "MODELOMO"
+      "namaDesa": "MODELOMO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "240",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3147350001-munkizul-umam-kau",
@@ -9900,7 +11764,15 @@
         "namaDesa": ""
       },
       "noHp": "",
-      "namaDesa": ""
+      "namaDesa": "",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "238",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677860-rianto-nur-darwis",
@@ -9942,7 +11814,15 @@
         "namaDesa": "KEC.SIPATANA"
       },
       "noHp": "85342132756",
-      "namaDesa": "KEC.SIPATANA"
+      "namaDesa": "KEC.SIPATANA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "236",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678502-rianty-harun",
@@ -9984,7 +11864,15 @@
         "namaDesa": "MOLOSIPAT U"
       },
       "noHp": "81356407667",
-      "namaDesa": "MOLOSIPAT U"
+      "namaDesa": "MOLOSIPAT U",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "240",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "900164954-roslina-kasim-husin",
@@ -10026,7 +11914,15 @@
         "namaDesa": ""
       },
       "noHp": "",
-      "namaDesa": ""
+      "namaDesa": "",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "240",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678131-sarifa-isnora-irawati-dungga",
@@ -10068,7 +11964,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "82191398583",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "239",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677861-sri-suparti-lamadupa",
@@ -10110,7 +12014,15 @@
         "namaDesa": "KEC.SIPATANA"
       },
       "noHp": "85256851936",
-      "namaDesa": "KEC.SIPATANA"
+      "namaDesa": "KEC.SIPATANA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "239",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678248-enik-erdiana",
@@ -10152,7 +12064,15 @@
         "namaDesa": "PULUBALA"
       },
       "noHp": "81244033096",
-      "namaDesa": "PULUBALA"
+      "namaDesa": "PULUBALA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "304",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678245-firra-laksana-deby-sudarsono",
@@ -10194,7 +12114,15 @@
         "namaDesa": "PULUBALA"
       },
       "noHp": "85396378373",
-      "namaDesa": "PULUBALA"
+      "namaDesa": "PULUBALA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "303",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678500-helmiani-baharuddin",
@@ -10236,7 +12164,15 @@
         "namaDesa": "BUMI BAHARI"
       },
       "noHp": "81343906107",
-      "namaDesa": "BUMI BAHARI"
+      "namaDesa": "BUMI BAHARI",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "301",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678495-herlinah-baharuddin",
@@ -10278,7 +12214,15 @@
         "namaDesa": "BUMI BAHARI"
       },
       "noHp": "81354058767",
-      "namaDesa": "BUMI BAHARI"
+      "namaDesa": "BUMI BAHARI",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "301",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678247-maisah-binti-bain-paris",
@@ -10320,7 +12264,15 @@
         "namaDesa": "PULUBALA"
       },
       "noHp": "81243672552",
-      "namaDesa": "PULUBALA"
+      "namaDesa": "PULUBALA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "303",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678240-rosminati-sukardi",
@@ -10362,7 +12314,15 @@
         "namaDesa": "HELEDULAA UTARA"
       },
       "noHp": "82187624309",
-      "namaDesa": "HELEDULAA UTARA"
+      "namaDesa": "HELEDULAA UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "304",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678337-suparji-siswanto",
@@ -10404,7 +12364,15 @@
         "namaDesa": "HELEDULAA UTARA"
       },
       "noHp": "85240912633",
-      "namaDesa": "HELEDULAA UTARA"
+      "namaDesa": "HELEDULAA UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "238",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678256-tamin-hadi-suyoto-yotopawiro",
@@ -10446,7 +12414,15 @@
         "namaDesa": "HELEDULAA SELATAN"
       },
       "noHp": "82259863399",
-      "namaDesa": "HELEDULAA SELATAN"
+      "namaDesa": "HELEDULAA SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "302",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678257-trinem-reso-katmio",
@@ -10488,7 +12464,15 @@
         "namaDesa": "HELEDULAA SELATAN"
       },
       "noHp": "81355825075",
-      "namaDesa": "HELEDULAA SELATAN"
+      "namaDesa": "HELEDULAA SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "301",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678239-yolfin-pomanto",
@@ -10530,7 +12514,15 @@
         "namaDesa": "HELEDULAA UTARA"
       },
       "noHp": "82363375544",
-      "namaDesa": "HELEDULAA UTARA"
+      "namaDesa": "HELEDULAA UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "303",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678142-abdullah-r-ismail",
@@ -10572,7 +12564,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "0",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "305",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678544-darni-diu-noho",
@@ -10614,7 +12614,15 @@
         "namaDesa": "BULOTADAA BARAT"
       },
       "noHp": "85370244196",
-      "namaDesa": "BULOTADAA BARAT"
+      "namaDesa": "BULOTADAA BARAT",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "307",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677187-fatwatiny-bahua",
@@ -10656,7 +12664,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "85256315385",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "306",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500687654-fenti-anggraeni-thaib",
@@ -10698,7 +12714,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "82348834778",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "306",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678459-ona-d-igiasi",
@@ -10740,7 +12764,15 @@
         "namaDesa": "TOM ULABUTAO SELATAN"
       },
       "noHp": "81287511489",
-      "namaDesa": "TOM ULABUTAO SELATAN"
+      "namaDesa": "TOM ULABUTAO SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "304",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677908-rosita-adam",
@@ -10782,7 +12814,15 @@
         "namaDesa": "DULALOWO"
       },
       "noHp": "85146467380",
-      "namaDesa": "DULALOWO"
+      "namaDesa": "DULALOWO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "307",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678508-rukmin-hulukati",
@@ -10824,7 +12864,15 @@
         "namaDesa": "TOMULABUTAO"
       },
       "noHp": "81935718454",
-      "namaDesa": "TOMULABUTAO"
+      "namaDesa": "TOMULABUTAO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "306",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678362-saleh-kasim",
@@ -10866,7 +12914,15 @@
         "namaDesa": "TOMULABUTAO SELATAN"
       },
       "noHp": "85298542914",
-      "namaDesa": "TOMULABUTAO SELATAN"
+      "namaDesa": "TOMULABUTAO SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "302",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678460-suleman-harun",
@@ -10908,7 +12964,15 @@
         "namaDesa": "TOMULABUTAO SELATAN"
       },
       "noHp": "81287511489",
-      "namaDesa": "TOMULABUTAO SELATAN"
+      "namaDesa": "TOMULABUTAO SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "302",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678238-warni-lahilote",
@@ -10950,7 +13014,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "82216967611",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "307",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678373-yulan-k-jusuf",
@@ -10992,7 +13064,15 @@
         "namaDesa": "IPILO"
       },
       "noHp": "85256967399",
-      "namaDesa": "IPILO"
+      "namaDesa": "IPILO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "308",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678190-elly-mustapa",
@@ -11034,7 +13114,15 @@
         "namaDesa": "LILUWO"
       },
       "noHp": "85256672080",
-      "namaDesa": "LILUWO"
+      "namaDesa": "LILUWO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "309",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677805-hartati-ngatiman",
@@ -11076,7 +13164,15 @@
         "namaDesa": "TAPA"
       },
       "noHp": "85299967133",
-      "namaDesa": "TAPA"
+      "namaDesa": "TAPA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "308",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678470-jamiah-samadi",
@@ -11118,7 +13214,15 @@
         "namaDesa": "LIMBA B"
       },
       "noHp": "81340511775",
-      "namaDesa": "LIMBA B"
+      "namaDesa": "LIMBA B",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "311",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500685912-jusrin-pakaja",
@@ -11160,7 +13264,15 @@
         "namaDesa": "HUANGOBOTU"
       },
       "noHp": "82292484895",
-      "namaDesa": "HUANGOBOTU"
+      "namaDesa": "HUANGOBOTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "309",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678471-khasiran-salim",
@@ -11202,7 +13314,15 @@
         "namaDesa": "LIMBA B"
       },
       "noHp": "85398196683",
-      "namaDesa": "LIMBA B"
+      "namaDesa": "LIMBA B",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "310",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500685541-milawaty-eki",
@@ -11244,7 +13364,15 @@
         "namaDesa": "DULALOWO TIMUR"
       },
       "noHp": "82292484895",
-      "namaDesa": "DULALOWO TIMUR"
+      "namaDesa": "DULALOWO TIMUR",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "309",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677817-misirah-bikun",
@@ -11286,7 +13414,15 @@
         "namaDesa": "TAPA"
       },
       "noHp": "82344256835",
-      "namaDesa": "TAPA"
+      "namaDesa": "TAPA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "308",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678178-mohamad-sarimin-hilumalo",
@@ -11328,7 +13464,15 @@
         "namaDesa": "TULADENGGI"
       },
       "noHp": "85256172433",
-      "namaDesa": "TULADENGGI"
+      "namaDesa": "TULADENGGI",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "305",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677802-pairen-rasid",
@@ -11370,7 +13514,15 @@
         "namaDesa": "TAPA"
       },
       "noHp": "85298667037",
-      "namaDesa": "TAPA"
+      "namaDesa": "TAPA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "305",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677814-sapingi-djaimo",
@@ -11412,7 +13564,15 @@
         "namaDesa": "TAPA"
       },
       "noHp": "82344253835",
-      "namaDesa": "TAPA"
+      "namaDesa": "TAPA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "310",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677958-adha-abd-wahab",
@@ -11454,7 +13614,15 @@
         "namaDesa": "DULOMO SELATAN"
       },
       "noHp": "85215463959",
-      "namaDesa": "DULOMO SELATAN"
+      "namaDesa": "DULOMO SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "321",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678233-ervina-amu",
@@ -11496,7 +13664,15 @@
         "namaDesa": "BULOTADAA BARAT"
       },
       "noHp": "85299501282",
-      "namaDesa": "BULOTADAA BARAT"
+      "namaDesa": "BULOTADAA BARAT",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "311",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678359-lisnawati-didipu-idrus",
@@ -11538,7 +13714,15 @@
         "namaDesa": "LILUWO"
       },
       "noHp": "85243036165",
-      "namaDesa": "LILUWO"
+      "namaDesa": "LILUWO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "312",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678173-nurlinda-lahemma",
@@ -11580,7 +13764,15 @@
         "namaDesa": "MOTOLOHU"
       },
       "noHp": "85250220848",
-      "namaDesa": "MOTOLOHU"
+      "namaDesa": "MOTOLOHU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "313",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678174-nurmiah-laceng",
@@ -11622,7 +13814,15 @@
         "namaDesa": "MOTOLUHU"
       },
       "noHp": "85145607032",
-      "namaDesa": "MOTOLUHU"
+      "namaDesa": "MOTOLUHU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "313",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677068-nurtin-hinta",
@@ -11664,7 +13864,15 @@
         "namaDesa": "Kel. Tomulobutao"
       },
       "noHp": "85340111158",
-      "namaDesa": "Kel. Tomulobutao"
+      "namaDesa": "Kel. Tomulobutao",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "313",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677099-ratna-harun-dako",
@@ -11706,7 +13914,15 @@
         "namaDesa": "TOMULABUTAO SELATAN"
       },
       "noHp": "82188008112",
-      "namaDesa": "TOMULABUTAO SELATAN"
+      "namaDesa": "TOMULABUTAO SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "312",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678181-silvana-karim",
@@ -11748,7 +13964,15 @@
         "namaDesa": "TOMULABUTAO"
       },
       "noHp": "85241968630",
-      "namaDesa": "TOMULABUTAO"
+      "namaDesa": "TOMULABUTAO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "312",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678037-sri-ritawani-tuna",
@@ -11790,7 +14014,15 @@
         "namaDesa": "TOMULABUTAO"
       },
       "noHp": "85240269097",
-      "namaDesa": "TOMULABUTAO"
+      "namaDesa": "TOMULABUTAO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "311",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678036-yunus-kidamu",
@@ -11832,7 +14064,15 @@
         "namaDesa": "TOMULABUTAO"
       },
       "noHp": "81244892344",
-      "namaDesa": "TOMULABUTAO"
+      "namaDesa": "TOMULABUTAO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "310",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678227-ambo-upe",
@@ -11874,7 +14114,15 @@
         "namaDesa": "MOTOLOHU"
       },
       "noHp": "85299997053",
-      "namaDesa": "MOTOLOHU"
+      "namaDesa": "MOTOLOHU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "314",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678091-besse-ernianti",
@@ -11916,7 +14164,15 @@
         "namaDesa": "MOTOLOHU"
       },
       "noHp": "85255515133",
-      "namaDesa": "MOTOLOHU"
+      "namaDesa": "MOTOLOHU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "316",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678228-besse-rawe",
@@ -11958,7 +14214,15 @@
         "namaDesa": "MOTOLOHU"
       },
       "noHp": "85299997053",
-      "namaDesa": "MOTOLOHU"
+      "namaDesa": "MOTOLOHU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "316",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678093-besse-suriani",
@@ -12000,7 +14264,15 @@
         "namaDesa": "MOTOLOHU"
       },
       "noHp": "85145351063",
-      "namaDesa": "MOTOLOHU"
+      "namaDesa": "MOTOLOHU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "316",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677353-fitrah-albanat-kaiman",
@@ -12042,7 +14314,15 @@
         "namaDesa": "MANUNGGAL KARYA"
       },
       "noHp": "82228066327",
-      "namaDesa": "MANUNGGAL KARYA"
+      "namaDesa": "MANUNGGAL KARYA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "315",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678481-jahera-sale",
@@ -12084,7 +14364,15 @@
         "namaDesa": "PATUHU"
       },
       "noHp": "85298177644",
-      "namaDesa": "PATUHU"
+      "namaDesa": "PATUHU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "315",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678186-juhuria-ajo-wilan",
@@ -12126,7 +14414,15 @@
         "namaDesa": "DUHIADAA"
       },
       "noHp": "85342114253",
-      "namaDesa": "DUHIADAA"
+      "namaDesa": "DUHIADAA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "317",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678090-jumadi-ambo-angka",
@@ -12168,7 +14464,15 @@
         "namaDesa": "MOTOLOHU"
       },
       "noHp": "85145351063",
-      "namaDesa": "MOTOLOHU"
+      "namaDesa": "MOTOLOHU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "314",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677356-sumarno-kaiman",
@@ -12210,7 +14514,15 @@
         "namaDesa": "MANUNGGAL KARYA"
       },
       "noHp": "85240872920",
-      "namaDesa": "MANUNGGAL KARYA"
+      "namaDesa": "MANUNGGAL KARYA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "314",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678548-zusmiyati-abu",
@@ -12252,7 +14564,15 @@
         "namaDesa": "PATUHU"
       },
       "noHp": "85298177644",
-      "namaDesa": "PATUHU"
+      "namaDesa": "PATUHU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "315",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678436-hesti-otoluwa",
@@ -12294,7 +14614,15 @@
         "namaDesa": "MARISA SELATAN"
       },
       "noHp": "81354309926",
-      "namaDesa": "MARISA SELATAN"
+      "namaDesa": "MARISA SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "317",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678474-mansur-mohamad",
@@ -12336,7 +14664,15 @@
         "namaDesa": "SIDUAN"
       },
       "noHp": "81398758008",
-      "namaDesa": "SIDUAN"
+      "namaDesa": "SIDUAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "318",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677325-moh-bugi-lukman-hakim",
@@ -12378,7 +14714,15 @@
         "namaDesa": "MARISA SELATAN"
       },
       "noHp": "82192798200",
-      "namaDesa": "MARISA SELATAN"
+      "namaDesa": "MARISA SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "319",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677326-mohamad-aulia",
@@ -12420,7 +14764,15 @@
         "namaDesa": "MARISA SELATAN"
       },
       "noHp": "82192798200",
-      "namaDesa": "MARISA SELATAN"
+      "namaDesa": "MARISA SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "318",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677324-muhammad-syahril-hery",
@@ -12462,7 +14814,15 @@
         "namaDesa": "MARISA SELATAN"
       },
       "noHp": "82192798200",
-      "namaDesa": "MARISA SELATAN"
+      "namaDesa": "MARISA SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "319",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500688635-naiko-tawaa",
@@ -12504,7 +14864,15 @@
         "namaDesa": "BUNTULIA JAYA"
       },
       "noHp": "81356132132",
-      "namaDesa": "BUNTULIA JAYA"
+      "namaDesa": "BUNTULIA JAYA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "320",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677044-nirmala-j-rahmola",
@@ -12546,7 +14914,15 @@
         "namaDesa": "DESA BUNUYO"
       },
       "noHp": "82336113567",
-      "namaDesa": "DESA BUNUYO"
+      "namaDesa": "DESA BUNUYO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "317",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "1300670511-okky-farid-febrianto",
@@ -12588,7 +14964,15 @@
         "namaDesa": ""
       },
       "noHp": "",
-      "namaDesa": ""
+      "namaDesa": "",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "318",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677322-sadriyo-hery",
@@ -12630,7 +15014,15 @@
         "namaDesa": "MARISA SELATAN"
       },
       "noHp": "82192798200",
-      "namaDesa": "MARISA SELATAN"
+      "namaDesa": "MARISA SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "319",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677323-siti-um-maimunah-samad-sati",
@@ -12672,7 +15064,15 @@
         "namaDesa": "MARISA SELATAN"
       },
       "noHp": "82192798200",
-      "namaDesa": "MARISA SELATAN"
+      "namaDesa": "MARISA SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "320",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500680156-suud-darson-beleneti",
@@ -12714,7 +15114,15 @@
         "namaDesa": "DESA BUNTULIA UTARA"
       },
       "noHp": "82221000075",
-      "namaDesa": "DESA BUNTULIA UTARA"
+      "namaDesa": "DESA BUNTULIA UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "320",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677976-anies-radjak-yunus",
@@ -12756,7 +15164,15 @@
         "namaDesa": "MARISA UTARA"
       },
       "noHp": "85240521654",
-      "namaDesa": "MARISA UTARA"
+      "namaDesa": "MARISA UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "323",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678030-baharuddin-aras",
@@ -12798,7 +15214,15 @@
         "namaDesa": "TERATAI"
       },
       "noHp": "82197195477",
-      "namaDesa": "TERATAI"
+      "namaDesa": "TERATAI",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "323",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677977-fadhilah-radjak-anies",
@@ -12840,7 +15264,15 @@
         "namaDesa": "MARISA UTARA"
       },
       "noHp": "82291798895",
-      "namaDesa": "MARISA UTARA"
+      "namaDesa": "MARISA UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "322",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678420-iskandar-datau-mahmud",
@@ -12882,7 +15314,15 @@
         "namaDesa": "MARISA SELATAN"
       },
       "noHp": "82310626232",
-      "namaDesa": "MARISA SELATAN"
+      "namaDesa": "MARISA SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "321",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678351-marlina-pikoli",
@@ -12924,7 +15364,15 @@
         "namaDesa": "TALUDUYUNU"
       },
       "noHp": "85298823783",
-      "namaDesa": "TALUDUYUNU"
+      "namaDesa": "TALUDUYUNU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "324",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500677952-melly-s-dunggio",
@@ -12966,7 +15414,15 @@
         "namaDesa": "PENTADU"
       },
       "noHp": "81342104544",
-      "namaDesa": "PENTADU"
+      "namaDesa": "PENTADU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "322",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678033-nursaadah-baharuddin-aras",
@@ -13008,7 +15464,15 @@
         "namaDesa": "TERATAI"
       },
       "noHp": "81244378855",
-      "namaDesa": "TERATAI"
+      "namaDesa": "TERATAI",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "324",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677986-risno-inaku",
@@ -13050,7 +15514,15 @@
         "namaDesa": "BUNTULIA JAYA"
       },
       "noHp": "85218404889",
-      "namaDesa": "BUNTULIA JAYA"
+      "namaDesa": "BUNTULIA JAYA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "321",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678501-ronny-jusuf-pakaya",
@@ -13092,7 +15564,15 @@
         "namaDesa": "MARISA UTARA"
       },
       "noHp": "85256323566",
-      "namaDesa": "MARISA UTARA"
+      "namaDesa": "MARISA UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "324",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677923-sri-wilin-dunggio",
@@ -13134,7 +15614,15 @@
         "namaDesa": "BUNTULIA"
       },
       "noHp": "85218403889",
-      "namaDesa": "BUNTULIA"
+      "namaDesa": "BUNTULIA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "322",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678234-amina-ahmad-mudi",
@@ -13176,7 +15664,15 @@
         "namaDesa": "PANCAKARSA 1"
       },
       "noHp": "82344080922",
-      "namaDesa": "PANCAKARSA 1"
+      "namaDesa": "PANCAKARSA 1",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "327",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677881-chairul-anam",
@@ -13218,7 +15714,15 @@
         "namaDesa": "MANUNGGAL KARYA"
       },
       "noHp": "85394822195",
-      "namaDesa": "MANUNGGAL KARYA"
+      "namaDesa": "MANUNGGAL KARYA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "323",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500684911-jamaludin-hamli",
@@ -13260,7 +15764,15 @@
         "namaDesa": "PANCA KARSA I"
       },
       "noHp": "81356126986",
-      "namaDesa": "PANCA KARSA I"
+      "namaDesa": "PANCA KARSA I",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "325",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678775-kodiyah-mad-ngasri",
@@ -13302,7 +15814,15 @@
         "namaDesa": "PANCA KARSA I"
       },
       "noHp": "85255521583",
-      "namaDesa": "PANCA KARSA I"
+      "namaDesa": "PANCA KARSA I",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "326",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677882-laily-munifah",
@@ -13344,7 +15864,15 @@
         "namaDesa": "MANUNGGAL KARYA"
       },
       "noHp": "81340128280",
-      "namaDesa": "MANUNGGAL KARYA"
+      "namaDesa": "MANUNGGAL KARYA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "327",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678300-makmuri-mat-suwito",
@@ -13386,7 +15914,15 @@
         "namaDesa": "PANCA KARSA 1"
       },
       "noHp": "85255521583",
-      "namaDesa": "PANCA KARSA 1"
+      "namaDesa": "PANCA KARSA 1",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "325",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678252-nova-dince-ntuiyo",
@@ -13428,7 +15964,15 @@
         "namaDesa": "DESA MARISA SELATAN"
       },
       "noHp": "82271493002",
-      "namaDesa": "DESA MARISA SELATAN"
+      "namaDesa": "DESA MARISA SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "327",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677970-sartin-usman",
@@ -13470,7 +16014,15 @@
         "namaDesa": "MAKARTI JAYA"
       },
       "noHp": "81356961317",
-      "namaDesa": "MAKARTI JAYA"
+      "namaDesa": "MAKARTI JAYA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "326",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678299-siti-aminah-komarudin",
@@ -13512,7 +16064,15 @@
         "namaDesa": "PANCA KARSA 1"
       },
       "noHp": "85255521583",
-      "namaDesa": "PANCA KARSA 1"
+      "namaDesa": "PANCA KARSA 1",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "326",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500687984-sudjadi-giran",
@@ -13554,7 +16114,15 @@
         "namaDesa": "PANCAKARSA I"
       },
       "noHp": "85395546814",
-      "namaDesa": "PANCAKARSA I"
+      "namaDesa": "PANCAKARSA I",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "325",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678430-andi-nur-hikma",
@@ -13596,7 +16164,15 @@
         "namaDesa": "DESA MOTOLOHU"
       },
       "noHp": "82293018856",
-      "namaDesa": "DESA MOTOLOHU"
+      "namaDesa": "DESA MOTOLOHU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "329",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678428-andi-tenri-ampa",
@@ -13638,7 +16214,15 @@
         "namaDesa": "MOTOLOHU"
       },
       "noHp": "85347448073",
-      "namaDesa": "MOTOLOHU"
+      "namaDesa": "MOTOLOHU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "329",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677930-badria-alamri",
@@ -13680,7 +16264,15 @@
         "namaDesa": "DESA PALOPO"
       },
       "noHp": "82290228580",
-      "namaDesa": "DESA PALOPO"
+      "namaDesa": "DESA PALOPO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "330",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678027-darmi-karwita",
@@ -13722,7 +16314,15 @@
         "namaDesa": "MOTOLOHU"
       },
       "noHp": "81340778737",
-      "namaDesa": "MOTOLOHU"
+      "namaDesa": "MOTOLOHU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "330",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678209-hamzah-juma",
@@ -13764,7 +16364,15 @@
         "namaDesa": "SIDUWONGE"
       },
       "noHp": "82193491137",
-      "namaDesa": "SIDUWONGE"
+      "namaDesa": "SIDUWONGE",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "331",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500687718-mohamad-ridwan-kidudu",
@@ -13806,7 +16414,15 @@
         "namaDesa": "DESA PALOPO KEC MARISA"
       },
       "noHp": "81340302823",
-      "namaDesa": "DESA PALOPO KEC MARISA"
+      "namaDesa": "DESA PALOPO KEC MARISA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "328",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678029-muntholib-karni",
@@ -13848,7 +16464,15 @@
         "namaDesa": "MOTOLOHU"
       },
       "noHp": "81244050869",
-      "namaDesa": "MOTOLOHU"
+      "namaDesa": "MOTOLOHU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "328",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678156-nur-yanto-sukidi",
@@ -13890,7 +16514,15 @@
         "namaDesa": "MANUNGGAL KARYA"
       },
       "noHp": "81356124411",
-      "namaDesa": "MANUNGGAL KARYA"
+      "namaDesa": "MANUNGGAL KARYA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "328",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678085-sahati-tuwo",
@@ -13932,7 +16564,15 @@
         "namaDesa": "SIDUWONGE"
       },
       "noHp": "82193491137",
-      "namaDesa": "SIDUWONGE"
+      "namaDesa": "SIDUWONGE",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "330",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678157-sunartin-suwadi-marwah",
@@ -13974,7 +16614,15 @@
         "namaDesa": "MANUNGGAL KARYA"
       },
       "noHp": "82348780869",
-      "namaDesa": "MANUNGGAL KARYA"
+      "namaDesa": "MANUNGGAL KARYA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "329",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678418-ariyanto-saud",
@@ -14016,7 +16664,15 @@
         "namaDesa": "BONGOPINI"
       },
       "noHp": "85256248624",
-      "namaDesa": "BONGOPINI"
+      "namaDesa": "BONGOPINI",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "331",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678396-asna-adam",
@@ -14058,7 +16714,15 @@
         "namaDesa": "TOTO UTARA"
       },
       "noHp": "81308130813",
-      "namaDesa": "TOTO UTARA"
+      "namaDesa": "TOTO UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "335",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "7470000704-ilhamdi-pramana-antula",
@@ -14100,7 +16764,15 @@
         "namaDesa": ""
       },
       "noHp": "",
-      "namaDesa": ""
+      "namaDesa": "",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "331",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500682051-isra-mada",
@@ -14142,7 +16814,15 @@
         "namaDesa": "DESA ALALE"
       },
       "noHp": "85255871916",
-      "namaDesa": "DESA ALALE"
+      "namaDesa": "DESA ALALE",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "332",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678230-iyam-hasan",
@@ -14184,7 +16864,15 @@
         "namaDesa": "OLUHUTA"
       },
       "noHp": "81340326027",
-      "namaDesa": "OLUHUTA"
+      "namaDesa": "OLUHUTA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "333",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500682052-maimun-kono",
@@ -14226,7 +16914,15 @@
         "namaDesa": "ALALE"
       },
       "noHp": "85256288616",
-      "namaDesa": "ALALE"
+      "namaDesa": "ALALE",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "333",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500012730-mohamad-husain",
@@ -14268,7 +16964,15 @@
         "namaDesa": "TOLUWAYA"
       },
       "noHp": "",
-      "namaDesa": "TOLUWAYA"
+      "namaDesa": "TOLUWAYA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "334",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678417-nikma-t-hasan",
@@ -14310,7 +17014,15 @@
         "namaDesa": "BONGOPINI"
       },
       "noHp": "85340994359",
-      "namaDesa": "BONGOPINI"
+      "namaDesa": "BONGOPINI",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "335",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3247350001-ridwan-badu-setiawan",
@@ -14352,7 +17064,15 @@
         "namaDesa": ""
       },
       "noHp": "",
-      "namaDesa": ""
+      "namaDesa": "",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "334",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3147350003-santo-musa-imran",
@@ -14394,7 +17114,15 @@
         "namaDesa": ""
       },
       "noHp": "",
-      "namaDesa": ""
+      "namaDesa": "",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "334",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500676676-virna-lasulika",
@@ -14436,7 +17164,15 @@
         "namaDesa": "TINELO"
       },
       "noHp": "82293418187",
-      "namaDesa": "TINELO"
+      "namaDesa": "TINELO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "333",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677795-yuliati-buhang",
@@ -14478,7 +17214,15 @@
         "namaDesa": "BANDUNGAN"
       },
       "noHp": "81342315024",
-      "namaDesa": "BANDUNGAN"
+      "namaDesa": "BANDUNGAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "335",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678177-abdurahman-husain",
@@ -14520,7 +17264,15 @@
         "namaDesa": "SUKMA"
       },
       "noHp": "81244396907",
-      "namaDesa": "SUKMA"
+      "namaDesa": "SUKMA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "332",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678291-halima-lumbato",
@@ -14562,7 +17314,15 @@
         "namaDesa": "POOWO"
       },
       "noHp": "85298858815",
-      "namaDesa": "POOWO"
+      "namaDesa": "POOWO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "337",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678294-hapisa-siru-mursali",
@@ -14604,7 +17364,15 @@
         "namaDesa": "HUNTU SELATAN"
       },
       "noHp": "85255704149",
-      "namaDesa": "HUNTU SELATAN"
+      "namaDesa": "HUNTU SELATAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "336",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677956-kivan-j-mantune",
@@ -14646,7 +17414,15 @@
         "namaDesa": "PAUWO"
       },
       "noHp": "85240040370",
-      "namaDesa": "PAUWO"
+      "namaDesa": "PAUWO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "338",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678159-maryam-saini",
@@ -14688,7 +17464,15 @@
         "namaDesa": "PAUWO"
       },
       "noHp": "0",
-      "namaDesa": "PAUWO"
+      "namaDesa": "PAUWO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "338",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "2200037842-ratna-botutihe",
@@ -14730,7 +17514,15 @@
         "namaDesa": ""
       },
       "noHp": "",
-      "namaDesa": ""
+      "namaDesa": "",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "337",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678275-ratna-harun-hasan",
@@ -14772,7 +17564,15 @@
         "namaDesa": "POOWO BARAT"
       },
       "noHp": "82293295496",
-      "namaDesa": "POOWO BARAT"
+      "namaDesa": "POOWO BARAT",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "337",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678319-suriati-patuti",
@@ -14814,7 +17614,15 @@
         "namaDesa": "BONGOIME"
       },
       "noHp": "85240691377",
-      "namaDesa": "BONGOIME"
+      "namaDesa": "BONGOIME",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "336",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500683664-verawaty-wahyunangsi-ahmad",
@@ -14856,7 +17664,15 @@
         "namaDesa": "TAMBOO"
       },
       "noHp": "82290247221",
-      "namaDesa": "TAMBOO"
+      "namaDesa": "TAMBOO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "336",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500681311-yan-tawaba",
@@ -14898,7 +17714,15 @@
         "namaDesa": "POOWO"
       },
       "noHp": "82347963623",
-      "namaDesa": "POOWO"
+      "namaDesa": "POOWO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "332",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678304-abd-karim-paulutu",
@@ -14940,7 +17764,15 @@
         "namaDesa": "PERMATA"
       },
       "noHp": "85240125144",
-      "namaDesa": "PERMATA"
+      "namaDesa": "PERMATA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "339",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678525-asni-ibrahim-djafar",
@@ -14982,7 +17814,15 @@
         "namaDesa": "SEJAHTERA"
       },
       "noHp": "85394069672",
-      "namaDesa": "SEJAHTERA"
+      "namaDesa": "SEJAHTERA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "338",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678153-frenky-noe-kamlan",
@@ -15024,7 +17864,15 @@
         "namaDesa": "PAGUYAMAN"
       },
       "noHp": "85256209222",
-      "namaDesa": "PAGUYAMAN"
+      "namaDesa": "PAGUYAMAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "101",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500686845-marni-markawelo-syukur",
@@ -15066,7 +17914,15 @@
         "namaDesa": "tanggilingo"
       },
       "noHp": "85397915480",
-      "namaDesa": "tanggilingo"
+      "namaDesa": "tanggilingo",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "102",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500686065-nuralim-pasisingi",
@@ -15108,7 +17964,15 @@
         "namaDesa": "TUMBIHE"
       },
       "noHp": "85280848083",
-      "namaDesa": "TUMBIHE"
+      "namaDesa": "TUMBIHE",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "340",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500679285-ramli-abdurrahman",
@@ -15150,7 +18014,15 @@
         "namaDesa": "BONGOHULAWA"
       },
       "noHp": "81356808322",
-      "namaDesa": "BONGOHULAWA"
+      "namaDesa": "BONGOHULAWA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "339",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678974-ratna-hulukati",
@@ -15192,7 +18064,15 @@
         "namaDesa": "TUMBIHE"
       },
       "noHp": "85280848083",
-      "namaDesa": "TUMBIHE"
+      "namaDesa": "TUMBIHE",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "340",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678524-ridwan-ali",
@@ -15234,7 +18114,15 @@
         "namaDesa": "SEJAHTERA"
       },
       "noHp": "89526357450",
-      "namaDesa": "SEJAHTERA"
+      "namaDesa": "SEJAHTERA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "339",
+        "posisiBed": "3"
+      }
     },
     {
       "id": "3500678152-sriyanti-padiku",
@@ -15276,7 +18164,15 @@
         "namaDesa": "PAGUYAMAN"
       },
       "noHp": "85298238727",
-      "namaDesa": "PAGUYAMAN"
+      "namaDesa": "PAGUYAMAN",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "102",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677783-wirda-mustapa",
@@ -15318,7 +18214,15 @@
         "namaDesa": "BONGOHULAWA"
       },
       "noHp": "81356681682",
-      "namaDesa": "BONGOHULAWA"
+      "namaDesa": "BONGOHULAWA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "3",
+        "nomorKamar": "340",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678357-ardjuna-naue-djafar",
@@ -15360,7 +18264,15 @@
         "namaDesa": "LAMAHU"
       },
       "noHp": "82188166814",
-      "namaDesa": "LAMAHU"
+      "namaDesa": "LAMAHU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "107",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678218-dafid-buyu",
@@ -15402,7 +18314,15 @@
         "namaDesa": "HELUMO"
       },
       "noHp": "81356412321",
-      "namaDesa": "HELUMO"
+      "namaDesa": "HELUMO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "103",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677726-fitriana-pakaya",
@@ -15444,7 +18364,15 @@
         "namaDesa": "ALALE"
       },
       "noHp": "82292483030",
-      "namaDesa": "ALALE"
+      "namaDesa": "ALALE",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "104",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678101-hansarina-hunowu",
@@ -15486,7 +18414,15 @@
         "namaDesa": "AYULA TIMUR"
       },
       "noHp": "82312214773",
-      "namaDesa": "AYULA TIMUR"
+      "namaDesa": "AYULA TIMUR",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "106",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "2100043333-iyam-hunowu",
@@ -15528,7 +18464,15 @@
         "namaDesa": ""
       },
       "noHp": "",
-      "namaDesa": ""
+      "namaDesa": "",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "105",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677073-marine-baku",
@@ -15570,7 +18514,15 @@
         "namaDesa": "TALULOBUTU"
       },
       "noHp": "82395952195",
-      "namaDesa": "TALULOBUTU"
+      "namaDesa": "TALULOBUTU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "106",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677963-munawir-mato-amarudin",
@@ -15612,7 +18564,15 @@
         "namaDesa": "TOLUWAYA"
       },
       "noHp": "82393608060",
-      "namaDesa": "TOLUWAYA"
+      "namaDesa": "TOLUWAYA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "101",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677991-nirmala-a-onge",
@@ -15654,7 +18614,15 @@
         "namaDesa": "TOTO UTARA"
       },
       "noHp": "85240076922",
-      "namaDesa": "TOTO UTARA"
+      "namaDesa": "TOTO UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "105",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678102-samin-botutihe",
@@ -15696,7 +18664,15 @@
         "namaDesa": "AYULA TIMUR"
       },
       "noHp": "85256520883",
-      "namaDesa": "AYULA TIMUR"
+      "namaDesa": "AYULA TIMUR",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "103",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677962-sartin-doda-yusuf",
@@ -15738,7 +18714,15 @@
         "namaDesa": "TOLUWAYA"
       },
       "noHp": "85256611728",
-      "namaDesa": "TOLUWAYA"
+      "namaDesa": "TOLUWAYA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "104",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677407-arfan-hioda",
@@ -15780,7 +18764,15 @@
         "namaDesa": "BONGOIME"
       },
       "noHp": "81340755036",
-      "namaDesa": "BONGOIME"
+      "namaDesa": "BONGOIME",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "110",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500017185-erni-haluti-alwin",
@@ -15822,7 +18814,15 @@
         "namaDesa": "OLUHUTA"
       },
       "noHp": "",
-      "namaDesa": "OLUHUTA"
+      "namaDesa": "OLUHUTA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "112",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678312-haryani-biga",
@@ -15864,7 +18864,15 @@
         "namaDesa": "TALANGO"
       },
       "noHp": "82187364083",
-      "namaDesa": "TALANGO"
+      "namaDesa": "TALANGO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "111",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677408-irna-kadir",
@@ -15906,7 +18914,15 @@
         "namaDesa": "BONGOIME"
       },
       "noHp": "85240483737",
-      "namaDesa": "BONGOIME"
+      "namaDesa": "BONGOIME",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "110",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678206-ismail-uluo",
@@ -15948,7 +18964,15 @@
         "namaDesa": "TINGKOHUBU"
       },
       "noHp": "81244423335",
-      "namaDesa": "TINGKOHUBU"
+      "namaDesa": "TINGKOHUBU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "109",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678205-lisnawaty-uluo",
@@ -15990,7 +19014,15 @@
         "namaDesa": "TINGKOHUBU"
       },
       "noHp": "81244423335",
-      "namaDesa": "TINGKOHUBU"
+      "namaDesa": "TINGKOHUBU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "107",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678204-mohamad-nursalman-puluhulawa",
@@ -16032,7 +19064,15 @@
         "namaDesa": "TINGKOHUBU"
       },
       "noHp": "81244423334",
-      "namaDesa": "TINGKOHUBU"
+      "namaDesa": "TINGKOHUBU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "109",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677781-rahim-abd-gani",
@@ -16074,7 +19114,15 @@
         "namaDesa": "AYULA UTARA"
       },
       "noHp": "81245428069",
-      "namaDesa": "AYULA UTARA"
+      "namaDesa": "AYULA UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "108",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678313-siti-nur-chairiyah-ruchban",
@@ -16116,7 +19164,15 @@
         "namaDesa": "DESA TALANGO"
       },
       "noHp": "82290692526",
-      "namaDesa": "DESA TALANGO"
+      "namaDesa": "DESA TALANGO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "112",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677796-sri-wahyuni-pakaja",
@@ -16158,7 +19214,15 @@
         "namaDesa": "ULANTA"
       },
       "noHp": "85397316956",
-      "namaDesa": "ULANTA"
+      "namaDesa": "ULANTA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "111",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500675984-wani-yunus-tuki",
@@ -16200,7 +19264,15 @@
         "namaDesa": "MOTILANGO"
       },
       "noHp": "0",
-      "namaDesa": "MOTILANGO"
+      "namaDesa": "MOTILANGO",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "108",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677979-cindra-mokodompit",
@@ -16242,7 +19314,15 @@
         "namaDesa": "TILANGOBULA"
       },
       "noHp": "82243915854",
-      "namaDesa": "TILANGOBULA"
+      "namaDesa": "TILANGOBULA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "2",
+        "nomorKamar": "204",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678534-frid-ashari",
@@ -16284,7 +19364,15 @@
         "namaDesa": "HUNTU UTARA"
       },
       "noHp": "85241572000",
-      "namaDesa": "HUNTU UTARA"
+      "namaDesa": "HUNTU UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "2",
+        "nomorKamar": "201",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500677761-ikhsan-ibrahim",
@@ -16326,7 +19414,15 @@
         "namaDesa": "LUWOHU"
       },
       "noHp": "85211989001",
-      "namaDesa": "LUWOHU"
+      "namaDesa": "LUWOHU",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "2",
+        "nomorKamar": "201",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678387-maryam-hiola",
@@ -16368,7 +19464,15 @@
         "namaDesa": "SEJAHTERA"
       },
       "noHp": "82395338821",
-      "namaDesa": "SEJAHTERA"
+      "namaDesa": "SEJAHTERA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "2",
+        "nomorKamar": "205",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500677981-maswati-daud",
@@ -16410,7 +19514,15 @@
         "namaDesa": "TILANGOBULA"
       },
       "noHp": "85399950611",
-      "namaDesa": "TILANGOBULA"
+      "namaDesa": "TILANGOBULA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "2",
+        "nomorKamar": "203",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678446-riko-abdulah-mahanggi",
@@ -16452,7 +19564,15 @@
         "namaDesa": "TUMBA"
       },
       "noHp": "82394192867",
-      "namaDesa": "TUMBA"
+      "namaDesa": "TUMBA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "2",
+        "nomorKamar": "205",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678226-rosfin-ngabito",
@@ -16494,7 +19614,15 @@
         "namaDesa": "AYULA TIMUR"
       },
       "noHp": "85341993201",
-      "namaDesa": "AYULA TIMUR"
+      "namaDesa": "AYULA TIMUR",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "2",
+        "nomorKamar": "204",
+        "posisiBed": "2"
+      }
     },
     {
       "id": "3500678533-srinastity-daud",
@@ -16536,7 +19664,15 @@
         "namaDesa": "HUNTU UTARA"
       },
       "noHp": "85255072122",
-      "namaDesa": "HUNTU UTARA"
+      "namaDesa": "HUNTU UTARA",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "2",
+        "nomorKamar": "203",
+        "posisiBed": "1"
+      }
     },
     {
       "id": "3500678084-zakaria-akuba",
@@ -16578,7 +19714,15 @@
         "namaDesa": "BUBE"
       },
       "noHp": "0",
-      "namaDesa": "BUBE"
+      "namaDesa": "BUBE",
+      "accommodation": {
+        "source": "Alokasi kamar final Kloter 28",
+        "locationType": "Asrama Haji",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "2",
+        "nomorKamar": "202",
+        "posisiBed": "1"
+      }
     }
   ]
 }

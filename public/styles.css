@@ -13,6 +13,91 @@
   --radius-xl: 28px;
   --radius-lg: 22px;
   --radius-md: 16px;
+  --rombongan-bg: var(--accent);
+  --rombongan-fg: #ffffff;
+  --rombongan-accent: var(--accent);
+  --rombongan-soft: rgba(138, 90, 56, 0.12);
+  --rombongan-border: rgba(138, 90, 56, 0.3);
+}
+
+.rombongan-color--1 {
+  --rombongan-bg: #da322c;
+  --rombongan-fg: #ffffff;
+  --rombongan-accent: #da322c;
+  --rombongan-soft: rgba(218, 50, 44, 0.12);
+  --rombongan-border: rgba(218, 50, 44, 0.35);
+}
+
+.rombongan-color--2 {
+  --rombongan-bg: #f5c626;
+  --rombongan-fg: #352117;
+  --rombongan-accent: #a16207;
+  --rombongan-soft: rgba(245, 198, 38, 0.18);
+  --rombongan-border: rgba(196, 146, 18, 0.38);
+}
+
+.rombongan-color--3 {
+  --rombongan-bg: #1f6fd8;
+  --rombongan-fg: #ffffff;
+  --rombongan-accent: #1f6fd8;
+  --rombongan-soft: rgba(31, 111, 216, 0.12);
+  --rombongan-border: rgba(31, 111, 216, 0.35);
+}
+
+.rombongan-color--4 {
+  --rombongan-bg: #784c36;
+  --rombongan-fg: #ffffff;
+  --rombongan-accent: #784c36;
+  --rombongan-soft: rgba(120, 76, 54, 0.14);
+  --rombongan-border: rgba(120, 76, 54, 0.36);
+}
+
+.rombongan-color--5 {
+  --rombongan-bg: #2c974b;
+  --rombongan-fg: #ffffff;
+  --rombongan-accent: #2c974b;
+  --rombongan-soft: rgba(44, 151, 75, 0.13);
+  --rombongan-border: rgba(44, 151, 75, 0.34);
+}
+
+.rombongan-color--6 {
+  --rombongan-bg: #ffffff;
+  --rombongan-fg: #352117;
+  --rombongan-accent: #4b5563;
+  --rombongan-soft: rgba(255, 255, 255, 0.88);
+  --rombongan-border: rgba(97, 97, 97, 0.34);
+}
+
+.rombongan-color--7 {
+  --rombongan-bg: #eb7e22;
+  --rombongan-fg: #352117;
+  --rombongan-accent: #c2410c;
+  --rombongan-soft: rgba(235, 126, 34, 0.15);
+  --rombongan-border: rgba(235, 126, 34, 0.38);
+}
+
+.rombongan-color--8 {
+  --rombongan-bg: #7e42b0;
+  --rombongan-fg: #ffffff;
+  --rombongan-accent: #7e42b0;
+  --rombongan-soft: rgba(126, 66, 176, 0.13);
+  --rombongan-border: rgba(126, 66, 176, 0.34);
+}
+
+.rombongan-color--9 {
+  --rombongan-bg: #141414;
+  --rombongan-fg: #ffffff;
+  --rombongan-accent: #141414;
+  --rombongan-soft: rgba(20, 20, 20, 0.1);
+  --rombongan-border: rgba(20, 20, 20, 0.34);
+}
+
+.rombongan-color--10 {
+  --rombongan-bg: #e24e89;
+  --rombongan-fg: #ffffff;
+  --rombongan-accent: #e24e89;
+  --rombongan-soft: rgba(226, 78, 137, 0.13);
+  --rombongan-border: rgba(226, 78, 137, 0.34);
 }
 
 * {
@@ -458,9 +543,10 @@ body::before {
   gap: 10px;
   width: 100%;
   padding: 14px 16px;
-  border: 1px solid rgba(138, 90, 56, 0.12);
+  border: 1px solid var(--rombongan-border);
   border-radius: 18px;
   background: rgba(255, 255, 255, 0.9);
+  box-shadow: inset 5px 0 0 var(--rombongan-bg);
   color: inherit;
   text-align: left;
   cursor: pointer;
@@ -580,6 +666,7 @@ body::before {
   border: 1px solid rgba(138, 90, 56, 0.12);
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.92), rgba(248, 240, 232, 0.74));
   cursor: pointer;
+  box-shadow: inset 5px 0 0 var(--rombongan-bg);
   transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
 }
 
@@ -623,6 +710,12 @@ body::before {
   color: var(--accent-deep);
   font-size: 0.82rem;
   font-weight: 600;
+}
+
+.chip--rombongan {
+  border: 1px solid var(--rombongan-border);
+  background: var(--rombongan-bg);
+  color: var(--rombongan-fg);
 }
 
 .person-card__meta {
@@ -702,8 +795,8 @@ body::before {
   margin-top: 14px;
   padding: 12px 13px;
   border-radius: 16px;
-  border: 1px solid rgba(138, 90, 56, 0.1);
-  background: rgba(138, 90, 56, 0.06);
+  border: 1px solid var(--rombongan-border);
+  background: var(--rombongan-soft);
 }
 
 .person-card__placement-label {
@@ -793,7 +886,7 @@ body::before {
 
 .detail__kloter {
   margin: 0 0 6px;
-  color: var(--accent);
+  color: var(--rombongan-accent);
   font-weight: 700;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -807,8 +900,8 @@ body::before {
 
 .asset-button {
   padding: 12px 16px;
-  background: linear-gradient(135deg, var(--accent-deep), var(--accent));
-  color: #fff;
+  background: var(--rombongan-bg);
+  color: var(--rombongan-fg);
   box-shadow: 0 14px 28px rgba(94, 53, 31, 0.22);
 }
 
@@ -876,6 +969,97 @@ body::before {
   border-radius: 24px;
   border: 1px solid rgba(138, 90, 56, 0.12);
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.92), rgba(251, 245, 239, 0.9));
+}
+
+.accommodation-section {
+  display: grid;
+  gap: 14px;
+  padding: 20px;
+  border-radius: 24px;
+  border: 1px solid var(--rombongan-border);
+  background: linear-gradient(180deg, var(--rombongan-soft), rgba(255, 255, 255, 0.92));
+}
+
+.accommodation-section__header {
+  display: grid;
+  gap: 6px;
+}
+
+.accommodation-section__eyebrow {
+  margin: 0;
+  color: var(--rombongan-accent);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.accommodation-section__header h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  line-height: 1.15;
+}
+
+.accommodation-card {
+  display: grid;
+  gap: 14px;
+}
+
+.accommodation-card__hotel {
+  padding: 18px;
+  border-radius: 20px;
+  border: 1px solid var(--rombongan-border);
+  background: rgba(255, 255, 255, 0.94);
+}
+
+.accommodation-card__hotel span,
+.accommodation-fact span,
+.accommodation-card__source {
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.accommodation-card__hotel span,
+.accommodation-fact span {
+  display: block;
+  margin-bottom: 7px;
+}
+
+.accommodation-card__hotel strong {
+  display: block;
+  color: var(--text);
+  font-size: clamp(1.3rem, 2vw, 1.85rem);
+  line-height: 1.15;
+}
+
+.accommodation-card__facts {
+  display: grid;
+  grid-template-columns: 1.35fr repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.accommodation-fact {
+  padding: 16px;
+  border-radius: 18px;
+  border: 1px solid var(--rombongan-border);
+  background: rgba(255, 255, 255, 0.88);
+}
+
+.accommodation-fact strong {
+  display: block;
+  color: var(--rombongan-accent);
+  font-size: 1.2rem;
+  line-height: 1.2;
+}
+
+.accommodation-fact strong {
+  font-size: clamp(1.9rem, 4vw, 3.25rem);
+  letter-spacing: 0;
+}
+
+.accommodation-card__source {
+  margin: 0;
+  line-height: 1.5;
 }
 
 .placement-section__header {
@@ -1538,9 +1722,28 @@ body::before {
     border-radius: 16px;
   }
 
+  .accommodation-section,
   .placement-section {
     padding: 16px;
     border-radius: 20px;
+  }
+
+  .accommodation-card__facts {
+    grid-template-columns: 1fr;
+  }
+
+  .accommodation-card__hotel,
+  .accommodation-fact {
+    padding: 14px;
+    border-radius: 16px;
+  }
+
+  .accommodation-card__hotel strong {
+    font-size: 1.2rem;
+  }
+
+  .accommodation-fact strong {
+    font-size: 2.2rem;
   }
 
   .placement-section__source {

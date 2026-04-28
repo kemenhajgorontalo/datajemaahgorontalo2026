@@ -69,6 +69,8 @@ const elements = {
   placementSource: document.getElementById("placement-source"),
   placementGrid: document.getElementById("placement-grid"),
   placementNote: document.getElementById("placement-note"),
+  accommodationSection: document.getElementById("accommodation-section"),
+  accommodationCard: document.getElementById("accommodation-card"),
   fieldGrid: document.getElementById("field-grid"),
 };
 
@@ -84,8 +86,8 @@ const filterControls = [
 
 const mobileSearchGate = window.matchMedia("(max-width: 760px)");
 const KLOTER_DATA_PATHS = {
-  "28": "./data/kloter-28.json",
-  "30": "./data/kloter-30.json",
+  "28": "./data/kloter-28.json?v=hp-desa-1",
+  "30": "./data/kloter-30.json?v=hp-desa-1",
 };
 
 function setControlsDisabled(disabled) {
@@ -204,6 +206,11 @@ function renderSelect(select, values, current, allLabel) {
 
 function normalize(text) {
   return String(text || "").toLowerCase();
+}
+
+function getRombonganColorClass(value) {
+  const rombongan = String(value || "").trim();
+  return /^[1-9]$|^10$/.test(rombongan) ? `rombongan-color--${rombongan}` : "";
 }
 
 function formatPhoneNumber(value) {
@@ -449,9 +456,10 @@ function renderQuickSearch() {
   elements.quickSearchCount.textContent = `${quickResults.length} teratas`;
 
   quickResults.forEach((person) => {
+    const colorClass = getRombonganColorClass(person.rombongan);
     const button = document.createElement("button");
     button.type = "button";
-    button.className = "quick-search__item";
+    button.className = `quick-search__item ${colorClass}`.trim();
     button.innerHTML = `
       <div class="quick-search__item-top">
         <div>
@@ -461,7 +469,7 @@ function renderQuickSearch() {
         <span class="chip">${person.kloterLabel}</span>
       </div>
       <div class="quick-search__meta">
-        <span class="chip">Rombongan ${person.rombongan}</span>
+        <span class="chip chip--rombongan">Rombongan ${person.rombongan}</span>
         <span class="chip">Regu ${person.reguKloter}</span>
         <span class="chip">${person.statusJemaah || "Status belum ada"}</span>
         <span class="chip">${person.kabKota || "-"}</span>
@@ -525,8 +533,9 @@ function renderList() {
   state.filtered.forEach((person) => {
     const placementSummary = buildPersonPlacementSummary(person);
     const officerContacts = getOfficerContactsForKloter(person.kloterCode);
+    const colorClass = getRombonganColorClass(person.rombongan);
     const card = document.createElement("article");
-    card.className = "person-card";
+    card.className = `person-card ${colorClass}`.trim();
     card.tabIndex = 0;
     card.innerHTML = `
       <div class="person-card__top">
@@ -537,7 +546,7 @@ function renderList() {
         <div class="chip">${person.kloterLabel}</div>
       </div>
       <div class="person-card__chips">
-        <span class="chip">Rombongan ${person.rombongan}</span>
+        <span class="chip chip--rombongan">Rombongan ${person.rombongan}</span>
         <span class="chip">Regu ${person.reguKloter}</span>
         <span class="chip">${person.statusJemaah || "Status belum ada"}</span>
       </div>
@@ -666,6 +675,38 @@ function getPlacementForPerson(person) {
   return state.placementGuide?.kloters?.find((item) => item.code === person.kloterCode) || null;
 }
 
+function renderAccommodation(person) {
+  const accommodation = person.accommodation;
+  if (!accommodation) {
+    elements.accommodationSection.classList.add("hidden");
+    elements.accommodationCard.innerHTML = "";
+    return;
+  }
+
+  elements.accommodationSection.classList.remove("hidden");
+  elements.accommodationCard.innerHTML = `
+    <div class="accommodation-card__hotel">
+      <span>Nama Hotel</span>
+      <strong>${accommodation.namaHotel || "-"}</strong>
+    </div>
+    <div class="accommodation-card__facts">
+      <div class="accommodation-fact accommodation-fact--room">
+        <span>Nomor Kamar</span>
+        <strong>${accommodation.nomorKamar || "-"}</strong>
+      </div>
+      <div class="accommodation-fact">
+        <span>Lantai</span>
+        <strong>${accommodation.lantai || "-"}</strong>
+      </div>
+      <div class="accommodation-fact">
+        <span>Tempat Tidur</span>
+        <strong>Bed ${accommodation.posisiBed || "-"}</strong>
+      </div>
+    </div>
+    <p class="accommodation-card__source">${accommodation.source || "Data alokasi kamar final"}</p>
+  `;
+}
+
 function renderPlacement(person) {
   const placement = getPlacementForPerson(person);
   if (!placement) {
@@ -786,22 +827,23 @@ function renderDetail() {
   }
 
   elements.detailContent.classList.remove("hidden");
+  elements.detailContent.className = `detail ${getRombonganColorClass(person.rombongan)}`.trim();
 
   elements.detailKloter.textContent = `${person.kloterLabel} • Nomor Porsi ${person.noPorsi}`;
   elements.detailName.textContent = person.nama;
   elements.detailChips.innerHTML = "";
   elements.detailOfficerContacts.innerHTML = "";
   [
-    `Rombongan ${person.rombongan}`,
-    `Regu ${person.reguKloter}`,
-    person.statusJemaah,
-    person.kabKota,
+    { text: `Rombongan ${person.rombongan}`, className: "chip chip--rombongan" },
+    { text: `Regu ${person.reguKloter}`, className: "chip" },
+    { text: person.statusJemaah, className: "chip" },
+    { text: person.kabKota, className: "chip" },
   ]
-    .filter(Boolean)
-    .forEach((text) => {
+    .filter((item) => item.text)
+    .forEach((item) => {
       const chip = document.createElement("span");
-      chip.className = "chip";
-      chip.textContent = text;
+      chip.className = item.className;
+      chip.textContent = item.text;
       elements.detailChips.appendChild(chip);
     });
 
@@ -834,8 +876,6 @@ function renderDetail() {
     elements.profileHighlights.appendChild(card);
   });
 
-  renderPlacement(person);
-
   elements.fieldGrid.innerHTML = "";
   const tableWrap = document.createElement("div");
   tableWrap.className = "detail-table";
@@ -865,6 +905,9 @@ function renderDetail() {
   table.appendChild(tbody);
   tableWrap.appendChild(table);
   elements.fieldGrid.appendChild(tableWrap);
+
+  renderAccommodation(person);
+  renderPlacement(person);
 }
 
 async function updateFromInputs() {

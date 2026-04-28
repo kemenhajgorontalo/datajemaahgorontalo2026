@@ -19,6 +19,14 @@ ASSETS_DIR = PUBLIC_DIR / "assets"
 SOURCE_ROOT = Path("/content/drive/MyDrive/misc/codex")
 ENRICHMENT_CSV = PROJECT_ROOT / "totalpelunasan - Sheet1.csv"
 OFFICER_CONTACTS_CSV = SOURCE_ROOT / "KONTAK PETUGAS - Sheet1.csv"
+ACCOMMODATION_CSV_BY_KLOTER = {
+    "28": Path(
+        "/content/drive/MyDrive/misc/akomodasi/FINAL_KLOTER_28/01_alokasi_final/alokasi_kamar_kloter_28_revisi_usulgabung.csv"
+    ),
+    "30": Path(
+        "/content/drive/MyDrive/misc/akomodasi/FINAL_KLOTER_30/01_alokasi_final/alokasi_kamar_kloter_30_revisi_usulgabung.csv"
+    ),
+}
 
 
 @dataclass(frozen=True)
@@ -155,6 +163,30 @@ def load_officer_contacts(path: Path) -> dict[str, list[dict[str, str]]]:
     return contacts
 
 
+def load_accommodation_data(path: Path | None, kloter_code: str) -> dict[str, dict[str, str]]:
+    if path is None or not path.exists():
+        return {}
+
+    accommodation: dict[str, dict[str, str]] = {}
+    with path.open(newline="", encoding="utf-8-sig") as handle:
+        reader = csv.DictReader(handle)
+        for row in reader:
+            nomor_porsi = clean(row.get("Nomor Porsi"))
+            if not nomor_porsi:
+                continue
+
+            accommodation[nomor_porsi] = {
+                "source": f"Alokasi kamar final Kloter {kloter_code}",
+                "locationType": "Asrama Haji",
+                "namaHotel": clean(row.get("Nama Hotel")),
+                "lantai": clean(row.get("Lantai")),
+                "nomorKamar": clean(row.get("Nomor Kamar")),
+                "posisiBed": clean(row.get("Posisi Bed")),
+            }
+
+    return accommodation
+
+
 def build_file_index(root: Path, pattern: str) -> dict[str, Path]:
     index: dict[str, Path] = {}
     for path in root.rglob(pattern):
@@ -202,6 +234,7 @@ def build_person_record(
     kartu_index: dict[str, Path],
     foto_index: dict[str, Path],
     enrichment_data: dict[str, dict[str, str]],
+    accommodation_data: dict[str, dict[str, str]],
 ) -> dict[str, object]:
     nomor_porsi = clean(row.get("No. Porsi"))
     nama = clean(row.get("Nama"))
@@ -233,7 +266,7 @@ def build_person_record(
     fields["noHp"] = no_hp
     fields["namaDesa"] = nama_desa
 
-    return {
+    person = {
         "id": slug,
         "slug": slug,
         "kloterCode": kloter.code,
@@ -257,6 +290,10 @@ def build_person_record(
         },
         "fields": fields,
     }
+    if nomor_porsi in accommodation_data:
+        person["accommodation"] = accommodation_data[nomor_porsi]
+
+    return person
 
 
 def sort_people(items: list[dict[str, object]]) -> list[dict[str, object]]:
@@ -305,6 +342,7 @@ def generate() -> None:
         visa_index = build_file_index(kloter.visa_dir, "*.pdf")
         kartu_index = build_file_index(kloter.kartu_dir, "*.pdf")
         foto_index = build_file_index(kloter.foto_dir, "*.jpg")
+        accommodation_data = load_accommodation_data(ACCOMMODATION_CSV_BY_KLOTER.get(kloter.code), kloter.code)
 
         people: list[dict[str, object]] = []
         expected_slugs: set[str] = set()
@@ -322,6 +360,7 @@ def generate() -> None:
                     kartu_index=kartu_index,
                     foto_index=foto_index,
                     enrichment_data=enrichment_data,
+                    accommodation_data=accommodation_data,
                 )
                 people.append(person)
                 expected_slugs.add(str(person["slug"]))
