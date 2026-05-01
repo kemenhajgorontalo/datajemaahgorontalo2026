@@ -3670,8 +3670,8 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel El Madina",
         "lantai": "1",
-        "nomorKamar": "125",
-        "posisiBed": "1"
+        "nomorKamar": "123",
+        "posisiBed": "2"
       }
     },
     {
@@ -3720,8 +3720,8 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel El Madina",
         "lantai": "1",
-        "nomorKamar": "123",
-        "posisiBed": "2"
+        "nomorKamar": "125",
+        "posisiBed": "1"
       }
     },
     {
@@ -4518,10 +4518,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
+        "namaHotel": "Hotel Jabal Uhud",
         "lantai": "1",
-        "nomorKamar": "131",
-        "posisiBed": "1"
+        "nomorKamar": "104",
+        "posisiBed": "2"
       }
     },
     {
@@ -4618,9 +4618,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "1",
-        "nomorKamar": "130",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "2",
+        "nomorKamar": "205",
         "posisiBed": "1"
       }
     },
@@ -4768,10 +4768,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
+        "namaHotel": "Hotel Jabal Uhud",
         "lantai": "1",
-        "nomorKamar": "131",
-        "posisiBed": "2"
+        "nomorKamar": "104",
+        "posisiBed": "1"
       }
     },
     {
@@ -5168,10 +5168,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
+        "namaHotel": "Hotel Jabal Uhud",
         "lantai": "1",
-        "nomorKamar": "131",
-        "posisiBed": "3"
+        "nomorKamar": "105",
+        "posisiBed": "1"
       }
     },
     {
@@ -5420,7 +5420,7 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel El Madina",
         "lantai": "1",
-        "nomorKamar": "138",
+        "nomorKamar": "136",
         "posisiBed": "3"
       }
     },
@@ -5518,10 +5518,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
+        "namaHotel": "Hotel Jabal Uhud",
         "lantai": "1",
-        "nomorKamar": "137",
-        "posisiBed": "3"
+        "nomorKamar": "106",
+        "posisiBed": "2"
       }
     },
     {
@@ -5568,9 +5568,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
+        "namaHotel": "Hotel Jabal Uhud",
         "lantai": "1",
-        "nomorKamar": "137",
+        "nomorKamar": "106",
         "posisiBed": "1"
       }
     },
@@ -5618,9 +5618,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
+        "namaHotel": "Hotel Jabal Uhud",
         "lantai": "1",
-        "nomorKamar": "137",
+        "nomorKamar": "105",
         "posisiBed": "2"
       }
     },
@@ -5670,7 +5670,7 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel El Madina",
         "lantai": "1",
-        "nomorKamar": "136",
+        "nomorKamar": "138",
         "posisiBed": "3"
       }
     },
@@ -5918,10 +5918,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
+        "namaHotel": "Hotel Jabal Uhud",
         "lantai": "1",
-        "nomorKamar": "140",
-        "posisiBed": "3"
+        "nomorKamar": "108",
+        "posisiBed": "1"
       }
     },
     {
@@ -6068,9 +6068,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
+        "namaHotel": "Hotel Jabal Uhud",
         "lantai": "1",
-        "nomorKamar": "140",
+        "nomorKamar": "107",
         "posisiBed": "2"
       }
     },
@@ -6268,9 +6268,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
+        "namaHotel": "Hotel Jabal Uhud",
         "lantai": "1",
-        "nomorKamar": "140",
+        "nomorKamar": "107",
         "posisiBed": "1"
       }
     },
@@ -7068,10 +7068,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "2",
-        "nomorKamar": "208",
-        "posisiBed": "1"
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "108",
+        "posisiBed": "2"
       }
     },
     {
@@ -7468,9 +7468,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "2",
-        "nomorKamar": "212",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "110",
         "posisiBed": "1"
       }
     },
@@ -7718,9 +7718,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "2",
-        "nomorKamar": "212",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "110",
         "posisiBed": "2"
       }
     },
@@ -7818,10 +7818,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "2",
-        "nomorKamar": "208",
-        "posisiBed": "3"
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "109",
+        "posisiBed": "2"
       }
     },
     {
@@ -7868,10 +7868,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "2",
-        "nomorKamar": "208",
-        "posisiBed": "2"
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "109",
+        "posisiBed": "1"
       }
     },
     {
@@ -8168,10 +8168,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "2",
-        "nomorKamar": "214",
-        "posisiBed": "1"
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "111",
+        "posisiBed": "2"
       }
     },
     {
@@ -8218,10 +8218,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "2",
-        "nomorKamar": "212",
-        "posisiBed": "3"
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "111",
+        "posisiBed": "1"
       }
     },
     {
@@ -8268,9 +8268,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "2",
-        "nomorKamar": "214",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "112",
         "posisiBed": "2"
       }
     },
@@ -8418,10 +8418,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "2",
-        "nomorKamar": "214",
-        "posisiBed": "3"
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "112",
+        "posisiBed": "1"
       }
     },
     {
@@ -8720,8 +8720,8 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel El Madina",
         "lantai": "2",
-        "nomorKamar": "217",
-        "posisiBed": "1"
+        "nomorKamar": "218",
+        "posisiBed": "2"
       }
     },
     {
@@ -9370,8 +9370,8 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel El Madina",
         "lantai": "2",
-        "nomorKamar": "218",
-        "posisiBed": "2"
+        "nomorKamar": "217",
+        "posisiBed": "1"
       }
     },
     {
@@ -9718,10 +9718,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "2",
-        "nomorKamar": "224",
-        "posisiBed": "2"
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "113",
+        "posisiBed": "1"
       }
     },
     {
@@ -9768,10 +9768,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "2",
-        "nomorKamar": "224",
-        "posisiBed": "1"
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "113",
+        "posisiBed": "2"
       }
     },
     {
@@ -10168,10 +10168,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "2",
-        "nomorKamar": "224",
-        "posisiBed": "3"
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "114",
+        "posisiBed": "1"
       }
     },
     {
@@ -11369,8 +11369,8 @@
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel El Madina",
-        "lantai": "2",
-        "nomorKamar": "235",
+        "lantai": "3",
+        "nomorKamar": "321",
         "posisiBed": "2"
       }
     },
@@ -11418,10 +11418,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "2",
-        "nomorKamar": "236",
-        "posisiBed": "1"
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "114",
+        "posisiBed": "2"
       }
     },
     {
@@ -11568,10 +11568,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "2",
-        "nomorKamar": "236",
-        "posisiBed": "3"
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "115",
+        "posisiBed": "2"
       }
     },
     {
@@ -11818,10 +11818,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "2",
-        "nomorKamar": "236",
-        "posisiBed": "2"
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "1",
+        "nomorKamar": "115",
+        "posisiBed": "1"
       }
     },
     {
@@ -12418,9 +12418,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "3",
-        "nomorKamar": "302",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "2",
+        "nomorKamar": "201",
         "posisiBed": "1"
       }
     },
@@ -12918,9 +12918,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "3",
-        "nomorKamar": "302",
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "2",
+        "nomorKamar": "201",
         "posisiBed": "2"
       }
     },
@@ -12968,10 +12968,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "3",
-        "nomorKamar": "302",
-        "posisiBed": "3"
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "2",
+        "nomorKamar": "203",
+        "posisiBed": "1"
       }
     },
     {
@@ -13318,10 +13318,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "3",
-        "nomorKamar": "310",
-        "posisiBed": "2"
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "2",
+        "nomorKamar": "204",
+        "posisiBed": "1"
       }
     },
     {
@@ -13568,10 +13568,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "3",
-        "nomorKamar": "310",
-        "posisiBed": "1"
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "2",
+        "nomorKamar": "203",
+        "posisiBed": "2"
       }
     },
     {
@@ -13620,7 +13620,7 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel El Madina",
         "lantai": "3",
-        "nomorKamar": "321",
+        "nomorKamar": "314",
         "posisiBed": "1"
       }
     },
@@ -13770,7 +13770,7 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel El Madina",
         "lantai": "3",
-        "nomorKamar": "313",
+        "nomorKamar": "310",
         "posisiBed": "2"
       }
     },
@@ -13820,7 +13820,7 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel El Madina",
         "lantai": "3",
-        "nomorKamar": "313",
+        "nomorKamar": "310",
         "posisiBed": "3"
       }
     },
@@ -13870,7 +13870,7 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel El Madina",
         "lantai": "3",
-        "nomorKamar": "313",
+        "nomorKamar": "310",
         "posisiBed": "1"
       }
     },
@@ -14068,10 +14068,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel El Madina",
-        "lantai": "3",
-        "nomorKamar": "310",
-        "posisiBed": "3"
+        "namaHotel": "Hotel Jabal Uhud",
+        "lantai": "2",
+        "nomorKamar": "204",
+        "posisiBed": "2"
       }
     },
     {
@@ -14120,7 +14120,7 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel El Madina",
         "lantai": "3",
-        "nomorKamar": "314",
+        "nomorKamar": "302",
         "posisiBed": "2"
       }
     },
@@ -14470,7 +14470,7 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel El Madina",
         "lantai": "3",
-        "nomorKamar": "314",
+        "nomorKamar": "302",
         "posisiBed": "3"
       }
     },
@@ -14520,7 +14520,7 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel El Madina",
         "lantai": "3",
-        "nomorKamar": "314",
+        "nomorKamar": "302",
         "posisiBed": "1"
       }
     },
@@ -15320,7 +15320,7 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel El Madina",
         "lantai": "3",
-        "nomorKamar": "321",
+        "nomorKamar": "314",
         "posisiBed": "3"
       }
     },
@@ -15520,7 +15520,7 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel El Madina",
         "lantai": "3",
-        "nomorKamar": "321",
+        "nomorKamar": "314",
         "posisiBed": "2"
       }
     },
@@ -16970,7 +16970,7 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel El Madina",
         "lantai": "3",
-        "nomorKamar": "334",
+        "nomorKamar": "321",
         "posisiBed": "1"
       }
     },
@@ -17069,8 +17069,8 @@
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel El Madina",
-        "lantai": "3",
-        "nomorKamar": "334",
+        "lantai": "2",
+        "nomorKamar": "235",
         "posisiBed": "2"
       }
     },
@@ -17120,7 +17120,7 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel El Madina",
         "lantai": "3",
-        "nomorKamar": "334",
+        "nomorKamar": "321",
         "posisiBed": "3"
       }
     },
@@ -17868,9 +17868,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
+        "namaHotel": "Hotel El Madina",
         "lantai": "1",
-        "nomorKamar": "101",
+        "nomorKamar": "130",
         "posisiBed": "1"
       }
     },
@@ -17918,9 +17918,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
+        "namaHotel": "Hotel El Madina",
         "lantai": "1",
-        "nomorKamar": "102",
+        "nomorKamar": "131",
         "posisiBed": "2"
       }
     },
@@ -18168,9 +18168,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
+        "namaHotel": "Hotel El Madina",
         "lantai": "1",
-        "nomorKamar": "102",
+        "nomorKamar": "131",
         "posisiBed": "1"
       }
     },
@@ -18268,10 +18268,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
+        "namaHotel": "Hotel El Madina",
         "lantai": "1",
-        "nomorKamar": "107",
-        "posisiBed": "1"
+        "nomorKamar": "131",
+        "posisiBed": "3"
       }
     },
     {
@@ -18321,7 +18321,7 @@
         "namaHotel": "Hotel Jabal Uhud",
         "lantai": "1",
         "nomorKamar": "103",
-        "posisiBed": "2"
+        "posisiBed": "1"
       }
     },
     {
@@ -18368,10 +18368,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
+        "namaHotel": "Hotel El Madina",
         "lantai": "1",
-        "nomorKamar": "104",
-        "posisiBed": "2"
+        "nomorKamar": "137",
+        "posisiBed": "1"
       }
     },
     {
@@ -18418,10 +18418,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
+        "namaHotel": "Hotel El Madina",
         "lantai": "1",
-        "nomorKamar": "106",
-        "posisiBed": "1"
+        "nomorKamar": "140",
+        "posisiBed": "3"
       }
     },
     {
@@ -18468,10 +18468,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
+        "namaHotel": "Hotel El Madina",
         "lantai": "1",
-        "nomorKamar": "105",
-        "posisiBed": "2"
+        "nomorKamar": "137",
+        "posisiBed": "3"
       }
     },
     {
@@ -18518,9 +18518,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
+        "namaHotel": "Hotel El Madina",
         "lantai": "1",
-        "nomorKamar": "106",
+        "nomorKamar": "140",
         "posisiBed": "2"
       }
     },
@@ -18570,8 +18570,8 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel Jabal Uhud",
         "lantai": "1",
-        "nomorKamar": "101",
-        "posisiBed": "2"
+        "nomorKamar": "102",
+        "posisiBed": "1"
       }
     },
     {
@@ -18618,9 +18618,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
+        "namaHotel": "Hotel El Madina",
         "lantai": "1",
-        "nomorKamar": "105",
+        "nomorKamar": "140",
         "posisiBed": "1"
       }
     },
@@ -18670,8 +18670,8 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel Jabal Uhud",
         "lantai": "1",
-        "nomorKamar": "103",
-        "posisiBed": "1"
+        "nomorKamar": "102",
+        "posisiBed": "2"
       }
     },
     {
@@ -18718,10 +18718,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
+        "namaHotel": "Hotel El Madina",
         "lantai": "1",
-        "nomorKamar": "104",
-        "posisiBed": "1"
+        "nomorKamar": "137",
+        "posisiBed": "2"
       }
     },
     {
@@ -18768,10 +18768,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
-        "lantai": "1",
-        "nomorKamar": "110",
-        "posisiBed": "1"
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "208",
+        "posisiBed": "2"
       }
     },
     {
@@ -18818,10 +18818,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
-        "lantai": "1",
-        "nomorKamar": "112",
-        "posisiBed": "2"
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "212",
+        "posisiBed": "3"
       }
     },
     {
@@ -18868,9 +18868,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
-        "lantai": "1",
-        "nomorKamar": "111",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "212",
         "posisiBed": "2"
       }
     },
@@ -18918,10 +18918,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
-        "lantai": "1",
-        "nomorKamar": "110",
-        "posisiBed": "2"
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "208",
+        "posisiBed": "3"
       }
     },
     {
@@ -18969,8 +18969,8 @@
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel Jabal Uhud",
-        "lantai": "1",
-        "nomorKamar": "109",
+        "lantai": "2",
+        "nomorKamar": "202",
         "posisiBed": "2"
       }
     },
@@ -19018,10 +19018,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
-        "lantai": "1",
-        "nomorKamar": "107",
-        "posisiBed": "2"
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "208",
+        "posisiBed": "1"
       }
     },
     {
@@ -19069,8 +19069,8 @@
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel Jabal Uhud",
-        "lantai": "1",
-        "nomorKamar": "109",
+        "lantai": "2",
+        "nomorKamar": "202",
         "posisiBed": "1"
       }
     },
@@ -19120,7 +19120,7 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel Jabal Uhud",
         "lantai": "1",
-        "nomorKamar": "108",
+        "nomorKamar": "101",
         "posisiBed": "2"
       }
     },
@@ -19168,9 +19168,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
-        "lantai": "1",
-        "nomorKamar": "112",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "214",
         "posisiBed": "1"
       }
     },
@@ -19218,9 +19218,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
-        "lantai": "1",
-        "nomorKamar": "111",
+        "namaHotel": "Hotel El Madina",
+        "lantai": "2",
+        "nomorKamar": "212",
         "posisiBed": "1"
       }
     },
@@ -19270,7 +19270,7 @@
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel Jabal Uhud",
         "lantai": "1",
-        "nomorKamar": "108",
+        "nomorKamar": "101",
         "posisiBed": "1"
       }
     },
@@ -19318,9 +19318,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
+        "namaHotel": "Hotel El Madina",
         "lantai": "2",
-        "nomorKamar": "204",
+        "nomorKamar": "224",
         "posisiBed": "1"
       }
     },
@@ -19369,8 +19369,8 @@
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel Jabal Uhud",
-        "lantai": "2",
-        "nomorKamar": "201",
+        "lantai": "1",
+        "nomorKamar": "103",
         "posisiBed": "2"
       }
     },
@@ -19419,8 +19419,8 @@
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel Jabal Uhud",
-        "lantai": "2",
-        "nomorKamar": "201",
+        "lantai": "1",
+        "nomorKamar": "116",
         "posisiBed": "1"
       }
     },
@@ -19468,10 +19468,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
+        "namaHotel": "Hotel El Madina",
         "lantai": "2",
-        "nomorKamar": "205",
-        "posisiBed": "1"
+        "nomorKamar": "224",
+        "posisiBed": "3"
       }
     },
     {
@@ -19518,9 +19518,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
+        "namaHotel": "Hotel El Madina",
         "lantai": "2",
-        "nomorKamar": "203",
+        "nomorKamar": "214",
         "posisiBed": "2"
       }
     },
@@ -19568,10 +19568,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
+        "namaHotel": "Hotel El Madina",
         "lantai": "2",
-        "nomorKamar": "205",
-        "posisiBed": "2"
+        "nomorKamar": "236",
+        "posisiBed": "1"
       }
     },
     {
@@ -19618,9 +19618,9 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
+        "namaHotel": "Hotel El Madina",
         "lantai": "2",
-        "nomorKamar": "204",
+        "nomorKamar": "224",
         "posisiBed": "2"
       }
     },
@@ -19668,10 +19668,10 @@
       "accommodation": {
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
-        "namaHotel": "Hotel Jabal Uhud",
+        "namaHotel": "Hotel El Madina",
         "lantai": "2",
-        "nomorKamar": "203",
-        "posisiBed": "1"
+        "nomorKamar": "214",
+        "posisiBed": "3"
       }
     },
     {
@@ -19719,9 +19719,9 @@
         "source": "Alokasi kamar final Kloter 28",
         "locationType": "Asrama Haji",
         "namaHotel": "Hotel Jabal Uhud",
-        "lantai": "2",
-        "nomorKamar": "202",
-        "posisiBed": "1"
+        "lantai": "1",
+        "nomorKamar": "116",
+        "posisiBed": "2"
       }
     }
   ]
